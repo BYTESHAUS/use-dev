@@ -1,9 +1,8 @@
 # Task as a model, Promise as a value, and Input as a pipe 
 
-Many tailored and most well-known templates/paradigms, such as <samp><b>MVC</b></samp>, <samp><b>MVP</b></samp>, <samp><b>MVVM</b></samp>, <samp><b>MV<i>W</i></b></samp>[hatever], <samp><b>POCO</b></samp>, and custom solutions rest on [models](https://github.com/Kyriosity/read-write/blob/main/README%2B/software/design/parts/README+/app-model.md)<sup>⬅️</sup>. 
-Developers bind presentations, actions, and messages to values/properties/callbacks. 
+> ### Many tailored and most well-known templates/paradigms, such as <samp><b>MVC</b></samp>, <samp><b>MVP</b></samp>, <samp><b>MVVM</b></samp>, <samp><b>MV<i>W</i></b></samp>[hatever], <samp><b>POCO</b></samp>, and custom solutions rest on [models](https://github.com/Kyriosity/read-write/blob/main/README%2B/software/design/parts/README+/app-model.md)<sup>⬅️</sup>.<br />When developers bind presentations, actions, and messages to values/properties/callbacks. 
 
-This approach is productive for rough abstraction and logical division, but oversimple and static. 
+<h3 align="center">This approach is productive for rough abstraction and logical division, but oversimplistic and static.</h3>
 
 It treats models as snapped in a moment when every property is known and their statuses are final: 
 as values can be predictably (pre)set/reset, or coded in a time slot, imperceptible to users or insignificant for hardware/software clients. 
@@ -46,6 +45,14 @@ Not to forget that the statuses of properties and operations are asynchronous va
 \___________</details>
 
 # Part 2. Re-thinking the Model and presentation
+
+MERMAID for PYRAMID CHG
+
+## What promise is
+
+## What multitasking is
+
+(The same thread)
 
 **Let's cast async means to templates!**
 
