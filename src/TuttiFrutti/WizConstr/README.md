@@ -1,9 +1,13 @@
 ﻿# <samp>Code construction</samp> &nbsp; &mdash; &nbsp; Wizard blocks
 
-> **This project partially answers the [builder challenge](../../../README+/techniques/README+/builders/README.md).**
+> **The theory of this project is covered in [builder challenge](../../../README+/techniques/README+/builders/README.md).**
+
+
+MAKE THREE PRYAMIDES OR MERMAID DIAGRAM : THEORY - DOCU - TESTS - PRJ 
+
 
 > [!IMPORTANT]
->  #### This writing is now <samp>DRAFT</samp> **but not** <samp>DEBRIS</samp> &thinsp;&mdash;&thinsp; its project is experimental but working (already tested and applied).
+>  #### This writing is now <samp>DRAFT</samp> **but not** <samp>DEBRIS</samp> &thinsp;&mdash;&thinsp; its project implementation is experimental but working (already tested and applied).
 > Nevertheless, this project must be a trial and a collector of ideas for the real production version.\
 > First, its **title** asks for refiтement. Other pending ideas are marked below with 💡.\
 > &nbsp;
