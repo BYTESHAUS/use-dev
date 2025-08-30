@@ -1,8 +1,14 @@
 # `Programmatic Tests` &nbsp;&mdash;&nbsp; Syntax
 
+There are many flavors of test
+
+AAA - pretty immature
+
+NAMES of METHODS!
+
+Shorter syntax speaks for itself
+
 ASSERT as filler word.
-
-
 
 There are apparent items to estimate:
 
@@ -17,4 +23,5 @@ testing invalid calls
 
 must be more elaborate
 
+___________\
 🔚 .. 2023-2025 ..
