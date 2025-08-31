@@ -14,4 +14,31 @@ public class Roman
         public const ulong D = 500;
         public const ulong M = 1_000;
     }
+
+    public static bool TryPresent<N>(N value, out string result) where N : INumber<N> {
+        const string CantBe_ = "Roman number can't be ";
+        var success = false;
+
+        if (N.IsNegative(value))
+            result = $"{CantBe_}negative";
+        else if (N.Zero == value)
+            result = $"{CantBe_}zero";
+        else {
+            var num = ulong.CreateChecked(value);
+            if (MaxAsDecimal < num)
+                result = $"{CantBe_}bigger than {MaxAsDecimal}";
+            else {
+                result = Present(num);
+                success = true;
+            }
+        }
+        return success;
+    }
+
+    private static string Present(ulong num) {
+        var divider = Units.V;
+        var div = num / divider;
+
+
+    }
 }
