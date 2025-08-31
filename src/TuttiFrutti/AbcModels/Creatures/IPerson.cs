@@ -1,5 +1,4 @@
-﻿using AbcChrono.Timescales.Models;
-using AbcModels.Creatures.Names;
+﻿using AbcModels.Creatures.Names;
 
 namespace AbcModels.Creatures;
 
