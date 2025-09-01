@@ -1,7 +1,7 @@
 <table><tr valign="top"><td>
 <!--      O R G    --!>
 ◾ <b>O&thinsp;R&thinsp;G</b><br />
-|&thinsp;- <a title="&nbsp;&lArr;read-write article" href="https://github.com/bytesbauhaus/read-write/blob/main/README+/.net/README+/cs-hints.md">&thinsp;<b>C#</b>&nbsp;&nbsp;h&thinsp;i&thinsp;n&thinsp;t&thinsp;s&thinsp;</a><br />
+|&thinsp;- <a title="&nbsp;&lArr;read-write article" href="https://github.com/byteshaus/read-write/blob/main/README+/.net/README+/cs-hints.md">&thinsp;<b>C#</b>&nbsp;&nbsp;h&thinsp;i&thinsp;n&thinsp;t&thinsp;s&thinsp;</a><br />
             <!-- F R A M E S  /  R U L E S --!>
 <details><summary><ins>&thinsp;<b>F&thinsp;r&thinsp;a&thinsp;m&thinsp;e&thinsp;s</ins>&thinsp;,<ins>&nbsp;&nbsp;g&thinsp;u&thinsp;i&thinsp;d&thinsp;e&thinsp;l&thinsp;i&thinsp;n&thinsp;e&thinsp;s</b>&thinsp;</ins></summary>
 |&thinsp;-&thinsp;-&nbsp;📖&thinsp;<a href="../README+/frames"><i>&thinsp;I&thinsp;n&thinsp;t&thinsp;r&thinsp;o&thinsp;</i></a><br />
@@ -92,7 +92,7 @@
     </td>
 </tr><tr></tr><tr align="center">
     <td>                                                  <!--    R E A D - W R I T E     --!>
-      <a href="https://github.com/bytesbauhaus/read-write/blob/main/README+/pencraft/README+/essays/README.md"><img src="../README+/_rsc/img/_nav/tiles/read-write_200px.jpg" alt="&nbsp;READ-WRITE repo" title="&nbsp;Collection in the read-write repository"/>
+      <a href="https://github.com/byteshaus/read-write/blob/main/README+/pencraft/README+/essays/README.md"><img src="../README+/_rsc/img/_nav/tiles/read-write_200px.jpg" alt="&nbsp;READ-WRITE repo" title="&nbsp;Collection in the read-write repository"/>
        <br />⬅️&thinsp;<b>E&thinsp;S&thinsp;S&thinsp;A&thinsp;Y&thinsp;S</b></a>
     </td>
   </tr></table>
