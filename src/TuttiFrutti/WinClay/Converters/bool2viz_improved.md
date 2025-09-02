@@ -1,11 +1,11 @@
-# <code>W&thinsp;P&thinsp;F</code> &nbsp;&mdash;&nbsp; improved💫 &nbsp;&mdash;&nbsp; `Boolean-to-Visibility` converter
+# <code>W&thinsp;P&thinsp;F</code> <sup>improved💫</sup> &nbsp;<samp>&mdash;</samp>&nbsp; `Boolean-to-Visibility` converter
 
 Imagine :high_brightness:Lights:high_brightness: elements on the *View* that are switched by `bool Voltage` in its *ViewModel*. That's appealing to couple them with the .NET native [`BooleanToVisibilityConverter`](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.booleantovisibilityconverter).
 
 Now suppose, :flashlight:Emergency lights:flashlight: will be switched on when the _Voltage_ is off. To spare either a `VoltageOff` property with logic, or a counterpart `InvertedBooleanToVisibilityConverter`, or elaborated [`Style.Triggers`](https://docs.microsoft.com/en-us/dotnet/api/system.windows.style.triggers), let's sketch:
 
 <details>
-<summary><ins>&nbsp;Invertible BooleanToVisibility converter (<i>beta-version</i>):&nbsp;</ins></summary>
+<summary><ins>&nbsp;👉🏿&nbsp;Invertible BooleanToVisibility converter (<i>beta-version</i>):&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp
@@ -55,4 +55,4 @@ The above draft is fairly acceptable, but let's hone it once and for good, to an
 |&thinsp;-&thinsp;- [BoolVsVizConverter.cs](../../../,./../../src/TuttiFrutti/WinClay/Converters/BoolVsVizConverter.cs) 
 
 \___________\
-🔚 .. voilà ..
+🔚 .. voilà ..  2025 ..
