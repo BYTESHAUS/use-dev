@@ -12,7 +12,7 @@ ASSERT as filler word.
 
 There are apparent items to estimate:
 
-+ bulky and restrained syntax (and it's not [DAMP](https://github.com/Kyriosity/read-write/blob/main/README+/software/tests/asQA/README+/tests-damp_vs_dry.md)),
++ bulky and restrained syntax (and it's not [DAMP](https://github.com/BYTESHAUS/read-write/blob/main/README+/software/tests/asQA/README+/tests-damp_vs_dry.md)),
 + pending bugs,
 + missing calls and features.
 

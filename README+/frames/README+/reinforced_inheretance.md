@@ -5,7 +5,7 @@
 </td></tr></table>
 
 <table><tr valign="top">
-<td width="40%"><picture><img src="https://github.com/Kyriosity/read-write/blob/main/README%2B/_rsc/_img/photo/misc/rebar_closeup.jpg" alt="&nbsp;rebar closeup" title="&nbsp;Image credit: Wiki Commons&#013;&#010;(for illustration purposes only)" /></picture></td><td>
+<td width="40%"><picture><img src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/photo/misc/rebar_closeup.jpg" alt="&nbsp;rebar closeup" title="&nbsp;Image credit: Wiki Commons&#013;&#010;(for illustration purposes only)" /></picture></td><td>
  <p><ins>&nbsp;Look at the following approach:&nbsp;</ins></p>
   <ol>
   <li><code>Public</code> methods are non-<code>abstract</code> and limited to the <b>logic flow</b> not delving into implementation details.<br />(Call operations, branch, get and pass values, handle and raise exceptions)</li>

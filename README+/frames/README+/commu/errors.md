@@ -15,7 +15,7 @@ There are languages native<sup>🌩️</sup> and customs exceptions/errors, whic
 They can "**stub**" calls or serve as bookmarks for work-in-progress, and other developers will accept them as a replacement for crude `//ToDo`_s_ or as an excuse for logic incompleteness/coding litter. 
 
 <table><tr valign="top">
-  <td width="30%"><picture><img src="https://github.com/Kyriosity/read-write/blob/main/README%2B/_rsc/_img/snap/screen/MsgBox-NotImplemented-sample.jpg" 
+  <td width="30%"><picture><img src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/snap/screen/MsgBox-NotImplemented-sample.jpg" 
        alt="&nbsp;Messagebox with not implemented error" title="&nbsp;Screen capture from Anonymous.&#013;&#010;(Product title under the blur of charity.)" /></picture></td>
 <td>
 <p>What's decent for developers is not for releases:</p> 

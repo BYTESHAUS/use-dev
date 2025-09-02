@@ -2,7 +2,7 @@
 
 **Reading:**\
 |&thinsp;Applicatoin models\
-⬅️ [Theoretical tribute](https://github.com/Kyriosity/read-write/tree/main/README+/software/design/samples#Stills)
+⬅️ [Theoretical tribute](https://github.com/BYTESHAUS/read-write/tree/main/README+/software/design/samples#Stills)
 
 🚧 PLACEHOLDER 🚧
 // TO BE WRITTEN

@@ -20,7 +20,7 @@ internal class Proc<T>
         // ⚠️ 
         // This is a dirty draft implementation for demo only
         // ⚒️ The subject of developing as Task with "circuitry"
-        // https://github.com/Kyriosity/use-dev/blob/main/README+/techniques/README+/circuitry/README.md
+        // https://github.com/BYTESHAUS/use-dev/blob/main/README+/techniques/README+/circuitry/README.md
         // when - passing test project found.
         // ⚠️ 
         if (Semaphore.Keyed && Semaphore.Valued) {

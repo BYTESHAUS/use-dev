@@ -1,6 +1,6 @@
 # Task as a model, Promise as a value, and Input as a pipe 
 
-> ### Many tailored and most well-known templates/paradigms, such as <samp><b>MVC</b></samp>, <samp><b>MVP</b></samp>, <samp><b>MVVM</b></samp>, <samp><b>MV<i>W</i></b></samp>[hatever], <samp><b>POCO</b></samp>, and custom solutions rest on [models](https://github.com/Kyriosity/read-write/blob/main/README%2B/software/design/parts/README+/app-model.md)<sup>⬅️</sup>.<br />When developers bind presentations, actions, and messages to values/properties/callbacks. 
+> ### Many tailored and most well-known templates/paradigms, such as <samp><b>MVC</b></samp>, <samp><b>MVP</b></samp>, <samp><b>MVVM</b></samp>, <samp><b>MV<i>W</i></b></samp>[hatever], <samp><b>POCO</b></samp>, and custom solutions rest on [models](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/design/parts/README+/app-model.md)<sup>⬅️</sup>.<br />When developers bind presentations, actions, and messages to values/properties/callbacks. 
 
 <h3 align="center">This approach is productive for rough abstraction and logical division, but oversimplistic and static.</h3>
 

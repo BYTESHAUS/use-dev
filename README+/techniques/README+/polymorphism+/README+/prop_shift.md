@@ -10,7 +10,7 @@ Such customization traditionally involves classes and methods, while properties 
 
 </td><td>
  <picture><img alt="&nbsp;Shape shifter pic" title="The Catman of Paris as&#013;&#010;a shape shifter species" 
- src="https://github.com/Kyriosity/read-write/blob/main/README%2B/_rsc/_img/snap/movies/1946.TheCatmanOfParis-poster_frag.jpg" /></picture></td>
+ src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/snap/movies/1946.TheCatmanOfParis-poster_frag.jpg" /></picture></td>
 </td></tr></table>
 
 ```mermaid
@@ -103,7 +103,7 @@ interface ISBN_13 : ISBN { ... }
 interface ISBN_UK : ISBN { ... }
 ```
 
-+ [**IBook**](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcModels/Library/IBook.cs) written in  [AbcModels](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcModels/) shows parametrization with casting parameters.
++ [**IBook**](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/AbcModels/Library/IBook.cs) written in  [AbcModels](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/AbcModels/) shows parametrization with casting parameters.
 + This technique was also utilized in more practical and mature [AbcChrono](../../../../parts/AbcChrono).
 
 ## Read-write rAg<samp>G</samp>e<samp>d</samp> properties (R/W-Properties)
@@ -117,7 +117,7 @@ And they all may not rest on the single inheritance axis as these:
 * edit statuses, digest, last printed and reviews: (`get` / `set`)
 * listing: all fields are for viewing (`get` only)
 
-Sample implementation can or shall be based on the previous `<T>`-technique as in [Annotated R/W](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcModels/Bits/Reviewed/IAnnotated.cs)
+Sample implementation can or shall be based on the previous `<T>`-technique as in [Annotated R/W](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/AbcModels/Bits/Reviewed/IAnnotated.cs)
 
 ## Implicit overload of the <samp>assignment</samp> operator
 

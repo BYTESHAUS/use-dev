@@ -10,7 +10,7 @@ Let's take a sports break to compare and illustrate:
 &nbsp; &nbsp; 🎯 The picture of an archery target must loosen such evaluation:
 
 <table><tr valign="top"><td>
-<picture><img alt="&nbsp; Archery target with arrors" src="https://github.com/Kyriosity/read-write/blob/main/README%2B/_rsc/_img/illus/_sports/archery_pixabay.com_christianplass.png" /></picture>
+<picture><img alt="&nbsp; Archery target with arrors" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/illus/_sports/archery_pixabay.com_christianplass.png" /></picture>
 </td><td>
 
 ### Except for the _golden 10_<sup>✔️</sup> and _out_<sup>❌</sup>, everything else is relative.

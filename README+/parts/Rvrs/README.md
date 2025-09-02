@@ -9,7 +9,7 @@ The ability to __undo__ and then, likely, __redo__ actions is constituent and mu
 Let's knock ourselves out to implement _reversible_ in a project, deserving just two words of others:&nbsp;`using Reversible;`.
 
 Next snippets of C#, degraded for emphasis, feature some basics:
-<details><summary>:chess_pawn:&nbsp;<ins>&thinsp;<samp>Model a popular subject</samp>&thinsp;</ins>&nbsp;(<a href="https://github.com/Kyriosity/read-write/tree/main/README+/software/design/samples#chess">chess</a>)</summary>
+<details><summary>:chess_pawn:&nbsp;<ins>&thinsp;<samp>Model a popular subject</samp>&thinsp;</ins>&nbsp;(<a href="https://github.com/BYTESHAUS/read-write/tree/main/README+/software/design/samples#chess">chess</a>)</summary>
 
 ```csharp
 class Chess<T>

@@ -8,7 +8,7 @@ Only the theoretical overcomplexity of being an uncompromising language feature 
 
 <blockquote align="center"><ins>&thinsp;«&thinsp;<b>BUILDERS</b>&thinsp;»&thinsp;</ins> are both <samp>GRAPH COMPLEXITY</samp> and <samp>EXPONENTIAL <b>DISASTER</samp></b>&thinsp; in less or strongly-typed languages.</blockquote>
 
-<table><tr valign="top"><td width="40%"><picture><img alt="&nbsp;Construction crane collapse" src="https://github.com/Kyriosity/read-write/blob/main/README%2B/_rsc/_img/illus/crane_collapse-CA-2024(globalnews.ca).jpg" /></picture></td><td>
+<table><tr valign="top"><td width="40%"><picture><img alt="&nbsp;Construction crane collapse" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/illus/crane_collapse-CA-2024(globalnews.ca).jpg" /></picture></td><td>
 <div>We talk about multi-variant branching menus with intuitive context-sensitive options, like:</div>
  <p align="center"><code>var stack = UndoRedo.Buffer(3).Depth(5).Zip().Of("start");</code></p>
 <div>What's often sold as builders is a counter-intuitive syntax tape of setters and operations,</div>
@@ -26,7 +26,7 @@ First of all, creating unlimited context constructors is possible with
 
 However, are there custom applications for which it wouldn't be a "mega-engineering" and overkill? Let's consider other possibilities:
 
-<table><tr><td><picture><img alt="&nbsp;🚧  W&thinsp;O&thinsp;R&thinsp;K  i&thinsp;n  P&thinsp;R&thinsp;O&thinsp;G&thinsp;R&thinsp;E&thinsp;S&thinsp;S&thinsp; 🐝" src="https://github.com/Kyriosity/read-write/blob/main/README%2B/_rsc/_img/_nav/tiles/_WorkInProgress_200px.jpg" /></picture></td><td>
+<table><tr><td><picture><img alt="&nbsp;🚧  W&thinsp;O&thinsp;R&thinsp;K  i&thinsp;n  P&thinsp;R&thinsp;O&thinsp;G&thinsp;R&thinsp;E&thinsp;S&thinsp;S&thinsp; 🐝" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/_nav/tiles/_WorkInProgress_200px.jpg" /></picture></td><td>
 <p>GENERIC PARAMETRIZAION</p>
 <p>PARAMETER OBJECT</p>
 <p>DYNAMIC FILL OUT</p>

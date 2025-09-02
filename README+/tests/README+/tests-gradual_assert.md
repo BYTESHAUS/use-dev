@@ -1,7 +1,7 @@
 # Software Tests &nbsp;<samp>&mdash;</samp>&nbsp; _Loose Assert_ &nbsp;<samp>&mdash;</samp>&nbsp; Graduality
 
 <table><tr valign="top"><td width="40%"><picture><img alt="&nbsp;Passed🟩: 388, failed🟥: 165. Not great, not terrible." 
- src="https://github.com/Kyriosity/read-write/blob/main/README%2B/_rsc/_img/memes/Tests-NotGreatNotTerrible.jpg" /></picture>
+ src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/memes/Tests-NotGreatNotTerrible.jpg" /></picture>
  </td><td>
 <h4>Despite our preferences for programming languages and frameworks, we are used to categorical feedback from tests:</h4>
 <p align="center">either 🟢<b>success</b> or 🔴<b>fail</b>.</p>
