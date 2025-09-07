@@ -12,10 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="NUnit3TestAdapter" Version="5.1.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\AbcStoppers\AbcStoppers.csproj" />
   </ItemGroup>
 

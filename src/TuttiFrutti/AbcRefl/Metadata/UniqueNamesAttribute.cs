@@ -8,7 +8,7 @@ public abstract class UniqueNamesAttribute : Attribute
         if (emptyCount is not 0)
             throw new ArgumentException($"Names empty/supplied: {emptyCount}/{names.Count()}");
 
-        // ToDesign: wording utilites and multi-Argument with reporting
+        // ToDesign: wording utilities and multi-Argument with reporting
         // Argument.ThrowIfAny(Wording.NoLeadTrail, Wording.Normal, aliases);
 
         //if (names.Are/Not.Unique<IEqualityComparer>) {

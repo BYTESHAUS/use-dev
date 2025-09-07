@@ -9,10 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NUnit3TestAdapter" Version="5.1.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\AbcStoppers\AbcStoppers.csproj" />
     <ProjectReference Include="..\N-Val\N-Val.csproj" />
   </ItemGroup>
