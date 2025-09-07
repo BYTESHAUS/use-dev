@@ -1,6 +1,6 @@
-<h1 align="center">Wizards&thinsp;/&thinsp;Builders&thinsp;/&thinsp;Factories &nbsp;&mdash;&nbsp; Challenge (hard trail)</h1>
+<h1 align="center">Wizards&thinsp;/&thinsp;Builders&thinsp;/&thinsp;Factories &nbsp;&mdash;&nbsp; <i>Discussion</i></h1>
 
-> ### True **`builders`/`wizards`** are not only for chained calls, coding convenience, and mistake-proof input. And not only far advanced Intellisense but ...
+> ### Genuine **`builders`/`wizards`** are not only for chained calls, coding convenience, and mistake-proof input. And not only far advanced Intellisense but ...
 > <h3 align="center">Scripting meta-language as an alternative design paradigm (not simple patterns).</h3>
 > &nbsp;
 
