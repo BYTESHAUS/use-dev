@@ -1,4 +1,4 @@
-> ### Enough reasons speak for a new testing doctrine and a deep rework of test frameworks.<br />This is an enormous and great [<samp>CHALLENGE</samp>](https://github.com/byteshaus/read-write/tree/main/README%2B/software/tests/README%2B/theory), and to put it off, let's first mend what's reasonable.
+> ### Enough reasons speak for a new testing doctrine and a deep rework of test frameworks.<br />This is a serious and huge [<samp>CHALLENGE</samp>](https://github.com/byteshaus/read-write/tree/main/README%2B/software/tests/README%2B/theory), and to put it off, let's first mend what's reasonable.
 
 <table><tr valign="top"><td>
 <h3 align="center"><picture><img alt="&nbsp; TEST PATCH/FRAME WORK" src="../_rsc/img/labels/TestPatchFrameWork_h50px.jpg" /></picture></h1>
@@ -33,7 +33,7 @@
 > 
 > * _Unit Tests_ are only a slice of the test pyramid, but technically they may serve all other types and layers.<sup>🙋</sup>
 
-<sup>🙋</sup> <samp>Have you ever seen IDEs with <kbd>New &rarr; Integration test</kbd>?</samp>
+<sup>🙋</sup> <samp>Have you ever seen IDEs with <kbd>New &rarr; Integration test</kbd></samp>&thinsp;**?**
 
 </td></tr></table>
 
