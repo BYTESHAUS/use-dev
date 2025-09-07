@@ -1,19 +1,12 @@
-﻿namespace AbcDataOps.Num;
+﻿using Abc.Num.Groups;
+using Abc.Num.Roman;
+
+namespace AbcDataOps.Num;
 public class Roman
 {
     public const string Max = "MMMCMXLIX";
     public const ulong MaxAsDecimal = 3_999;
     public const string Pangram = "MCDXLIV";
-    public class Units
-    {
-        public const ulong I = 1;
-        public const ulong V = 5;
-        public const ulong X = 10;
-        public const ulong L = 50;
-        public const ulong C = 100;
-        public const ulong D = 500;
-        public const ulong M = 1_000;
-    }
 
     public static bool TryPresent<N>(N value, out string result) where N : INumber<N> {
         const string CantBe_ = "Roman number can't be ";
@@ -28,17 +21,37 @@ public class Roman
             if (MaxAsDecimal < num)
                 result = $"{CantBe_}bigger than {MaxAsDecimal}";
             else {
-                result = Present(num);
+                result = "NotImplemented"; // Present(OneToNine.One);
                 success = true;
             }
         }
         return success;
     }
 
-    private static string Present(ulong num) {
-        var divider = Units.V;
-        var div = num / divider;
+    public static string Present(ZeroToNine num, Digits unus, Digits quinque, Digits decem) {
+        switch (num) {
+            case ZeroToNine.One:
+                return string.Empty;
+            case ZeroToNine.Two:
+                return $"{unus}{unus}";
+            case ZeroToNine.Three:
+                return $"{unus}{unus}{unus}";
+            case ZeroToNine.Four:
+                return $"{unus}{quinque}";
+            case ZeroToNine.Five:
+                return $"{quinque}";
+            case ZeroToNine.Six:
+                return $"{quinque}{unus}";
+            case ZeroToNine.Seven:
+                return $"{quinque}{unus}{unus}";
+            case ZeroToNine.Eight:
+                return $"{quinque}{unus}{unus}{unus}";
+            case ZeroToNine.Nine:
+                return $"{unus}{decem}";
+        }
 
+        throw new InvalidOperationException($"unexpected value: {num}");
 
     }
 }
+
