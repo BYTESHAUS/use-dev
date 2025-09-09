@@ -1,6 +1,6 @@
 # Calls legally running on `null`
 
-**Expected:** this snippet to be dumb and dooned to throw `NullReference`&nbsp;**.**&thinsp;**.**&thinsp;**.**
+This snippet must be a blunder and doomed to throw `NullReference`&nbsp;**.**&thinsp;**.**&thinsp;**.**
 
 ```csharp
 var bar = new Bar();
@@ -14,9 +14,7 @@ Console.WriteLine("now you see me");
 
 ## Use or abuse?
 
-Continuation on `null` may look worse than [its billion-dollar mistake](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/pencraft/README%2B/essays/README+/bool/NullRefError.md).  
-
- ... **unless** the semantics and job _after dot_ assume this `null`:
+Continuation on `null` may look worse than [its billion-dollar mistake](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/pencraft/README%2B/essays/README+/bool/NullRefError.md) ... **unless** the semantics and job _after dot_ assume this `null`:
 
 ```csharp
 void JustDemo(string? title, N? id, Book? book) where N : INumber<N> {
@@ -34,8 +32,8 @@ void JustDemo(string? title, N? id, Book? book) where N : INumber<N> {
 
 ### References of use
 
-+ [<samp>⭐<b>ISie</b>⭐</samp>&nbsp; extensions](../../parts/_ext/ISie/README.md) checks run on nullable things.
-+ yiur similar solutions in any languages
++ [<samp>⭐<b>ISie</b>⭐</samp>&nbsp; extensions](../../parts/_ext/ISie/README.md) checks run on nullable things,
++ your features in any languages.
 
 ___________\
 🔚 .. 2024-2025 ..
