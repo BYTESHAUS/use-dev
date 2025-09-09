@@ -1,6 +1,6 @@
 <h1 align="center">⭐&thinsp;I&thinsp;S&thinsp;i&thinsp;e&thinsp;⭐ &nbsp;&mdash;&nbsp; <code>.Is.</code><sup>➕</sup> <samp>extensions</samp></h1>
 
-<table align="center"><tr valign="top"><td><picture><img src="../../../_rsc/img/ISie.jpg" alt="&nbsp;&nbsp;I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture></td><td>
+<table align="center"><tr valign="top"><td><picture><img src="../../../_rsc/img/ISie.png" alt="&nbsp; I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture></td><td>
 
 **The crossover of the next two `C#` discoveries**
 
@@ -9,8 +9,8 @@
 <div>suggested me to shortcut ubiquitous </div>
   <div align="center"><code>string.IsNullOrWhiteSpace(<i>abracadabra</i>)</code><br />into<br /><code><i><b>abracadabra</b></i>.IsNullOrWhitespace</code>,<br />
   which finally became<br /><code><i><b>abracadabra</b></i>.Is.NullEmptyOr.Whitespace</code>&thinsp;.</div>
-</td><td><picture><img src="../../../_rsc/img/_nav/tiles/ISieCircuitry_200px.jpg" alt="&nbsp;&nbsp;I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture><br />
-  <div align="center"><samp>uses circuitry</samp></div></td></tr></table>
+</td><td><picture><img src="../../../_rsc/img/_nav/tiles/ISieCircuitry_200px.png" alt="&nbsp;&nbsp;I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture><br />
+  <div align="center"><samp>use circuitry</samp></div></td></tr></table>
 
 <div align="right"><sup>⏳</sup>&thinsp;<sub>This ever-pending feature must be C#13 "what's new",<br />but finally appeared only as a C#14 preview (April/2025).</sub></div>
 
