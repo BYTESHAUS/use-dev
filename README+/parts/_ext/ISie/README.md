@@ -14,14 +14,15 @@
 
 <div align="right"><sup>⏳</sup>&thinsp;<sub>This ever-pending feature must be C#13 "what's new",<br />but finally appeared only as a C#14 preview (April/2025).</sub></div>
 
-### This isn't an idea to announce unless together with:
+### This wasn't a revolutionary hack to announce won't it be a groundstone idea for:
 
 + Reconsideration of all available `Is`, `To`, `Equal`, ... methods of built-in types.
 + **Better syntax**: shorter, intuitive, and grouped,
 + **New functionality** beyond shortcuts (theoretically to port them to other languages),
-+ **.&thinsp;.&thinsp;.** but ...
++ DOMAIM SPEAKING CODE,
++ **.&thinsp;.&thinsp;. more goodies, ** but ...
 
-<h3 align="center">... let's not beat around the bush and show what's ready:</h3>
+<h3 align="center">... let's not beat around the bush and first show what's pret-a-porter:</h3>
 
 <table align="center"><tr></tr><tr><td>🧪<b>By guidance</b> (recommended)</td><td>⚡<b>Direct</b> (if you want)</td></tr>
   <tr valign="top"><td>
