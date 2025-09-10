@@ -1,6 +1,6 @@
-<h1 align="center">⭐&thinsp;I&thinsp;S&thinsp;i&thinsp;e&thinsp;⭐ &nbsp; &mdash; &nbsp; <code>Is.</code><sup>➕</sup> <samp>extensions</samp></h1>
+<h1 align="center">⭐&thinsp;I&thinsp;S&thinsp;i&thinsp;e&thinsp;⭐ &nbsp;&mdash;&nbsp; <code>.Is.</code><sup>➕</sup> <samp>extensions</samp></h1>
 
-<table align="center"><tr valign="top"><td><picture><img src="../../../_rsc/img/ISie.jpg" alt="&nbsp;&nbsp;I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture></td><td>
+<table align="center"><tr valign="top"><td><picture><img src="../../../_rsc/img/ISie.png" alt="&nbsp; I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture></td><td>
 
 **The crossover of the next two `C#` discoveries**
 
@@ -9,19 +9,20 @@
 <div>suggested me to shortcut ubiquitous </div>
   <div align="center"><code>string.IsNullOrWhiteSpace(<i>abracadabra</i>)</code><br />into<br /><code><i><b>abracadabra</b></i>.IsNullOrWhitespace</code>,<br />
   which finally became<br /><code><i><b>abracadabra</b></i>.Is.NullEmptyOr.Whitespace</code>&thinsp;.</div>
-</td><td><picture><img src="../../../_rsc/img/_nav/tiles/ISieCircuitry_200px.jpg" alt="&nbsp;&nbsp;I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture><br />
-  <div align="center"><samp>uses circuitry</samp></div></td></tr></table>
+</td><td><picture><img src="../../../_rsc/img/_nav/tiles/ISieCircuitry_200px.png" alt="&nbsp;&nbsp;I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture><br />
+  <div align="center"><samp>use circuitry</samp></div></td></tr></table>
 
 <div align="right"><sup>⏳</sup>&thinsp;<sub>This ever-pending feature must be C#13 "what's new",<br />but finally appeared only as a C#14 preview (April/2025).</sub></div>
 
-### This isn't an idea to announce unless together with:
+#### This wasn't a revolutionary hack to announce, won't it be a groundstone idea for:
 
-+ Reconsideration of all available `Is`, `To`, `Equal`, ... methods of built-in types.
++ Reconsideration of all available **`Is`**, **`To`**, **`Equal`**, ... methods of built-in types.
 + **Better syntax**: shorter, intuitive, and grouped,
 + **New functionality** beyond shortcuts (theoretically to port them to other languages),
-+ **.&thinsp;.&thinsp;.** but ...
++ **Domain**-telling code,
++ more goodies, ** but ...
 
-<h3 align="center">... let's not beat around the bush and show what's ready:</h3>
+<h3 align="center">... let's not beat around the bush and first show what's pret-a-porter:</h3>
 
 <table align="center"><tr></tr><tr><td>🧪<b>By guidance</b> (recommended)</td><td>⚡<b>Direct</b> (if you want)</td></tr>
   <tr valign="top"><td>

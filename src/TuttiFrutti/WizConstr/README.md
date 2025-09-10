@@ -1,6 +1,6 @@
 ﻿# <samp>Code construction</samp> &nbsp; &mdash; &nbsp; Wizard blocks
 
-> **The theory of this project is covered in [builder challenge](../../../README+/techniques/README+/builders/README.md).**
+> **The challenge of this project is covered in ["constructive" discussion](../../../README+/techniques/README+/builders/README.md).**
 
 
 MAKE THREE PRYAMIDES OR MERMAID DIAGRAM : THEORY - DOCU - TESTS - PRJ 
