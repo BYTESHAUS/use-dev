@@ -20,7 +20,7 @@
 + **Better syntax**: shorter, intuitive, and grouped,
 + **New functionality** beyond shortcuts (theoretically to port them to other languages),
 + **Domain**-telling code,
-+ more goodies, ** but ...
++ more goodies, **but** ...
 
 <h3 align="center">... let's not beat around the bush and first show what's pret-a-porter:</h3>
 
