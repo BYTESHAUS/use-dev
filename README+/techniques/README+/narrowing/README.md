@@ -1,4 +1,4 @@
-# Code facts &nbsp;&mdash;&nbsp; _Narrowing_
+# Code facts &nbsp;&mdash;&nbsp; _Subtyping_ and _Narrowing_
 
 Constraints &nbsp;&mdash;&nbsp; Circumvention
 
@@ -18,5 +18,6 @@ Guards: pro - contra
 
 Attributes, enums, lambas
 
+___________\
 🔚 .. 2025 ..
 
