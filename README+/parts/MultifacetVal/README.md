@@ -5,18 +5,18 @@
 
  You may find the folklore right above dull, but not pointless.
  
-> &nbsp;\
-> **Math deals with <mark>abstract numbers</mark>** (_numerus numerans_), **and computers operate on pure digits, but not software developers and users.\
-> \
- The "inputs" and "outputs" of software are anchored to the material world, where numbers can be <mark>concrete</mark>** (_numerus numeratus_) **or <mark>denominated</mark>** (_numerus denominatus_).\
-> &nbsp;
+> 🧮 **Math deals with <mark>abstract numbers</mark>** (_numerus numerans_), **and computers operate on pure digits, but not software developers and users.\
+🏬 The "inputs" and "outputs" of software are anchored to the material world, where numbers can be <mark>concrete</mark>** (_numerus numeratus_) **or <mark>denominated</mark>** (_numerus denominatus_).
  
 Verbal, documented, and **programmatic** communications frequently rely on titles and contexts and omit tags/units. Shall a context wane - values may "roam" between denominators:
 
 <details><summary>&nbsp;<ins>&nbsp; <b>Temperature <code>2.7</code> is</b>&thinsp;</ins><b> .&nbsp;.&nbsp;.</b></summary>
-<ins>the baseline of the Universe space in <i>Kelvin</i></ins> but in  <i>Celsius</i> or <i>Fahrenheit</i> &nbsp;&mdash;&nbsp; a casual weather for many non-astronauts.<sup>🌡️</sup>
-<br /><br />
-            
+<table><tr></tr><tr><td>
+ 
+<ins>the baseline of the Universe space in <i>Kelvin</i></ins> but in  <i>Celsius</i> or <i>Fahrenheit</i> &nbsp;&mdash;&nbsp; a casual weather for many non-astronauts.<sup>🌡️</sup><br />
+
+Other confusions:
+
 - Earth's closest approach to Mars is ca. `33'900'000` _miles_ but it seems credible in _kilometers_ and _nmi_.
 - A child's age of `7` can imply months and years.
 - The weekly payment of `1'000` dollars has a national hue: Australian, Canadian, Jamaican, and twenty more.
@@ -25,7 +25,7 @@ Verbal, documented, and **programmatic** communications frequently rely on title
 
 &nbsp; &nbsp;  &nbsp; &nbsp; <sup>🌡️</sup> <samp>`-40°` where **C** and **F** intercept is even more flawed &thinsp;&mdash;&thinsp; is a case required?</samp>
 
-</details>
+</td></tr></table></details>
 
 Concurrent measurement systems can make matters even worse, e.g., flight height can be communicated in <i>feet</i> while cockpit variometers will show <i>meters</i>.
 
@@ -116,8 +116,7 @@ Conversion here is trivial, and <sub><picture><img alt="&nbsp;f&thinsp;u&thinsp;
 
 <b>... to stake out a repository for CV.</b> But it's not a solution
 
-❗The contractor team of SmallForces knew that the thrust must be communicated in _newtons_. 
-They took the hardware reported value (the engineers there traditionally operated in the "house" system) and honestly submitted it as _N_. 
+>❗The contractor team of SmallForces knew that the thrust must be communicated in _newtons_. They took the hardware reported value (the engineers there traditionally operated in the "house" system) and honestly submitted it as _N_. 
 
 Thus, the first issue would be providing the unit selection's limitations. 
 
