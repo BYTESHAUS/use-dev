@@ -1,6 +1,7 @@
 # Task as a model, Promise as a value, and Input as a pipe 
 
-> ### Many tailored and most well-known templates/paradigms, such as <samp><b>MVC</b></samp>, <samp><b>MVP</b></samp>, <samp><b>MVVM</b></samp>, <samp><b>MV<i>W</i></b></samp>[hatever], <samp><b>POCO</b></samp>, and custom solutions rest on [models](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/design/parts/README+/app-model.md)<sup>⬅️</sup>.<br />When developers bind presentations, actions, and messages to values/properties/callbacks. 
+> ### Many tailored and most well-known templates/paradigms, such as <samp><b>MVC</b></samp>, <samp><b>MVP</b></samp>, <samp><b>MVVM</b></samp>, <samp><b>MV<i>W</i></b></samp>[hatever], <samp><b>POCO</b></samp>, and custom solutions rest on [models](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/design/parts/README+/app-model.md)<sup>⬅️</sup>. (Which not?)<br />
+> #### When developers bind presentations, actions, and messages to values/properties/callbacks. 
 
 <h3 align="center">This approach is productive for rough abstraction and logical division, but oversimplistic and static.</h3>
 
@@ -27,12 +28,13 @@ as values can be predictably (pre)set/reset, or coded in a time slot, impercepti
 🚧🪡🚧ANOTHER THEME: STREAMING !
 
 > **Modern languages and frameworks grant superb multitasking and synchronization tools out of the box.
-> <mark>Even so</mark>, "classical" prevalent implementation incurs perpetual "async" patching of unpredictable values for reactive experience.**
+> <mark>Even so</mark>, "classical" prevalent implementation incurs perpetual "async" patching of unpredictable values for a reactive experience.**
 
 Now, spice these reactive courses with `async`: you must break queues of values and calls into orchestration. To make things worse, recall that besides multitasking, there's multi-dispatching (that's how auto-save or spellcheck runs).
 
 Not to forget that the statuses of properties and operations are asynchronous values too.
 
+<table><tr></tr><tr><td>
 <details align="center"><summary>___<ins>and now the <b><samp>IMPORTANT</samp>&nbsp; T&thinsp;W&thinsp;I&thinsp;S&thinsp;T</b>&nbsp;</ins>❗<b>.&thinsp;.&thinsp;.</b> ___</summary>
 &nbsp;
 
@@ -42,7 +44,7 @@ Not to forget that the statuses of properties and operations are asynchronous va
 
 <p align="left">We have our picture rotated 180° (or vertically flipped if you prefer). And it's not for fun but for a look beyond the standard patterns.</p>
 
-\___________</details>
+</details></td></tr></table>
 
 # Part 2. Re-thinking the Model and presentation
 
@@ -118,4 +120,4 @@ Compare this to maintaining gross warehouses for a single well-founded purpose: 
 Processing sync/async streams is still a fresh technique. Here, it's enough to refer to its [foundation](https://github.com/ReactiveX)<sup>:octocat:</sup>.
 
 \___________\
-🔚 🌔 <sub>2024-2025 .. kyriosity ... 🚧 pending 🚧</sub>
+🔚 🌔 <samp>2024-2025 .. <picture><img alt="&nbsp;BYTESHAUS" src="" /></picture> ... 🚧 pending 🚧</samp>
