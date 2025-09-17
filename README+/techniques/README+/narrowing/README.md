@@ -1,4 +1,6 @@
-# Code facts &nbsp;&mdash;&nbsp; _Subtyping_ and _Narrowing_
+# Code facts &nbsp;&mdash;&nbsp; _Exclusion_ and _Narrowing_
+
+WHEN LESS IS MORE
 
 Constraints &nbsp;&mdash;&nbsp; Circumvention
 
@@ -16,7 +18,7 @@ Guards: pro - contra
 
 <T> 
 
-Attributes, enums, lambas
+Attributes, enums, lambdas
 
 ___________\
 🔚 .. 2025 ..
