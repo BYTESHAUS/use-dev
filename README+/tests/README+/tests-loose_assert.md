@@ -1,10 +1,16 @@
-# Tests &nbsp;&mdash;&nbsp; Loose Asserts
+# <samp>Tests</samp> &nbsp;&mdash;&nbsp; Loosing the `Asserts`
 
 ### We are accustomed to thinking of proofs in categorical conditions, which a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
 
-That's nothing wicked in this _truth telling_ in most test cases &thinsp;&mdash;&thinsp; <b>`5x5`</b> must be **25** (not `25.001`), a <samp>password</samp> must exactly match to alphabet, _diactrics_, and case in every char, or an element must be either **visible** or not &thinsp;&mdash;&thinsp; but challenges that rend the "black-and-white" postulate.
+This _truth telling_ is mostly based: 
 
-Let's take a sports break to compare and illustrate:
+* <b>`5x5`</b> will be **25** (not `25.000_001`),
+* a <samp>password</samp> must exactly match to alphabet, SPAN _diactrics_, and upper/lower in every char,
+* a UI element can be either **visible** or not
+
+&thinsp;&mdash;&thinsp; but enough life scenarios will defy the "black-and-white" postulate.
+
+Let's take a sports break to compare and SPARK the imagination:
 
 &nbsp; &nbsp; 🏀 One point (2 or 3) is added when the basketball's "equator" crosses the hoop from above &thinsp;&mdash;&thinsp; a definite `true` or `false`.\
 &nbsp; &nbsp; 🎯 The picture of an archery target must loosen such evaluation:
