@@ -5,7 +5,7 @@
 This _truth telling_ is mostly based: 
 
 * <b>`5x5`</b> will be **25** (not `25.000'001`),
-* the longest <kbd>password</kbd> must exactly match to alphabet, SPAN _diactrics_, and upper/lower in every char, CAOTCHA
+* the longest <kbd>password</kbd> must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, ⟨š">_diactrics_</span> in every char, CAOTCHA
 * a UI element can be either **visible** or not RAZLICHINYI POP
 
 &thinsp;&mdash;&thinsp; but enough life scenarios will defy the "black-and-white" postulate.
@@ -22,7 +22,9 @@ but\
 
 ### Except for the _golden 10_<sup>✔️</sup> and _out_<sup>❌</sup>, everything else is relative.
 
-To make things more tangled, there could be different bows, distances, and even winds and illumination in open-air tournaments, impacting the result. Besides precision, there's [accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision).
+To make things more tangled, there could be different bows, distances, and even winds and illumination in open-air tournaments, impacting the result. 
+
+### Besides precision, there's [accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision).
 
 </td></tr></table>
 
