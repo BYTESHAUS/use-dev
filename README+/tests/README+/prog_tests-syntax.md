@@ -8,7 +8,8 @@ NAMES of METHODS!
 
 Shorter syntax speaks for itself
 
-ASSERT as filler word.
+
+### Assertive fillers
 
 There are apparent items to estimate:
 
@@ -16,7 +17,7 @@ There are apparent items to estimate:
 + pending bugs,
 + missing calls and features.
 
-<h4 align="center">Without further ado, <a href="../../../src/TuttiFrutti/FeatTest/">Feat. Test</a>🧪 demonstrates what's already available.</h4>
+<h3 align="center">Without further ado, <a href="../../../src/TuttiFrutti/FeatTest/">Feat. Test</a>🧪 demonstrates what's already available.</h4>
 
 
 testing invalid calls
