@@ -13,7 +13,7 @@ This _truth telling_ is mostly based:
 Let's take a sports break to compare and SPARK the imagination:
 
 &nbsp; 🏀 One point (2 or 3) is added when the basketball's "equator" crosses the hoop (from above) &thinsp;&mdash;&thinsp; a definite `true` or `false`.\
-but\
+**but**\
 &nbsp; 🎯 the picture of an archery target alone must LOOSEN such evaluation:
 
 <table><tr valign="top"><td>
