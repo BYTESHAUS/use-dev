@@ -1,7 +1,5 @@
 ﻿using AbcExtNUnit.Attributes.Case;
-
 namespace ISie_Eval.BuiltinTypes.Number.Tests.As;
-
 
 public class GreekRomanNumerals : setup.Numbers.Arrange
 {
