@@ -1,4 +1,4 @@
-<h1 align="center">Multifaceted Value 💠 <mark>&thinsp;Π-Val&thinsp;</mark></h1>
+<h1 align="center">Multifaceted Value 💠 <code>&thinsp;Π-Val&thinsp;</code></h1>
 
 <p dir="rtl">?Gauges&nbsp;-<br />!<b>300</b>&nbsp;-<br />
 ?What 300&nbsp;-<br />?What gauges&nbsp;-</p>
@@ -6,15 +6,15 @@
  You may find the folklore right above dull, but not pointless:
  
 > **Math deals with <mark>abstract numbers</mark>** (_numerus numerans_) and **computers operate on pure digits**,
-> <div align="center">but not software developers and users:</div>
-> The "inputs" and "outputs" of the code are likely to be anchored to the material world, where numbers can be <mark>concrete</mark> (_numerus numeratus_) or <mark>denominated</mark> (_numerus denominatus_).
+> <p align="center">but not software developers and users:</p>
+> The "inputs" and "outputs" of the code are likely to be anchored to the material world, where numbers can be <mark>concrete</mark> (<i>numerus numeratus</i>) or <mark>denominated</mark> (<i>numerus denominatus</i>).
  
 Verbal, documented, and **programmatic** communications frequently rely on titles and contexts and omit tags/units. Shall a context wane &thinsp;&mdash;&thinsp; values may "roam" between denominators:
 
 <table><tr></tr><tr><td>
 <details><summary>&nbsp;<ins>&nbsp; <b>Temperature <code>2.7</code> is</b>&thinsp;</ins><b> .&nbsp;.&nbsp;.</b></summary>
  
-<ins>the baseline of the Universe space in <i>Kelvin</i></ins> but in  <i>Celsius</i> or <i>Fahrenheit</i> &nbsp;&mdash;&nbsp; a casual weather for many non-astronauts.<sup>🌡️</sup><br />
+<ins><b>the baseline of the Universe space in <i>Kelvin</i></b></ins> but in  <i>Celsius</i> or <i>Fahrenheit</i> &nbsp;&mdash;&nbsp; a casual weather for many non-astronauts.<sup>🌡️</sup><br />
 
 Other confusions:
 
