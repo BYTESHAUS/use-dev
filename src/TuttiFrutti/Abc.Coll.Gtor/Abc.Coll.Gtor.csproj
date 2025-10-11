@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NUnit3TestAdapter" Version="5.1.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Abc.Coll\Abc.Coll.csproj" />
   </ItemGroup>
 
