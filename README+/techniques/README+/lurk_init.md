@@ -1,10 +1,10 @@
 # "Lurking" initialization in 🎼C#
 
-<table align="center"><tr></tr><tr><td><b>Initializing objects isn't an issue until particular wishes are met or limits are hit.</b></td></tr></table>
+<table align="center"><tr></tr><tr><td><b>Initializing objects isn't an issue until particular wishes are met or limits are hit.<br />And these can be essential (as CLEAN INIT - 🚧 LINK REQUIRED).</b></td></tr></table>
 
 ## Reminder and setup
 
-C# offers two "mainstream" ways of parametrization objects on creation (with or without required fields).
+C# offers two "mainstream" ways of parameterizing objects on creation (with or without required fields).
 
 ### ▪️Constructors // <code>&thinsp;<i>new</i> <mark>(&thinsp;</mark>..<mark>&thinsp;)</mark></code>
 
@@ -30,15 +30,15 @@ Constructor parameters and `required` modifier will **not** compile with that.
 
 ### Builders 
 
-Rendering objects through methods encapsulating `new` exclude further parameters `(..)` or initializers `{..}`.
+Rendering objects through methods encapsulating `new` excludes further parameters (..)` or initializers `{..}`.
 
 ## Answers
 
-There are no perfect workarounds but ...
+There are no perfect workarounds, but ...
 
 ### "Generic" parametrization
 
-You can't supply parameters to `<T>, new` but you can supply another generic, which can wrap the parameter. Awkward but it works.
+You can't supply parameters to `<T>, new`, but you can supply another generic, which can wrap the parameter. Awkward but it works.
 
  🚧 🏗️ 🚧 ... to be continued ... 🚧🐝🚧
 
