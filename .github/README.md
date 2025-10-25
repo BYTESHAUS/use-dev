@@ -1,18 +1,18 @@
 <table><tr valign="top"><td>
 <!--      O R G    --!>
 ◾ <b>O&thinsp;R&thinsp;G</b><br />
-|&thinsp;- <a title="&nbsp;&lArr;read-write article" href="https://github.com/BYTESHAUS/read-write/blob/main/README+/.net/README+/cs-hints.md">&thinsp;<b>C#</b>&nbsp;&nbsp;h&thinsp;i&thinsp;n&thinsp;t&thinsp;s&thinsp;</a><br />
+|&thinsp;- <a title="&nbsp;&lArr;read-write article" href="https://github.com/BYTESHAUS/read-write/blob/main/README+/.net/README+/cs-hints.md">&thinsp;<b>C#</b>&nbsp; h&thinsp;i&thinsp;n&thinsp;t&thinsp;s&thinsp;</a><br />
             <!-- F R A M E S  /  R U L E S --!>
-<details><summary><ins>&thinsp;<b>F&thinsp;r&thinsp;a&thinsp;m&thinsp;e&thinsp;s</ins>&thinsp;,<ins>&nbsp;&nbsp;g&thinsp;u&thinsp;i&thinsp;d&thinsp;e&thinsp;l&thinsp;i&thinsp;n&thinsp;e&thinsp;s</b>&thinsp;</ins></summary>
+<details><summary><ins>&thinsp;<b>F&thinsp;r&thinsp;a&thinsp;m&thinsp;e&thinsp;s</ins>&thinsp;,<ins>&nbsp; g&thinsp;u&thinsp;i&thinsp;d&thinsp;e&thinsp;l&thinsp;i&thinsp;n&thinsp;e&thinsp;s</b>&thinsp;</ins></summary>
 |&thinsp;-&thinsp;-&nbsp;📖&thinsp;<a href="../README+/frames"><i>&thinsp;I&thinsp;n&thinsp;t&thinsp;r&thinsp;o&thinsp;</i></a><br />
-|&thinsp;-&thinsp;- <a href="../README+/frames/README+/reinforced_inheretance.md"> R&thinsp;e&thinsp;i&thinsp;n&thinsp;f&thinsp;o&thinsp;r&thinsp;c&thinsp;e&thinsp;d&thinsp;&nbsp;&nbsp;&nbsp;i&thinsp;n&thinsp;h&thinsp;e&thinsp;r&thinsp;i&thinsp;t&thinsp;a&thinsp;n&thinsp;c&thinsp;e&thinsp;</a><br />
-|&thinsp;-&thinsp;- <a href="../README+/frames/README+/calls_on_null.md">C&thinsp;a&thinsp;l&thinsp;l&thinsp;s&nbsp;&nbsp;&nbsp;o&thinsp;n&nbsp;&nbsp;&nbsp;n&thinsp;u&thinsp;l&thinsp;l</a><br />            
+|&thinsp;-&thinsp;- <a href="../README+/frames/README+/reinforced_inheretance.md"> R&thinsp;e&thinsp;i&thinsp;n&thinsp;f&thinsp;o&thinsp;r&thinsp;c&thinsp;e&thinsp;d&thinsp;&nbsp; &nbsp;i&thinsp;n&thinsp;h&thinsp;e&thinsp;r&thinsp;i&thinsp;t&thinsp;a&thinsp;n&thinsp;c&thinsp;e&thinsp;</a><br />
+|&thinsp;-&thinsp;- <a href="../README+/frames/README+/calls_on_null.md">C&thinsp;a&thinsp;l&thinsp;l&thinsp;s&nbsp; &nbsp;o&thinsp;n&nbsp; &nbsp;n&thinsp;u&thinsp;l&thinsp;l</a><br />            
 </details>
             <!-- TECHNIQUE / PATTERN --!>
 <details><summary><ins><b>T&thinsp;e&thinsp;c&thinsp;h&thinsp;n&thinsp;i&thinsp;q&thinsp;u&thinsp;e&thinsp;s&thinsp;/&thinsp;P&thinsp;a&thinsp;t&thinsp;t&thinsp;e&thinsp;r&thinsp;n&thinsp;s</b></ins>
 &nbsp; &nbsp; &nbsp; &nbsp; </summary>
 |&thinsp;-&thinsp;- <a href="/README+/techniques/README+/polymorphism+/README.md">P&thinsp;o&thinsp;l&thinsp;y&thinsp;m&thinsp;o&thinsp;r&thinsp;p&thinsp;h&thinsp;i&thinsp;s&thinsp;m&thinsp;<sup>➕</sup></a><br />
-|&thinsp;-&thinsp;- <a href="/README+/techniques/README+/lurk_init.md">"L&thinsp;u&thinsp;r&thinsp;k&thinsp;i&thinsp;n&thinsp;g"&nbsp;&nbsp;&nbsp;i&thinsp;n&thinsp;i&thinsp;t</a><br />
+|&thinsp;-&thinsp;- <a href="/README+/techniques/README+/lurk_init.md">"L&thinsp;u&thinsp;r&thinsp;k&thinsp;i&thinsp;n&thinsp;g"&nbsp; &nbsp;i&thinsp;n&thinsp;i&thinsp;t</a><br />
 |&thinsp;-&thinsp;- <a href="/README+/techniques/README+/narrowing/README.md">"N&thinsp;a&thinsp;r&thinsp;r&thinsp;o&thinsp;w&thinsp;i&nbsp;n&nbsp;g"</a><br />
 |&thinsp;-&thinsp;- <a href="/README+/techniques/README+/builders/README.md"><b>B&thinsp;u&thinsp;i&thinsp;l&thinsp;d&thinsp;e&thinsp;r&thinsp;s</b></a>🏗️<br />
 |&thinsp;-&thinsp;-&thinsp;-&thinsp;-&nbsp;<a href="../src/TuttiFrutti/WizConstr/README.md">Wizard blocks</a><br />
@@ -24,7 +24,7 @@
 |&thinsp;-&thinsp;- <a href="../README+/decisions/README+/mvvm/mvvm-vmodel_cohesion.md">Model-ViewModel cohesion</a><br />
 </details>
 |&thinsp;- <b>T&thinsp;e&thinsp;m&thinsp;p&thinsp;l&thinsp;a&thinsp;t&thinsp;e&thinsp;s</b><br />
-|&thinsp;-&thinsp;- <a href="../README+/decisions/README+/think_in_tasks/README.md">T&thinsp;h&thinsp;i&thinsp;n&thinsp;k&nbsp;&nbsp; i&thinsp;n &nbsp;&nbsp;t&thinsp;a&thinsp;s&thinsp;k&thinsp;s&thinsp;</a><br />
+|&thinsp;-&thinsp;- <a href="../README+/decisions/README+/think_in_tasks/README.md">T&thinsp;h&thinsp;i&thinsp;n&thinsp;k&nbsp;  i&thinsp;n &nbsp; t&thinsp;a&thinsp;s&thinsp;k&thinsp;s&thinsp;</a><br />
 <br /><!--      C L A Y    --!>
 ◾ <b>C&thinsp;L&thinsp;A&thinsp;Y</b><br />
 |&thinsp;- Exception wrappers &nbsp;<a href="../src/TuttiFrutti/ExtensionsTests/Exceptions"><i>tests</i></a>🧪<br />
@@ -37,9 +37,9 @@
 ◾ <b>T<samp>&thinsp;E&thinsp;S&thinsp;T&thinsp;I&thinsp;N&thinsp;G</samp></b><br />
 |&thinsp;- &thinsp;<b>P&thinsp;a&thinsp;t&thinsp;c&thinsp;h-/&thinsp;F&thinsp;r&thinsp;a&thinsp;m&thinsp;e&thinsp;w&thinsp;o&thinsp;r&thinsp;k</b><br />
 |&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-sources.md">S&thinsp;o&thinsp;u&thinsp;r&thinsp;c&thinsp;i&thinsp;n&thinsp;g</a><br />
-|&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-cut_feeds.md">F&thinsp;e&thinsp;e&thinsp;d&nbsp;&nbsp;&nbsp;e&thinsp;x&thinsp;p&thinsp;a&thinsp;n&thinsp;s&thinsp;i&thinsp;on&nbsp;&nbsp;&nbsp;c&thinsp;u&thinsp;t</a><br />
-|&thinsp;-&thinsp;- <a href="../README+/tests/README+/tests-gradual_assert.md">G&thinsp;r&thinsp;a&thinsp;d&thinsp;u&thinsp;a&thinsp;l&nbsp;&nbsp;&nbsp;A&thinsp;s&thinsp;s&thinsp;e&thinsp;r&thinsp;t</a><br />
-|&thinsp;-&thinsp;- <a href="../README+/tests/README+/tests-value_tolerance.md">F&thinsp;i&thinsp;n&thinsp;e&thinsp;r&nbsp;&nbsp;&nbsp;t&thinsp;o&thinsp;l&thinsp;e&thinsp;r&thinsp;a&thinsp;n&thinsp;c&thinsp;e</a><br />
+|&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-cut_feeds.md">F&thinsp;e&thinsp;e&thinsp;d&nbsp; &nbsp;e&thinsp;x&thinsp;p&thinsp;a&thinsp;n&thinsp;s&thinsp;i&thinsp;on&nbsp; &nbsp;c&thinsp;u&thinsp;t</a><br />
+|&thinsp;-&thinsp;- <a href="../README+/tests/README+/tests-gradual_assert.md">G&thinsp;r&thinsp;a&thinsp;d&thinsp;u&thinsp;a&thinsp;l&nbsp; &nbsp;A&thinsp;s&thinsp;s&thinsp;e&thinsp;r&thinsp;t</a><br />
+|&thinsp;-&thinsp;- <a href="../README+/tests/README+/tests-value_tolerance.md">F&thinsp;i&thinsp;n&thinsp;e&thinsp;r&nbsp; &nbsp;t&thinsp;o&thinsp;l&thinsp;e&thinsp;r&thinsp;a&thinsp;n&thinsp;c&thinsp;e</a><br />
 |&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-errors.md">E&thinsp;r&thinsp;r&thinsp;o&thinsp;r&thinsp;s</a><br />
 |&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-syntax.md">S&thinsp;y&thinsp;n&thinsp;t&thinsp;a&thinsp;x &nbsp; b&thinsp;e&thinsp;t&thinsp;t&thinsp;e&thinsp;r</a><br />
 <br/><!--           P A R T S -->
@@ -57,7 +57,7 @@
 </td><td> 
   <table><tr align="center">
      <td>          <!--    I S i e     --!>
-      <a href="../README+/parts/_ext/ISie/README.md"><img src="../README+/_rsc/img/_nav/tiles/ISie_highlight-200px.png" alt="&nbsp;&nbsp;⭐I&nbsp;S&thinsp;i&thinsp;e⭐&nbsp;&nbsp;&nbsp;"/>
+      <a href="../README+/parts/_ext/ISie/README.md"><img src="../README+/_rsc/img/_nav/tiles/ISie_highlight-200px.png" alt="&nbsp; ⭐I&nbsp;S&thinsp;i&thinsp;e⭐&nbsp; &nbsp;"/>
       <br /><b>Ɪ&thinsp;S&thinsp;<samp>IE</samp>&nbsp;&thinsp;extensions</b></a>
      </td>
     <td>             <!--    C I R C U I T R Y     --!>
@@ -66,7 +66,7 @@
      </td>
                                       </tr><tr></tr><tr align="center">
     <td>      <!--    B U I L D E R   W I Z A R D    B L O C K S     --!>
-      <a href="../src/TuttiFrutti/WizConstr/README.md"><img src="../README+/_rsc/img/_nav/tiles/ConstrWiz-deco_bw-200px.png" alt="&nbsp;&nbsp;Wizard of Code Blocks" />
+      <a href="../src/TuttiFrutti/WizConstr/README.md"><img src="../README+/_rsc/img/_nav/tiles/ConstrWiz-deco_bw-200px.png" alt="&nbsp; Wizard of Code Blocks" />
       <br /><b>BUILDER-WIZARD</b></a>
     </td>
     <td>             <!--   T E S T I N G     --!>
@@ -84,7 +84,7 @@
     </td>
 </tr><tr></tr><tr align="center">
                     <td>      <!--    T A S K S   a s   M O D E L     --!>
-      <a href="../README+/decisions/README+/think_in_tasks/README.md"><img src="../README+/_rsc/img/_nav/tiles/TaskAsModel_bw-200px.png" alt="&nbsp;&nbsp;Value as promise"/>
+      <a href="../README+/decisions/README+/think_in_tasks/README.md"><img src="../README+/_rsc/img/_nav/tiles/TaskAsModel_bw-200px.png" alt="&nbsp; Value as promise"/>
       <br /><b>THINKING in TASKS</b></a>
     </td>
  <td>                 <!--    U N D O     --!>
