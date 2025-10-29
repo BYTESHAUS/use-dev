@@ -98,7 +98,7 @@
     </td>
   </tr></table>
 </td>
- <td><picture><img alt="&nbsp;BYTESHAUS" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/logo/byteshaus/vert/basic-v1000px.jpg" /></picture></td>     
+ <td><picture><img alt="&nbsp;BYTESHAUS" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/logo/byteshaus/vert/basic-v1500px.jpg" /></picture></td>     
 </tr></table>
 
 <samp>INSTALLATION</samp>: Clone, copy, or download `src`, and open the solution in Microsoft Visual Studio
