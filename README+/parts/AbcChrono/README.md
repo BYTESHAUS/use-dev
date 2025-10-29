@@ -2,12 +2,12 @@
 
 <table><tr>></tr><tr><td><picture><img width="300px" alt="&nbsp; Universe timeline (nasa.gov)" src="../../../README+/_rsc/img/Chrono/NASA-Universe_timeline.jpg"</picture></td><td>
 
-> <h3>Time is the <i>driver</i> for all and the "solvent" of everything.<br />The former is for software and the latter for its hardware.</h3>
+> <h3>Time is the <i>driver</i> for all and the "solvent" of everything.<br />(The former is for the software and the latter for its hardware.)</h3>
 
 ### Exact time measurement<sup>🔬</sup> and timestamping aren't an issue for regular solutions but &nbsp;<samp><i>C&thinsp;H&thinsp;R&thinsp;O&thinsp;N&thinsp;O&thinsp;L&thinsp;O&thinsp;G&thinsp;Y</i></samp>.
 </td></tr></table>
 
-Software of the previous millennium gave bits for dates (when bits mean bits literally), thus nurturing the giant **<samp>Y2K</samp>** bug (and maybe [Y2038](https://en.wikipedia.org/wiki/Year_2038_problem)<sup><b>w</b></sup>).
+Software of the previous millennium gave bits for dates (when _bits_ meant literally _bits_), thus nurturing the giant **<samp>Y2K</samp>** bug (and maybe [Y2038](https://en.wikipedia.org/wiki/Year_2038_problem)<sup><b>w</b></sup>).
 Contemporary languages can support a vast range of past and future dates<sup>📆</sup>, but badly organize them (not intuitive and error-prone).
 
 &nbsp; &nbsp; <sup>🔬</sup> <samp>Unless you need accuracy close to [physics on steroids](https://www.nobelprize.org/prizes/physics/2023/summary/).<sup>🔗</sup></samp>\
@@ -46,5 +46,9 @@ Contemporary languages can support a vast range of past and future dates<sup>�
 |&thinsp;- 📖&thinsp;[**AbcChrono**](../../../src/TuttiFrutti/AbcChrono/README.md)\
 |&thinsp;-&thinsp;- [Source](../../../src/TuttiFrutti/AbcChrono/)\
 |&thinsp;-&thinsp;-&thinsp;🧪 [Tests](../../../src/TuttiFrutti/AbcChronoTests/)
+
+## Spin-offs
+
++ [**Procurable and dynamic timeline**](README+/procurable_timeline.md)
 
 🔚 2024-2025 ... (image credit: Universe Timeiine from nasa.gov)
