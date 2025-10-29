@@ -1,6 +1,6 @@
-# AbcChrono &thinsp;&mdash;&thinsp; Procurable and Dynamic Timeline
+# A<samp>BC</samp>Chrono &thinsp;&mdash;&thinsp; Procurable and Dynamic Timeline
 
-IMAGE OF ABC - CHRONO (BADGE !!! )
+![Ignoramus et ignorabimus](https://img.shields.io/badge/ABC-Chrono-green)
 
 AbcChrono introduced the common idea of chronology and dates. Here, we will narrow the theme to an applicable and effective case.
 
@@ -8,7 +8,7 @@ AbcChrono introduced the common idea of chronology and dates. Here, we will narr
 
 Consider the case when a promise was made for two days. In many cases, it literally will mean setting a HACK in the calendar cell after the next.
 
-But in most (especially banking, including confirmation) the following omissions will apply.
+But in most (especially banking, including confirmation), the following omissions will apply.
 
 - Weekend
 - Holidays
