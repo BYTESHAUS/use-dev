@@ -24,16 +24,16 @@
   <a href="https://github.com/byteshaus/read-write/blob/main/README+/software/tests/README.md"><img alt="&nbsp;READ/WRITE&thinsp;&larr;&thinsp;USE/DEV" width="200px" src="../_rsc/img/_nav/tiles/read-write_use-dev_200px.png" /></a>
 </td></tr></table></td><td>
 
-<div align="right"><samp><i><b>PATCH if CAN'T REFRAME or REWORK</b></i></samp></div>
+<div align="right"><h3><i><b>PATCH it if CAN'T<br />REFRAME or REWORK</b></i></h3></div>
 
 ## &nbsp;
 
 > [!NOTE]
-> * "Patches" are very embossed by `C#` and [NUnit](https://nunit.org/), but challenges and solutions must be common for other languages and frameworks.
+> * "Patches" are embossed by `C#` and [NUnit](https://nunit.org/), but challenges and solutions are common for other languages and frameworks.
 > 
-> * _Unit Tests_ are only a slice of the test pyramid, but technically they may serve all other types and layers.<sup>🙋</sup>
+> * _Unit Tests_ are only a slice of the test pyramid, but technically, they may serve other types and layers.<sup>🙋</sup>
 
-<sup>🙋</sup> <samp>Have you ever seen IDEs with <kbd>New &rarr; Integration test</kbd></samp>&thinsp;**?**
+<div align="right"><sup>🙋</sup> <samp>Have you ever seen IDEs with <kbd>New &rarr; Integration test</kbd></samp>&thinsp;<b>?</b></div>
 
 </td></tr></table>
 
