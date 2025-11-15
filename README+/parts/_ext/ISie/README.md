@@ -14,7 +14,7 @@
 
 <div align="right"><sup>⏳</sup>&thinsp;<sub>This ever-pending feature must be C#13 "what's new",<br />but finally appeared only as a C#14 preview (April/2025).</sub></div>
 
-#### This wasn't a revolutionary hack to announce, won't it be a groundstone idea for:
+#### This wasn't a revolutionary hack to announce, won't it be a grounding stone for:
 
 + Reconsideration of all available **`Is`**, **`To`**, **`Equal`**, ... methods of built-in types.
 + **Better syntax**: shorter, intuitive, and grouped,
@@ -22,7 +22,7 @@
 + **Domain**-telling code,
 + more goodies, **but** ...
 
-<h3 align="center">... let's not beat around the bush and first show what's pret-a-porter:</h3>
+<h3 align="center">... let's not beat around the bush and first show what's <i>pret-a-porter</i>:</h3>
 
 <table align="center"><tr></tr><tr><td>🧪<b>By guidance</b> (recommended)</td><td>⚡<b>Direct</b> (if you want)</td></tr>
   <tr valign="top"><td>
@@ -58,7 +58,7 @@ It's up to you which lexis to pick in **each** case.
 
 ## Not only `Is/Not`
 
-It wasn't a big deal to add some other evident shortcuts: 
+It was a natural call to add other evident shortcuts: 
 
 + for ✨[`.To` for chars](../../../../src/TuttiFrutti/ISie_Eval/BuiltinTypes/🔣Char/✨Demo_To.cs)
 + for ✨[numeric operations](../../../../src/TuttiFrutti/ISie_Eval/BuiltinTypes/🔢Number/✨Demo🔢Calc🧮.cs) as `Abs`
