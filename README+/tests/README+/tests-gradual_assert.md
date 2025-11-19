@@ -1,4 +1,4 @@
-# Software Tests &nbsp;<samp>&mdash;</samp>&nbsp; _Loose Assert_ &nbsp;<samp>&mdash;</samp>&nbsp; Graduality
+# Prog Tests &nbsp;<samp>&mdash;</samp>&nbsp; _Loose Assert_ &nbsp;<samp>&mdash;</samp>&nbsp; Graduality
 
 <table><tr valign="top"><td width="40%"><picture><img alt="&nbsp;Passed🟩: 388, failed🟥: 165. Not great, not terrible." 
  src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/memes/Tests-NotGreatNotTerrible.jpg" /></picture>
@@ -44,9 +44,9 @@ There are no magic solutions to adjust the frameworks. The following options can
 and symbolic ranking of failure:\
 <picture><img alt="&nbsp;Conversion precision severe and moderate fails" src="../../_rsc/img/snap/tests/funcware-convert-forces-fails_succeess.jpg" /></picture>
 
-## Further
+## Releant topics
 
-Gradual assert interlaces with [evaluation tolerance](val_tests-tolerance.md).
++ **Gradual assert interlaces with [evaluation tolerance](val_tests-tolerance.md).**
 
-\___________\
+___________\
 🔚 ...2024-2025... <sub>Collage credit: screenshot of Visual Studio 2022; [HBO mini-series](https://m.imdb.com/title/tt7366338/), 2019</sub>
