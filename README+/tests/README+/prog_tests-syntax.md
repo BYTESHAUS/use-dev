@@ -1,6 +1,8 @@
 # `Programmatic Tests` &nbsp;&mdash;&nbsp; Syntax
 
-There are many flavors of test
+Testing writings must meet tougher requirements than the code they prove: 🅰️ be more readable (since they provide entry to the logic and shall be readable for readers ) and **B** be really compact (test coverage is SURPLUS by nature).
+
+The number of test frameworks is big and growing. I can't speak for all but the syntax of many orients to [DAMP](https://github.com/BYTESHAUS/read-write/blob/main/README+/software/tests/asQA/README+/tests-damp_vs_dry.md)).
 
 AAA - pretty immature
 
