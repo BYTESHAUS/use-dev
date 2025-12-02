@@ -1,14 +1,15 @@
 # Thinking in time and tasks &thinsp;&mdash;&thinsp; Techniques
 
-There are established techniques and tricks can still contribute to async thinking, or patch problems, or spoil its implementation (since any pattern may conditionally become an antipattern).
+Established techniques and tricks can contribute to task and time thinking, **or** patch deficiencies, **or** spoil the vision (since any pattern may conditionally become an antipattern).
 
 ## Caching
 
-The most obvious and simplest technique to add. Only the growing cache may be a concern, but its size can be dramatically reduced when big parts are "hashed" and stored only once (floating window method to help). Along with easy-to-apply <samp>FIFO</samp>.
+The most obvious and simplest technique to add. Only the growing cache may be a concern, but its size can be dramatically reduced when big parts are "hashed" and stored only once (the floating window method to help).
+Along with easy-to-apply <samp><b>FIFO</b></samp>.
 
-### Laziness (not of developers)
+## Laziness (not of developers only)
 
-Since the olden days, programmers have deferred the initialization/calculation of fewer or more "heavy" entities. This allows to **a)**&nbsp;load the stuff on&nbsp;demand only (eco-friendly), **b)**&nbsp;spread resource peaks, **c)**&nbsp;split suspense (which nevertheless remains).
+Since the olden days, programmers have deferred the initialization/calculation of fewer or more "heavy" entities. This allows to **a)**&nbsp;load the stuff on&nbsp;demand only (eco-friendly), **b)**&nbsp;spread resource peaks, **c)**&nbsp;split suspense (<ins>which nevertheless remains</ins>).
 
 <details><summary><ins>&nbsp;In <b>C#</b> you can do it either with <code>Lazy<...></code> or custom snippet like this:&nbsp;</ins></summary>
 &nbsp;
@@ -22,12 +23,12 @@ private BigAndHeavy? _ram;
 
 This technique looks attractive when <mark>$`(performance/hit)*probability`$</mark> is too low. Being advanced, we may think of making an on-the-fly reevaluation of this formula to unleash the lazy, which implies a smart realization of the next technique - _preloading_.
 
-#### Examples?
+### Examples?
 
 Consider custom number sequences (relying on previous values). The first must be easy to calculate unconditionally, while attributing as lazy the next ones when it gets harder to compute. 
 When the computer is idle, the next _lazy_ number gets calculated to have a reasonable supply (say, of a hundred in sequence).
 
-### Preloading: praise and critique
+## Preloading: praise and critique
 
 The power and storage even of home tablets are multiprocessor<sup>⚛️</sup>, multicore, excessive, and mostly idle<sup>:video_game:</sup>, while platforms like .NET, JVM, or browser engines, and any OS ensure the smooth background running of countless processes and threads.
 
