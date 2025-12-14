@@ -12,7 +12,7 @@ This _truth telling_ is based, at first sight:
 
 Let's take a sports break to compare and SPARK the imagination:
 
-&nbsp; 🏀 One point (2 or 3) is added when the basketball's "equator" crosses the hoop (from above) &thinsp;&mdash;&thinsp; a definite `true` or `false`.\
+&nbsp; 🏀 One point (2 or 3) is added when the basketball's center crosses the hoop (from above) &thinsp;&mdash;&thinsp; a definite `true` or `false`.\
 **but**\
 &nbsp; 🎯 the picture of an archery target alone must LOOSEN such evaluation:
 
