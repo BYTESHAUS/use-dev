@@ -1,8 +1,8 @@
-# <samp>Tests</samp> &nbsp;&mdash;&nbsp; Loosing the `Asserts`
+# P<samp>rog Tests</samp> &nbsp;&mdash;&nbsp; Loosing the `Asserts`
 
 ### We are accustomed to thinking of proofs in categorical conditions, which a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
 
-This _truth telling_ is mostly based: 
+This _truth telling_ is based, at first sight: 
 
 * <b>`5x5`</b> will be **25** (not `25.000'001`),
 * the longest <kbd>password</kbd> must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, ⟨š">_diactrics_</span> in every char, CAOTCHA
