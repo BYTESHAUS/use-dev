@@ -10,8 +10,8 @@ public class Mid
     private readonly string _source;
     private readonly StringComparison _comparison;
 
-    public static bool operator ==(Mid obj, string operand) => Match(obj._leftNotRight, obj._source, operand, obj._comparison);
-    public static bool operator !=(Mid obj, string operand) => !Match(obj._leftNotRight, obj._source, operand, obj._comparison);
+    public static bool operator ==( Mid obj, string operand) => Match(obj._leftNotRight, obj._source, operand, obj._comparison);
+    public static bool operator != (Mid obj, string operand) => !Match(obj._leftNotRight, obj._source, operand, obj._comparison);
 
 
     private static bool Match(bool leftNotRight, string whole, string part, StringComparison comparison) {
