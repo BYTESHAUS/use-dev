@@ -1,6 +1,4 @@
-﻿// ReSharper disable InconsistentNaming
-
-namespace AbcExtNUnit.AssertOnAssign;
+﻿namespace AbcExtNUnit.AssertOnAssign;
 
 public abstract class Defined : Basal
 {
