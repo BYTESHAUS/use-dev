@@ -1,6 +1,6 @@
 # Frames, Guidelines, and Rules
 
-<table><tr valign="top"><td width="40%">
+<table><tr valign="center"><td width="40%">
     <picture><img alt="&nbsp;pouring concrete into rebar formwork" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/photo/misc/pour_concrete-meme.jpg" /></picture>
   </td><td>
 
@@ -21,7 +21,7 @@ More comparison in ✒️<a href="https://github.com/BYTESHAUS/read-write/blob/m
 The metaphor of code as <mark>cement</mark> was applied to underline <a href="https://github.com/BYTESHAUS/read-write/blob/main/README+/software/QA/code_quality/README.md">code quality</a>. 
 Then design activities can be <mark>formworks</mark> of the concrete, and coding rules, guidelines, and frames can be seen as <mark>reinforcement</mark>.   
 
-Welcome to these modest contributions &thinsp;&mdash;&thinsp; 📁[<span title="&nbsp;The README+ subfolder oranises topic docs"><samp>README+</samp></span>](README+).
+<h4 align="center">Now welcome to some modest contributions &thinsp;&mdash;&thinsp; <a href="README+">📁 README+</a>.</h4>
 
 ___________\
 🔚 ... 2023-2025 <sub>Collage background credit: jkcement.com&#013;&#010;(for illustration purposes only)</sub> 
