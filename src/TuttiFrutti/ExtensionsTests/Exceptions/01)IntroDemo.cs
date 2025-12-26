@@ -16,7 +16,7 @@ public class IntroDemo
         Assert.That(exc?.Message, Is.Not.Empty);
 
         var inOp = Assert.Throws<InvalidOperationException>(() => InvalidOperation.Throw(""));
-        Assert.That(inOp?.Message, Is.Empty);
+        Assert.That(inOp.Message, Is.Empty);
 
         var noSup = Assert.Throws<NotSupportedException>(() => NotSupported.Throw(nameof(IntroDemo)));
         Assert.That(noSup?.Message, Is.EqualTo(nameof(IntroDemo)));
