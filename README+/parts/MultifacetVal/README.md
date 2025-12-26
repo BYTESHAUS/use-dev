@@ -5,9 +5,11 @@
 
  You may find the folklore right above dull, but not pointless:
  
-> **Math deals with <mark>abstract numbers</mark>** (_numerus numerans_) and **computers operate on pure digits**,
-> <p align="center">but not software developers and users:</p>
-> The "inputs" and "outputs" of the code are likely to be anchored to the material world, where numbers can be <mark>concrete</mark> (<i>numerus numeratus</i>) or <mark>denominated</mark> (<i>numerus denominatus</i>).
+> ### **Math deals with <mark>abstract numbers</mark>** (_numerus numerans_) and **computers operate on pure digits**,
+
+<p align="center"><b>but not software developers and users:</b></p>
+
+> ### The "inputs" and "outputs" of the code are likely to be anchored to the material world, where numbers can be <mark>concrete</mark> (<i>numerus numeratus</i>) or <mark>denominated</mark> (<i>numerus denominatus</i>).
  
 Verbal, documented, and **programmatic** communications frequently rely on titles and contexts and omit tags/units. Shall a context wane &thinsp;&mdash;&thinsp; values may "roam" between denominators:
 
