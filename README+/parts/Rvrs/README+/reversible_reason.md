@@ -27,3 +27,6 @@ __Scalability__ of _functionality_ (along with _syntax_) and _logics_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:cactus:</sup><sub>The idea that new action doesn't erase for good accumulated redo sequence</sub>
 
 __Last but not least__, _Reversible_ won't perplex you with non-trivial [questions](reversible_posers.md), which its construction must have answered.
+
+___________\
+2020 - 2025 ..
