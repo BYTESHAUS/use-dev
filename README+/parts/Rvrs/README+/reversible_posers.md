@@ -1,14 +1,14 @@
-# Reversible &nbsp; &mdash; &nbsp; Posers
+# Reversible &nbsp;&mdash;&nbsp; Posers
 
 > Discussion in this and other documents will rest on selected [design samples](https://github.com/BYTESHAUS/read-write/tree/main/README+/software/design/samples).
 
 Reflection on Undo/Redo sooner or later will baffle one with the following dilemmas and challenges. You shall not consider them as dev tasks or a knowledge quiz, but as clarification of the "big picture".
 
-## _Value_ or/and _action_ dilemma
+## _Value_ <samp><i>or</i>/<i>and</i></samp> _action_ dilemma
 
 Chess is a perfect example where the sequence of changes can be stored either as moves (actions) or board alterations (value). A move results in a board alteration.
 
-## Point of no undo
+## Point of no _undo_
 
 Here, chess serves us again as a good example. Let's take a game of `n` moves of white and black pieces, and imagine the initial point to which we can undo the setup of pieces and their moves.
 
