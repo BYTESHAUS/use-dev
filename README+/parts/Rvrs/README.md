@@ -71,4 +71,4 @@ However ... __isn't that all an over-engineering of the indexed element?__ <sup>
 `UndoOnly` for the snippet above is too trivial to deserve your look into the repository, but not the whole project, which you may follow in [Developer book](README+/devbook), contribute to it, or rework for your own purposes.
 
 \___________\
-🔚 ... but [README+](README+)
+🔚 2022-2026 ... but [README+](README+)
