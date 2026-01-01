@@ -75,4 +75,4 @@ MERMAID for PYRAMID CHG
 > 🚧🐝🚧 <mark><b>... to be WRITTEN when PARTICULAR IMPLEMENTATION comes into play ...</b></mark> 🚧🐝🚧
 
 \___________\
-🔚 🌔 <samp>2024-2025 .. <b>Β</b>ytesHausMeister ... 🚧 pending 🚧</samp>
+🔚 🌔 <samp>2024-2026 .. <b>Β</b>ytesHausMeister ... 🚧 pending 🚧</samp>
