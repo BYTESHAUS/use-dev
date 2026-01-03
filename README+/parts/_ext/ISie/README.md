@@ -5,14 +5,12 @@
 **The crossover of the next two `C#` discoveries**
 
 <div>&nbsp; &nbsp; ✔️ &thinsp;legit <a href="../../../frames/README+/calls_on_null.md">calls on null</a>&thinsp;,</div>
-<p>&nbsp; &nbsp; ✔️ &thinsp;<a href="https://github.com/dotnet/roslyn/issues/11159">proposal</a>&thinsp;<sup>⏳</sup> of extension properties</p>
+<p>&nbsp; &nbsp; ✔️ &thinsp;<a href="https://github.com/dotnet/roslyn/issues/11159">proposal</a> of extension properties</p>
 <div>suggested me to shortcut ubiquitous </div>
   <div align="center"><code>string.IsNullOrWhiteSpace(<i>abracadabra</i>)</code><br />into<br /><code><i><b>abracadabra</b></i>.IsNullOrWhitespace</code>,<br />
   which finally became<br /><code><i><b>abracadabra</b></i>.Is.NullEmptyOr.Whitespace</code>&thinsp;.</div>
 </td><td><picture><img src="../../../_rsc/img/_nav/tiles/ISieCircuitry_200px.png" alt="&nbsp;&nbsp;I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture><br />
   <div align="center"><samp>use circuitry</samp></div></td></tr></table>
-
-<div align="right"><sup>⏳</sup>&thinsp;<sub>This ever-pending feature must be C#13 "what's new",<br />but finally appeared only as a C#14 preview (April/2025).</sub></div>
 
 #### This wasn't a revolutionary hack to announce, won't it be a grounding stone for:
 
@@ -86,4 +84,4 @@ This feature launched
 + 🧪&thinsp;[Assert shortcuted to assign](../../../../src/TuttiFrutti/FeatTest/AssertByAssign)
 
 \___________\
-🔚 .. <samp>🐝🐝 <code>OR</code> ❗too 🐝</samp> ... 🌘 **2025** ... <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-but_for_all-orangered.svg?logo=cshrp&logoColor=white&color=turquose)](#)</sub>
+🔚 .. <samp>🐝🐝 <code>OR</code> ❗too 🐝</samp> ... 🌘 **2025-2026..** <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-but_for_all-orangered.svg?logo=cshrp&logoColor=white&color=turquose)](#)</sub>
