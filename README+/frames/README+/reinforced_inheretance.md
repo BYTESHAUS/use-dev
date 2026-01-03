@@ -52,4 +52,4 @@ The logic of implementation may be too ornate for straight frames.
 It's not friendly to the strictly functional approach to implementation.
 
 \___________\
-🔚 🌘 2024, 2025
+🔚 🌘 2024-2026..

@@ -47,4 +47,4 @@ Compare this to maintaining gross warehouses for a single well-founded purpose: 
 Processing sync/async streams is still a fresh technique. Here, it's enough to refer to its [foundation](https://github.com/ReactiveX)<sup>:octocat:</sup>.
 
 ___________\
-🌖 2024 .. 2025 .. <b>&Beta;</b>ytesHausMeister 🎼D♭
+🌖 2024 .. 2026 .. <b>&Beta;</b>ytesHausMeister 🎼D♭
