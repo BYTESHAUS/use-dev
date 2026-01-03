@@ -161,4 +161,4 @@ Design-first will create a test structure that is friendly for exploring and int
 * [⭐**ISie**⭐](../../../parts/_ext/ISie/README.md) and WizConstr
 
 \___________\
-🔚 🌘 2024-2025
+🔚 🌘 2024-2026
