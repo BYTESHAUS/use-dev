@@ -29,4 +29,5 @@ Model.Fill(book);
 
 Circumstances and your experiences may suggest even a better workaround.
 
-🔚 .. 2022-2025..
+___________\
+🔚 🌕 2023..2026 .. 
