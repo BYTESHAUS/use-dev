@@ -14,18 +14,18 @@ It's enough for flat, unsophisticated forms, but mundane tasks meet ...
 <details><summary><ins>&nbsp;<b>And then if a ViewModel were printed on a board it would look:</b>&nbsp;</ins></summary></summary>
 &nbsp;
 <picture><img alt="&nbsp; Spaghetti wires snapshot" src="../../../_rsc/img/bigmessowires.com_wired-circuit.jpg" /></picture><br />
-(*Found on bigmessowires.com*)
+(<i>Found on bigmessowires.com</i>)
 
-\________________________________________________________________________________________ </details>
+________________________________________________________________________________________ </details>
 
 ## Idea 
 
 <details><summary><ins>&nbsp;<b>Another snapshot from the same site may give the cue:</b>&nbsp;</ins></summary></summary>
 &nbsp;
 <picture><img alt="&nbsp; Perfectly organized elements on printed board" src="../../../_rsc/img/bigmessowires.com_inegrated-circuit.jpg" /></picture><br />
-(*Found on bigmessowires.com*)
+(<i>Found on bigmessowires.com</i>)
     
-\________________________________________________________________________________________ </details>
+________________________________________________________________________________________ </details>
 
 "Chips" (logical units) shall encapsulate notification logarithms, providing calls to them. How they will be coded: aggregation, injection, or inheritance is a matter of taste and technique. As a variant, they may implement:
 
@@ -58,4 +58,4 @@ There are other ways to improve notification and its realization, but they aren'
 + [Model & ViewModel cohesion](mvvm-vmodel_cohesion.md)
 
 \___________\
-🔚 🌙 2023..2025 .. image credit: bigmessowires.com
+🔚 🌙 2023..2026 .. image credit: bigmessowires.com
