@@ -52,5 +52,5 @@ The following topics contemplate object building:\
 
 Nevertheless, the best technique when hit against the wall is to cut constructors and make other bulky but easy initializations.
 
-\___________\
-🔚 ... 2024-2025 .. image credit: https://globalnews.ca (2024)
+___________\
+🔚 ... 2024-2026 .. image credit: https://globalnews.ca (2024)
