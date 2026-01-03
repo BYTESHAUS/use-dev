@@ -33,4 +33,4 @@ ARRAY
 LINQ is the best solution.
 
 ___________\
-🌒2025 .. BytesHausMeister
+🌒2025-2026.. BytesHausMeister 🚧
