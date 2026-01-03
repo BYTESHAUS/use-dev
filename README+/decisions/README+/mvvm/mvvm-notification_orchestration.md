@@ -57,5 +57,5 @@ There are other ways to improve notification and its realization, but they aren'
 + Any wiring on the _View_.
 + [Model & ViewModel cohesion](mvvm-vmodel_cohesion.md)
 
-\___________\
-🔚 🌙 2023..2026 .. image credit: bigmessowires.com
+___________\
+🔚 🌕 2023..2026 .. image credit: bigmessowires.com
