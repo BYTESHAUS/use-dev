@@ -52,4 +52,4 @@ Contemporary languages can support a vast range of past and future dates<sup>�
 + [**Procurable and dynamic timeline**](README+/procurable_timeline.md)
 
 ___________\
-🔚 2024-2026 ... (image credit: Universe Timeiine from nasa.gov)
+🔚 2024-2026.. (image credit: Universe Timeline from nasa.gov)
