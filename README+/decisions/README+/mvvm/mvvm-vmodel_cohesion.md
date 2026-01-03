@@ -4,7 +4,7 @@
 
 As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern)<sup>🪟</sup> suggest ViewModels will usually straightforwardly aggregate Models:
 
-<details><summary><ins>&nbsp;Example: Book with Editor VM - sketch&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Example: Book with Editor VM - sketch</b>&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp
@@ -75,4 +75,5 @@ Inheriting miscellaneous ViewModels from the root Model for different needs may 
 + 3d party frameworks and libraries provide their own _prêt-à-porter_ MVVM suites. 
 + You may select another, more suitable and advanced option or your own design pattern.
 
-🔚 ..2022-2025..
+___________\
+🔚 🌕 2023..2026 .. 
