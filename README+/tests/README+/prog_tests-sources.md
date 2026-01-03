@@ -17,4 +17,4 @@ CUT FEED
 LACK OF GLOBAL PROVIDERs
 
 ___________\
-🔚 .. 2025 ..
+🔚 .. 2025-2026 ..
