@@ -23,5 +23,4 @@ Guards: pro - contra
 Attributes, enums, lambdas
 
 ___________\
-🔚 .. 2025 ..
-
+🔚 .. 2025-2026 ..

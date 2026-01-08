@@ -1,4 +1,4 @@
-# Polymorphism<sup>➕</sup></samp> &nbsp; &mdash; &nbsp; _Properties “Shifting”_, or _T-R/W Modelling_
+# <code>Polymorphism<sup>➕</sup></samp></code> &nbsp;&mdash;&nbsp; _Properties “Shifting”_, or _T-R/W Modelling_
 
 <table><tr><td>
 
@@ -134,5 +134,5 @@ The easiest way is to have the "full open" class or few and render them through 
 
 We can't escape making the number of interfaces, which equals the required combinations, but the technique matters. In too explosive scenarios, they could be auto-generated (e.g., T4 templates).
 
-\___________\
-🌘 2023-2025 &nbsp; ... &nbsp; (image credit for shape shifter: the poster fragment of "The Catman of Paris", 1946, dir. Lesley Selander)
+___________\
+<sup>🌘 2023-2026.. (image credit for shape shifter: the poster fragment of "The Catman of Paris", 1946, dir. Lesley Selander)</sup>
