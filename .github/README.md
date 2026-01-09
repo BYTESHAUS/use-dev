@@ -27,10 +27,10 @@
 |&thinsp;-&thinsp;- <a href="../README+/decisions/README+/think_in_tasks/README.md">T&thinsp;h&thinsp;i&thinsp;n&thinsp;k&nbsp;  i&thinsp;n &nbsp; t&thinsp;a&thinsp;s&thinsp;k&thinsp;s&thinsp;</a><br />
 <br /><!--      C L A Y    --!>
 ◾ <b>C&thinsp;L&thinsp;A&thinsp;Y</b><br />
-|&thinsp;- Exception wrappers &nbsp;<a href="../src/TuttiFrutti/ExtensionsTests/Exceptions"><i>tests</i></a>🧪<br />
+|&thinsp;- Exception wrappers &rarr; &nbsp;<a href="../src/TuttiFrutti/ExtensionsTests/Exceptions"><i>tests</i></a>🧪<br />
 |&thinsp;- Extensions/shortcuts<br />
 |&thinsp;- 🚧Models on T-R/W<br />
-|&thinsp;- Motley heap <a href="../src/TuttiFrutti/AbcStructTests/Heaps"><i>tests</i></a>🧪<br />
+|&thinsp;- Motley heap&thinsp;&rarr;&thinsp;<a href="../src/TuttiFrutti/AbcStructTests/Heaps"><i>tests</i></a>🧪<br />
 |&thinsp;- <b>W&thinsp;P&thinsp;F</b><br />
 |&thinsp;-&thinsp;- <a href="../src/TuttiFrutti/WinClay/Converters/bool2viz_improved.md">Bool-Vis. converter</a><sup>improved</sup><br />
 <br /><!--               T E S T I N G   --!>
@@ -47,7 +47,7 @@
 |&thinsp;- <a href="../README+/parts/_ext/ISie/README.md"><b>Ɪ&thinsp;S&thinsp;i&thinsp;e</b></a> extensions<br />
 |&thinsp;- <a href="../README+/parts/AbcChrono">Chrono ABC</a><br />
 |&thinsp;- <b>F&thinsp;u&thinsp;n&thinsp;c&thinsp;w&thinsp;a&thinsp;r&thinsp;e</b><br />
-|&thinsp;-&thinsp;- Conversion&nbsp;<a href="../src/TuttiFrutti/ExtensionsTests/Exceptions"><i>tests</i></a>🧪</br />
+|&thinsp;-&thinsp;- Conversion&thinsp;&rarr;&thinsp;<a href="../src/TuttiFrutti/ExtensionsTests/Exceptions">tests</a>🧪</br />
 |&thinsp;- 🐝<a name="UVal" href="../README+/parts/MultifacetVal"><b>Multifacet value</b></a> (<b>Π</b>-Val)<br />
 |&thinsp;- 🚧<a href="../README+/parts/Rvrs">Undo/Redo</a> (Reversible)<br />
 <br/><!--           F R O N T E N D -->
