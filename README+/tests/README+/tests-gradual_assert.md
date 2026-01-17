@@ -49,4 +49,4 @@ and symbolic ranking of failure:\
 + **Gradual assert interlaces with [evaluation tolerance](val_tests-tolerance.md).**
 
 ___________\
-🔚 ...2024-2026... <sub>Collage credit: screenshot of Visual Studio 2022; [HBO mini-series](https://m.imdb.com/title/tt7366338/), 2019</sub>
+🔚 ...2024-2026.. <samp><b>B</b>ytesHausmeister</samp> <sub>Collage credit: screenshot of Visual Studio 2022; [HBO mini-series](https://m.imdb.com/title/tt7366338/), 2019</sub>
