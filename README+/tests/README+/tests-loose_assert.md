@@ -34,4 +34,4 @@ The designated issues can now branch and take forms in
 + [**Tolerance**](tests-value_tolerance.md)
 + _something else coming later_
 
-<div align="right">___________<br />🔚 .. 2025 .. (image credit: christianplass on pixabay.com)</div>
+<div align="right">___________<br />🔚 .. 2025-2026.. (image credit: christianplass on pixabay.com)</div>
