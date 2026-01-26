@@ -36,4 +36,4 @@ void JustDemo(string? title, N? id, Book? book) where N : INumber<N> {
 + your features in any languages.
 
 ___________\
-🔚 .. 2024-2025 ..
+🔚 .. 2024-2026.. 🌛 <samp>>b>B</b>yteshausmeister</samp>
