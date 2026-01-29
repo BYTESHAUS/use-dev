@@ -29,4 +29,4 @@ __Scalability__ of _functionality_ (along with _syntax_) and _logics_
 __Last but not least__, _Reversible_ won't perplex you with non-trivial [questions](reversible_posers.md), which its construction must have answered.
 
 ___________\
-2020 - 2025 ..
+2022 - 2026 ..
