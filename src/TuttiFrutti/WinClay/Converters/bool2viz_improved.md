@@ -54,5 +54,5 @@ The above draft is fairly acceptable, but let's hone it once and for good, to an
 |&thinsp;- **Here is the source code** (**`C#`**):\
 |&thinsp;-&thinsp;- [BoolVsVizConverter.cs](../../../,./../../src/TuttiFrutti/WinClay/Converters/BoolVsVizConverter.cs) 
 
-\___________\
-🔚 .. voilà ..  2025 ..
+___________\
+🔚 .. voilà ..  2026..
