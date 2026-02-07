@@ -1,4 +1,4 @@
-# <code>W&thinsp;P&thinsp;F</code> <sup>improved💫</sup> &nbsp;<samp>&mdash;</samp>&nbsp; `Boolean-to-Visibility` converter
+# [<code>W&thinsp;P&thinsp;F</code>](https://github.com/BYTESHAUS/read-write/blob/main/README+/.net/README+/wpf/README.md) <sup>improved💫</sup> &nbsp;<samp>&mdash;</samp>&nbsp; `Boolean-to-Visibility` converter
 
 Imagine :high_brightness:Lights:high_brightness: elements on the *View* that are switched by `bool Voltage` in its *ViewModel*. That's appealing to couple them with the .NET native [`BooleanToVisibilityConverter`](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.booleantovisibilityconverter).
 
