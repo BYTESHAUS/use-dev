@@ -1,4 +1,4 @@
-<h1 align="center">⭐&thinsp;I&thinsp;S&thinsp;i&thinsp;e&thinsp;⭐ &nbsp;&mdash;&nbsp; <code>.Is.</code><sup>➕</sup> <samp>extensions</samp></h1>
+<h1 align="center">⭐&thinsp;I&thinsp;S&thinsp;i&thinsp;e&thinsp;⭐ &nbsp;<samp>🟰</samp>&nbsp; <code>.Is.</code><sup>➕</sup> <samp>extensions</samp></h1>
 
 <table align="center"><tr valign="top"><td><picture><img src="../../../_rsc/img/ISie.png" alt="&nbsp; I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture></td><td>
 
@@ -20,7 +20,7 @@
 + **Domain**-telling code,
 + more goodies, **but** ...
 
-<h3 align="center">... let's not beat around the bush and first show what's <i>pret-a-porter</i>:</h3>
+<h3 align="center">⏸️ let's not beat around the bush and first show what's <i>pret-a-porter</i>:</h3>
 
 <table align="center"><tr></tr><tr><td>🧪<b>By guidance</b> (recommended)</td><td>⚡<b>Direct</b> (if you want)</td></tr>
   <tr valign="top"><td>
@@ -31,13 +31,13 @@
     
   When you prefer to explore without guidance, just add
     
-   [<ode>using ISie</code>](../../../../src/TuttiFrutti/ISie),
+  ### [<ode>using ISie</code>](../../../../src/TuttiFrutti/ISie)
   
   and let IntelliSense help you!</p>
 
   </td></tr><tr><td colspan="2" align="center">It's better to explore in Visual Studio 2022 or another compatible IDE.</td></tr></table>
 
-<h3 align="center">... narattive resumed ...</h3>
+<h3 align="center">... narattive resumed ⏯️</h3>
 
 ## Why `.Not.`?
 
@@ -63,7 +63,7 @@ It was a natural call to add other evident shortcuts:
 
 ## What's next
 
-**IS<samp>IE</samp>** is a subject of expansion (Unicode alone is a [big candidate](https://www.unicode.org/glossary/)<sup>🔗</sup>) and a platform for kin features:
+**IS<samp>IE</samp>** is a subject of expansion ([Unicode glossary](https://www.unicode.org/glossary/)<sup>🔗</sup> is a promising candidate) and a platform for kin features:
 
 + `.Equal` for strings needs better syntax than the onerous comparison options. 
 + detecting tongues used in text (`Has<Greek>`),
