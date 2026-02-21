@@ -1,4 +1,4 @@
-# Software Tests &nbsp;<samp>&mdash;</samp>&nbsp; _Loose Assert_ &nbsp;<samp>&mdash;</samp>&nbsp; Value Tolerance
+# Programmatic Tests &nbsp;&mdash;&nbsp; _Loose Assert_ &thinsp;&mdash;&thinsp; Value Tolerance
 
 <table><tr><td><a href="tests-loose_assert.md"><img alt="&nbsp; LOOSE ASSERT" src="../../_rsc/img/_nav/tiles/test/assert_art.jpg" /></a>
 </td><td>
@@ -22,5 +22,5 @@ Current implementation supplies only absolute [[Precision]](../../../src/TuttiFr
 
 // ... 🚧 TO IMPLEMENT ...
 
-\__________\
-🔚 2024-2025 ... 🚧 pending 🚧 ...
+__________\
+🔚 2024-2026.. 🚧 pending 🚧 ...
