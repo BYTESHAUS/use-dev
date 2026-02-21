@@ -3,10 +3,9 @@
 > ### Genuine **`builders`/`wizards`** are not only for chained calls, coding convenience, and mistake-proof input. And not only far advanced Intellisense but ...
 > <h3 align="center">Scripting meta-language as an alternative design paradigm (not simple patterns).</h3>
 > &nbsp;
+> ;<b>BUILDERS</b>&thinsp;»&thinsp;</ins> are both <samp>GRAPH COMPLEXITY</samp> and <samp>EXPONENTIAL <b>DISASTER</samp></b>&thinsp; in less or strongly-typed languages.
 
 Only the theoretical overcomplexity of being an uncompromising language feature or library, and the heavy practical overhead of endeavors, made them exotic in our projects.
-
-<blockquote align="center"><ins>&thinsp;«&thinsp;<b>BUILDERS</b>&thinsp;»&thinsp;</ins> are both <samp>GRAPH COMPLEXITY</samp> and <samp>EXPONENTIAL <b>DISASTER</samp></b>&thinsp; in less or strongly-typed languages.</blockquote>
 
 <table><tr valign="top"><td width="40%"><picture><img alt="&nbsp;Construction crane collapse" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/illus/crane_collapse-CA-2024(globalnews.ca).jpg" /></picture></td><td>
 <div>We talk about multi-variant branching menus with intuitive context-sensitive options, like:</div>
@@ -53,4 +52,4 @@ The following topics contemplate object building:\
 Nevertheless, the best technique when hit against the wall is to cut constructors and make other bulky but easy initializations.
 
 ___________\
-🔚 ... 2024-2026 .. image credit: https://globalnews.ca (2024)
+🔚 ... <sub>2024-2026..</sub> <samp><b>B</b>yteshaus</samp> <sub>image credit: https://globalnews.ca (2024)</sub>
