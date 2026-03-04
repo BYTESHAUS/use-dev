@@ -1,24 +1,25 @@
 # MVVM &nbsp;&mdash;&nbsp; Orchestration of notifications
 
-A little reminder. WPF built-in [DataContext](https://learn.microsoft.com/dotnet/desktop/wpf/data/how-to-specify-the-binding-source)<sup>🪟</sup> has only to raise `PropertyChanged`<sup>:raising_hand:</sup> with the name of the item, whose value bound elements must re-evaluate.\
-&nbsp; &nbsp; <sup>:raising_hand:</sup>&nbsp;<sub>'Changed' deceives, since it's the most suitable cause but not the essence of the event.</sub>
+WPF built-in [DataContext](https://learn.microsoft.com/dotnet/desktop/wpf/data/how-to-specify-the-binding-source)<sup>🪟</sup> has only to raise `PropertyChanged`<sup>:raising_hand:</sup> with the name of the item, whose value bound elements must re-evaluate.\
+&nbsp; &nbsp; <sup>:raising_hand:</sup>&nbsp;<samp>'Changed' deceives, since it's the most suitable cause but not the essence of the event.</samp>
 
 WPF developers must know the easy [Microsoft recipe](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/data/how-to-implement-property-change-notification)<sup>🪟</sup>: `set {field = value; OnPropertyChanged();}`. 
 It's enough for flat, unsophisticated forms, but mundane tasks meet ...
 
 * tied and calculated values,
 * groups and hierarchies of cross-dependent ViewModels, 
-* axiomatic reuse of notification logic,
-* diverse notifications mechanism (not only _PropertyChanged_)
+* axiomatic reuse of notification logic and schemes,
+* diverse notifications mechanism (not only _PropertyChanged_),
+* redundancies and unwanted repetitions.
 
-<details><summary><ins>&nbsp;<b>And then if a ViewModel were printed on a board it would look:</b>&nbsp;</ins></summary></summary>
+<details><summary><ins>&nbsp;<b>And then if a ViewModel were printed on a board it would look like:</b>&nbsp;</ins></summary></summary>
 &nbsp;
 <picture><img alt="&nbsp; Spaghetti wires snapshot" src="../../../_rsc/img/bigmessowires.com_wired-circuit.jpg" /></picture><br />
 (<i>Found on bigmessowires.com</i>)
 
 ________________________________________________________________________________________ </details>
 
-## Idea 
+## Counteroffer 
 
 <details><summary><ins>&nbsp;<b>Another snapshot from the same site may give the cue:</b>&nbsp;</ins></summary></summary>
 &nbsp;
@@ -58,4 +59,4 @@ There are other ways to improve notification and its realization, but they aren'
 + [Model & ViewModel cohesion](mvvm-vmodel_cohesion.md)
 
 ___________\
-🔚 🌕 2023..2026 .. image credit: bigmessowires.com
+🔚 🌕 2023-2026.. image credit: bigmessowires.com
