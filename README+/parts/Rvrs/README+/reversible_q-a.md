@@ -1,4 +1,4 @@
-# Reversible &nbsp; &mdash; &nbsp; Q&A
+# Reversible &nbsp;&mdash;&nbsp; Q&A
 
 + **Is the stack homogenous?**\
 Yes, but generic.
@@ -24,3 +24,4 @@ Nope. When not specified/applied, no check is done. It's reasonable when the num
 2) operators `implicit`\\`explicit` are static - what about access to instance props and methods?
 
 
+🔚 🚧🖋️🚧
