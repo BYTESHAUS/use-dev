@@ -1,18 +1,16 @@
 # P<samp>atterns _via_ Techniques:</samp> Object-oriented C<samp>IRCUITRY</samp>
 
-## Introduction by case
-
-> __«C<samp>IRCUITRY</samp>» as an idea is better presented by _inductive reasoning_ &thinsp;&mdash;&thinsp; from a case below.__
+> ### __«C<samp>IRCUITRY</samp>» as an idea is better presented by _inductive reasoning_ &thinsp;&mdash;&thinsp; from a case below.__
 
 <div>Consider a bundle of interlaced "<i>either</i>"-functions:</div>
 <div align="right"><sub><i>C#-like pseudo-code for brevity</i></sub></div>
 
 ```csharp
 class Is {
-  string subject;
+  string Subject { get; set; }
 
-  bool NullOrEmpty => subject is null || '' == subject;
-  bool NullOrWhitespace { ... };
+  bool NullOrEmpty => Subject is null || '' == Subject;
+  bool NullOrWhitespace => string.IsNullOrWhiteSpace(Subject);
   bool Ascii { ... };
   bool Latin { ... };
   bool AlphaNumeric { ... };
@@ -40,16 +38,17 @@ class Not : Is {
 class Is<Fn> : Is where Fn : Function<bool, bool> {
    override NullOrEmpty => Fn(NullOrEmpty);
    ...
+  override AlphaNumeric => Fn(AlphaNumeric);
 }
 
 class Not : Is<Invert>;
 class Denier : Is<False>;
 class Stub : Is<True>;
-class Identity : Is<Wire>; 
+class Identity : Is<Wire>; // repeats <code>Is</code>
 
 ```
 
-This simplest _unary boolean_ has four variants &mdash; other types with more than one operand will reveal an enormous space of ... 
+This simplest _unary boolean_ has four variants, and with two practical may be a surplus **but** other types with more than one operand will reveal an enormous space of ... 
 
 <h2 align="center">... opportunities, to propose a few:</h2>
 
@@ -68,7 +67,7 @@ This simplest _unary boolean_ has four variants &mdash; other types with more th
 
 ```csharp
 
-"yada yada".Compare<LooseContent>("blah blah");
+"yada_yada".Compare<LooseContent>("blah blah");
 
 ```
 
@@ -108,7 +107,7 @@ text.Is<Greek, Latin>.Alphanumeric;
 
 This must be the most powerful and controversial proposition.
 
-<details><summary><a id="why-circuitry" /><ins>&nbsp &nbsp;<h3>Now the electrical metaphor must have taken shapes&thinsp;:</h3>&nbsp &nbsp;</ins></summary>
+<details><summary><a id="why-circuitry" /><h3><ins>Now the <i>electrical</i> metaphor must have taken shapes&thinsp;</ins>:</h3>&nbsp &nbsp;</summary>
 
 <table><tr valign="top"><td width="40%"><picture><img alt="&nbsp;electrical circuit collage" src="../../../_rsc/img/illus/Circuitry.jpg" /></picture></td>
 <td>
@@ -122,11 +121,10 @@ This must be the most powerful and controversial proposition.
 
 Classes are PLATES to make BOARDS.
   
-  <p>And the running code is the current. We are back to the roots (of machine language).</p>
+  <p>And the running code is the current. Great, we are back to the roots (of machine language).</p>
 </td>
 </tr></table>
-
-\___________</details>
+</details>
 
 ## Wrap up. Pros and Cons
 
@@ -161,4 +159,4 @@ Design-first will create a test structure that is friendly for exploring and int
 * [⭐**ISie**⭐](../../../parts/_ext/ISie/README.md) and WizConstr
 
 ___________\
-🔚 🌘 2024-2026.. <samp><b>B</b>yeshausMeister</samp>
+🔚 🌘  <samp>2024-2026..<b>B</b>yteshausMeister</samp>
