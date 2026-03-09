@@ -7,7 +7,24 @@ NOT ONLY BOILERPLAT but SOUND ! [quality&nbsp;code](https://github.com/BYTESHAUS
 
 ### BADGE: DEP-CY INVER -- Collection numbering on demand 🚧
 
+
+<table><tr valign="top"><td width="33%">
+
 Let's imagine a collection and one of its usual "derivative" - the sequence number of item. 
+  
+</td><td width="33%">
+
+```mermaid
+classDiagram
+    Line <|-- Client
+```
+  
+</td><td width="*">
+
+As an example
+
+</td></tr></table>
+
 
 DIAGRAM: As real world example, a line to counter where one could inquiry his or her number to evaluate the wait time.
 
