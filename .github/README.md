@@ -80,7 +80,7 @@
     </td>
     <td>             <!--     M U L T I F A C E T    --!>
       <a href="../README+/parts/MultifacetVal/README.md"><img src="../README+/_rsc/img/_nav/tiles/U-Val_bw-200px.png" alt="&nbsp;Multifacet value"/>
-      <br /><b>✒️&thinsp;MULTIFACET VALUE<b></a>&thinsp;🐝
+      <br /><b>&thinsp;MULTIFACET VALUE<b></a>&thinsp;✒️🐝
     </td>
 </tr><tr></tr><tr align="center">
                     <td>      <!--    T A S K S   a s   M O D E L     --!>
@@ -89,7 +89,7 @@
     </td>
  <td>                 <!--    U N D O     --!>
       <a href="../README+/parts/Rvrs/README.md"><img src="../README+/_rsc/img/_nav/tiles/UndoRedo_bw_200px.png" alt="&nbsp;Undo-Redo"/>
-      <br /><b>🚧&thinsp;REVERSIBLE</b></a>&thinsp;🚧
+      <br /><b>REVERSIBLE</b></a>🚧&thinsp;🚧
     </td>
 </tr><tr></tr><tr align="center">
     <td>                                                  <!--    R E A D - W R I T E     --!>
