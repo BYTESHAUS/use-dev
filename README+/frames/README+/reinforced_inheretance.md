@@ -6,13 +6,14 @@
 
 <table><tr valign="top">
 <td width="40%"><picture><img src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/photo/misc/rebar_closeup.jpg" alt="&nbsp;rebar closeup" title="&nbsp;Image credit: Wiki Commons&#013;&#010;(for illustration purposes only)" /></picture></td><td>
- <p><ins>&nbsp;Look at the following approach:&nbsp;</ins></p>
+  
+ <ins>&nbsp;Consider the following approach:&nbsp;</ins>
   <ol>
-  <li><code>Public</code> methods are non-<code>abstract</code> and limited to the <b>logic flow</b> not delving into implementation details.<br />(Call operations, branch, get and pass values, handle and raise exceptions)</li>
+  <li><code>Public</code> methods are neither <code>abstract</code> nor <code>virtual</code> but restraint to the <b>logic flow</b> (not delving into implementation details).<br />(Call operations, branch, get and pass values, handle and raise exceptions)</li>
   <li><b>Implementation</b> is delegated to non-public (<code>private</code>, <code>protected</code>, <code>internal</code>) methods, which these public "dispatchers" call.</li>
   <li><code>Public</code> methods are "<b>sealed</b>" (non-virtual, not to override).</li>
   <li>Non-public implementation methods can be <b>virtual</b> (get overridden).</li>
-  <li><ins>Optional:</ins> implementation methods do not interact with each other.</li>
+  <li><ins>Wanted:</ins> implementation methods do not interact with each other.</li>
 </ol>
   <p><b>Derived classes will have to follow the "armature".</b></p>
   <p dir="rtl"><mark>.You may notice a touch of functional programming in this approach</mark></p>
@@ -35,7 +36,7 @@ public class Sample {
 }
 ```
 
-Besides discipline, order, and readability, this frame makes classes friendly to functional parametrization (that's irrelevant to inheritance):
+Besides discipline, order, and readability, this frame makes classes friendly to functional parametrization. That's irrelevant to inheritance:
 
 + parametrizing an object with subfunctions;
 + dynamic programming of sub-calls;
@@ -45,11 +46,11 @@ Besides discipline, order, and readability, this frame makes classes friendly to
 
 ## Contraindications
 
-It will be a surplus for simple `classes` or short methods.
+🐋 It will be a surplus for simple `classes`, shallow logic, or short methods.
 
-The logic of implementation may be too ornate for straight frames.
+🔴 The logic of implementation may be too ornate for straight frames.
 
-It's not friendly to the strictly functional approach to implementation.
+🖖🏾 It's not friendly to the strictly functional approach to implementation.
 
 \___________\
-🔚 🌘 2024-2026..
+🔚 🌘 <samp><b>B</b>yteshausmeister</samp> 2024-2026..
