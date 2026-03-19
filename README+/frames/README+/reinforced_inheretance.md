@@ -9,9 +9,9 @@
   
  <ins>&nbsp;Consider the following approach:&nbsp;</ins>
   <ol>
-  <li><code>Public</code> methods are neither <code>abstract</code> nor <code>virtual</code> but restraint to the <b>logic flow</b> (not delving into implementation details).<br />(Call operations, branch, get and pass values, handle and raise exceptions)</li>
-  <li><b>Implementation</b> is delegated to non-public (<code>private</code>, <code>protected</code>, <code>internal</code>) methods, which these public "dispatchers" call.</li>
-  <li><code>Public</code> methods are "<b>sealed</b>" (non-virtual, not to override).</li>
+  <li><code>Public</code> methods are restraint to the <b>logic flow</b> (not delving into implementation details).<br />(Call operations, branch, get and pass values, handle and raise exceptions)</li>
+  <li><b>Implementation</b> is delegated to non-public (as <code>protected</code>) methods, which the public "dispatchers" call.</li>
+  <li><code>Public</code> methods are "<b>sealed</b>" (neither <code>abstract</code>, nor <code>virtual</code> &ndash; can't override).</li>
   <li>Non-public implementation methods can be <b>virtual</b> (get overridden).</li>
   <li><ins>Wanted:</ins> implementation methods do not interact with each other.</li>
 </ol>
