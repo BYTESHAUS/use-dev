@@ -61,9 +61,9 @@ Cumbersome?
 
 &nbsp; &nbsp; <sup>🙋</sup> <sub>That will be another story how many test projects won't build and how many tests (after syntax fix) will fail - those `Expect.Throw<Exception>`.</sub>
 
-### REVERS: wrong syntax valid logic
+### REVERS: wrong syntax &ndash; valid logic
 
 **P.S. Tip:** `// // real comment` will allow quick manual tests: _Select&nbsp;All_, _Uncomment_, and _Undo_ (<kbd>Ctrl+A</kbd>, <kbd>Ctrl+K+U</kbd>, and <kbd>Ctrl+Z</kbd> in Visual Studio).
 
-\__________\
-🔚 🌔 2025 ... 🚧🚧🚧 ... to be continued ... 🚧🚧🚧
+__________\
+🔚 🌔 2025-2026 ... 🚧🚧🚧 ... under construction ... 🚧🚧🚧
