@@ -4,7 +4,7 @@ See appendices.
 
 RxJS, RxJS ///////////////////////////////////////////////////
 
-> ### Many tailored and most well-known templates/paradigms, such as <samp><b>MVC</b></samp>, <samp><b>MVP</b></samp>, <samp><b>MVVM</b></samp>, <samp><b>MV<i>W</i></b></samp>[hatever], <samp><b>POCO</b></samp>, and custom solutions rest on [models](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/design/parts/README+/app-model.md)<sup>⬅️</sup>. (Which do not?)<br />
+> ### Many tailored and most well-known templates/paradigms, such as <samp><b>MVC</b></samp>, <samp><b>MVP</b></samp>, <samp><b>MVVM</b></samp>, <samp><b>MV<i>W</i></b></samp>[hatever], <samp><b>POCO</b></samp>, and custom solutions rest on [models](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/design/parts/README+/app-model.md)<sup>⬅️</sup>. (Which do not except trash code?)<br />
 > #### Where developers bind presentations, actions, and messages to values/properties/callbacks. 
 
 <h3 align="center">This approach is productive for rough abstraction and logical division, but oversimplistic and static.</h3>
@@ -13,6 +13,8 @@ It treats models as snapped in a moment when every property is known, and their 
 as values can be predictably (pre)set/reset, or coded in a time slot, imperceptible to users or insignificant for hardware/software clients. 
 
 <h3 align="center">However</h3>
+
+BETTER PIC REQUIRED !!
 
 <table><tr valign="center"><td align="center" width="40%"><picture><img src="../../../_rsc/img/illus/TaskAsModel_deco.png" alt="&nbsp; Layers delayed communication" /></picture></td><td>
 <div>Domain <b>and</b> IT realities are not always under the best of circumstances and meet:</div>
