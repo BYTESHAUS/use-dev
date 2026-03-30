@@ -24,13 +24,13 @@ public class BoolVsVizConverter : IValueConverter
         if (value is not Visibility viz)
             return DependencyProperty.UnsetValue;
 
-        if (TryMatch(viz, out var visible))
+        if (CouldMatch(viz, out var visible))
             return visible;
 
         return DefaultBack ?? DependencyProperty.UnsetValue;
     }
 
-    private bool TryMatch(Visibility? viz, out bool res) {
+    private bool CouldMatch(Visibility? viz, out bool res) {
         res = false;
 
         if (viz == True)
