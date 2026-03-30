@@ -8,7 +8,7 @@ public class Roman
     public const ulong MaxAsDecimal = 3_999;
     public const string Pangram = "MCDXLIV";
 
-    public static bool TryPresent<N>(N value, out string result) where N : INumber<N> {
+    public static bool CouldPresent<N>(N value, out string result) where N : INumber<N> {
         const string CantBe_ = "Roman number can't be ";
         var success = false;
 

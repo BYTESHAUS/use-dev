@@ -13,14 +13,14 @@ static class Units<TUnit> where TUnit : Enum
     }
 
     internal static object[][] SwapParseable(ObjArrays source, int[] indexes) {
-        var unitCasted = source.Select(x => (success: TryCast(x, indexes, out var cast), result: cast.ToArray()))
+        var unitCasted = source.Select(x => (success: CouldCast(x, indexes, out var cast), result: cast.ToArray()))
             .Where(x => x.success).Select(x => x.result);
         return unitCasted.ToArray();
     }
 
-    internal static bool TryCast(object[] raw, int[] indexes, out IEnumerable<object> casted) {
+    internal static bool CouldCast(object[] raw, int[] indexes, out IEnumerable<object> casted) {
         var units = indexes.Select(i =>
-                (success: Match.TryLoose(raw[i] as string ?? Argument.Throw("Can't cast to string"), out TUnit? unit), result: unit, index: i))
+                (success: Match.CouldLoose(raw[i] as string ?? Argument.Throw("Can't cast to string"), out TUnit? unit), result: unit, index: i))
             .ToArray();
 
         casted = raw.Select((x, index) =>
@@ -30,7 +30,7 @@ static class Units<TUnit> where TUnit : Enum
     }
 
     private static IEnumerable<(N, TUnit)> SwapParseable<N>(IEnumerable<(N value, string unit)> source) where N : INumber<N> {
-        var casted = source.Select(x => (value: x.value, success: Match.TryLoose(x.unit, out TUnit? match), unit: match));
+        var casted = source.Select(x => (value: x.value, success: Match.CouldLoose(x.unit, out TUnit? match), unit: match));
         var unitized = casted.Where(x => x.success).Select(x => (x.value, x.unit));
 
         return unitized;
