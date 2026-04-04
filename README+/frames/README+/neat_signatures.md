@@ -1,6 +1,6 @@
 # Quality Code &thinsp;&rarr;&thinsp; Neat Signatures
 
-> ### Signatures are the Achilles' heel of the coherent design. They often remain the last to clean and organize.<br />When applies they are often contra to object-oriented tools
+> ### Signatures are the Achilles' heel of the coherent design. They often remain the last to clean and organize.<br />When applies they are often contrary to object-oriented paradigms
 
 - ### Poor readability
 
