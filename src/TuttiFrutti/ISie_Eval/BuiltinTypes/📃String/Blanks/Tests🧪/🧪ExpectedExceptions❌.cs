@@ -23,6 +23,7 @@ public class ErrorsAndExceptions : Arrange
         _ = "".Not.Ascii;
         //Error = Empty => "".Is.Ascii;
         // ... unless explicitly assigned as next
+        bool isIt = "".Is.Ascii;
         if ("".Is.Ascii) ;
     }
 }
