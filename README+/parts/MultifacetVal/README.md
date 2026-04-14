@@ -1,4 +1,4 @@
-<h1 align="center">Multifaceted Value 💠 <code>&thinsp;Π-Val&thinsp;</code></h1>
+<h1 align="center">Multifaceted Value 💠 <code>&thinsp;&#8511;-Val&thinsp;</code></h1>
 
 <p dir="rtl">?Gauges&nbsp;-<br />!<b>300</b>&nbsp;-<br />
 ?What 300&nbsp;-<br />?What gauges&nbsp;-</p>
