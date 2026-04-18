@@ -1,24 +1,25 @@
-<h1 align="center">Multifaceted Value 💠 <code>&thinsp;Π-Val&thinsp;</code></h1>
+<h1 align="center">Multifaceted Value 💠 <code>&thinsp;&#8511;-Val&thinsp;</code></h1>
 
 <p dir="rtl">?Gauges&nbsp;-<br />!<b>300</b>&nbsp;-<br />
 ?What 300&nbsp;-<br />?What gauges&nbsp;-</p>
 
  You may find the folklore right above dull, but not pointless:
  
-> ### **Math deals with <mark>abstract numbers</mark>** (_numerus numerans_) and **computers operate on pure digits**,
-
-<p align="center"><b>but not software developers and users:</b></p>
-
-> ### The "inputs" and "outputs" of the code are likely to be anchored to the material world, where numbers can be <mark>concrete</mark> (<i>numerus numeratus</i>) or <mark>denominated</mark> (<i>numerus denominatus</i>).
+> ### **Math deals with <mark>abstract numbers</mark>** (<samp>_numerus numerans_</samp>) and **computers operate on pure digits**,
+> <h4 align="center">but not software developers and users:</h4>
+> <h3>The "inputs" and "outputs" of the code are likely to be anchored to the material world, where numbers can be <mark>concrete</mark><sup>🧮</sup> or <mark>denominated</mark><sup>⚖️</sup>.</h3>
+> &nbsp; <sup>🧮</sup> <samp><i><b>numerus numeratus</b></i> as five apples or three cats</samp><br />
+> &nbsp; <sup>⚖️</sup> <samp><i><b>numerus denominatus</b></i> as five feet or three Newton</samp>
  
-Verbal, documented, and **programmatic** communications frequently rely on titles and contexts and omit tags/units. Shall a context wane &thinsp;&mdash;&thinsp; values may "roam" between denominators:
+Verbal, documented, and **programmatic** communications frequently rely on titles and contexts and omit tags/units. Shall a context wane &thinsp;&ndash;&thinsp; values may "roam" between denominators:
 
 <table><tr></tr><tr><td>
 <details><summary>&nbsp;<ins>&nbsp; <b>Temperature <code>2.7</code> is</b>&thinsp;</ins><b> .&nbsp;.&nbsp;.</b></summary>
  
-<ins><b>the baseline of the Universe space in <i>Kelvin</i></b></ins> but in  <i>Celsius</i> or <i>Fahrenheit</i> &nbsp;&mdash;&nbsp; a casual weather for many non-astronauts.<sup>🌡️</sup><br />
+<ins><b>the baseline of the Universe space in <i>Kelvin</i></b></ins> but ...\
+in  <i>Celsius</i> or <i>Fahrenheit</i> &ndash; a casual weather for many non-astronauts.<sup>🌡️</sup><br />
 
-Other confusions:
+More confusions:
 
 - Earth's closest approach to Mars is ca. `33'900'000` _miles_ but it seems credible in _kilometers_ and _nmi_.
 - A child's age of `7` can imply months and years.
@@ -26,7 +27,7 @@ Other confusions:
 - _`Jack`_ can be family, given (not only at birth), and a branded name.
 - Five stars can mean a constellation and an estimation.
 
-&nbsp; &nbsp;  &nbsp; &nbsp; <sup>🌡️</sup> <samp>`-40°` where **C** and **F** intercept is even more flawed &thinsp;&mdash;&thinsp; is a case required?</samp>
+&nbsp; &nbsp;  &nbsp; &nbsp; <sup>🌡️</sup> <samp>`-40°` where &#8451; and &#8457; intercept is even more flawed &ndash; is a case required?</samp>
 
 </td></tr></table></details>
 
@@ -79,7 +80,7 @@ destroy participant MCO
 
 \____________________________________________________________________________________________________ </details>
 
-<details><summary><ins>&nbsp;Our framework could save astronomical bucks:&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Our framework could save astronomical bills:&nbsp;</ins></summary>
 
 ```diff
 
@@ -201,4 +202,4 @@ It applies to common-zero factored units, for example:
 ``` var sum = Length.Meter(1) + Length.Centimeter(2)```
 
  ___________\
-🔚 🌕 2024..2026.. 🚧🚧🚧 WORK in PROGRESS 🚧🚧🚧 ...
+🔚 🌕 2024..2026.. Byteshausmeister 🚧🚧🚧 WORK in PROGRESS 🚧🚧🚧 ...

@@ -1,4 +1,4 @@
-# Chronology &nbsp;&mdash;&nbsp; Timelines &nbsp; &mdash; &nbsp; Events
+# Chronology &#10155; Timelines &#10156; Events
 
 <table><tr>></tr><tr><td><picture><img width="300px" alt="&nbsp; Universe timeline (nasa.gov)" src="../../../README+/_rsc/img/Chrono/NASA-Universe_timeline.jpg"</picture></td><td>
 
