@@ -1,4 +1,4 @@
-# `Programmatic Tests` &nbsp;&mdash;&nbsp; Syntax
+# `Programmatic Tests` &nbsp;&mdash;&nbsp; Syntax improvement
 
 Testing writings must meet tougher requirements than the code they prove: 🅰️ be more readable (since they provide entry to the logic and shall be readable for readers ) and **B** be really compact (test coverage is SURPLUS by nature).
 
@@ -27,4 +27,4 @@ testing invalid calls
 must be more elaborate
 
 ___________\
-🔚 .. 2023-2025 ..
+🔚 .. 2023-2026..
