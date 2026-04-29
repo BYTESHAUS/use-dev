@@ -1,11 +1,17 @@
 # P<samp>rog Tests</samp> &nbsp;&mdash;&nbsp; Loosing the `Asserts`
 
-### We are accustomed to thinking of proofs in categorical conditions, which a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
+> ## We are accustomed to thinking of proofs in categorical conditions, which a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
+> ## And such _truth telling_ is based, at first sight: 
 
-This _truth telling_ is based, at first sight: 
+<details><summary><h3><ins><code>5x5</code> will be <code>25</code> (not `25.000'001`), but...</h3></ins></summary>
 
-* <b>`5x5`</b> will be **25** (not `25.000'001`),
-* the longest <kbd>password</kbd> must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, ⟨š">_diactrics_</span> in every char, CAOTCHA
+1/900    floating logic error
+
+__________</details>
+
+1/0--
+
+* the longest <kbd>password</kbd> or _token_ must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, ⟨š">_diactrics_</span> in every char, CAOTCHA
 * a UI element can be either **visible** or not RAZLICHINYI POP
 
 &thinsp;&mdash;&thinsp; but enough life scenarios will defy the "black-and-white" postulate.
