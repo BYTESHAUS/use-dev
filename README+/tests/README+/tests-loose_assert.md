@@ -1,20 +1,22 @@
-# P<samp>rog Tests</samp> &nbsp;&mdash;&nbsp; Loosing the `Asserts`
+<h1 align="center">P<samp>rog Tests</samp> &nbsp;&mdash;&nbsp; &Lscr;oosing the <code>Assert</code>s</h1>
 
-> ## We are accustomed to thinking of proofs in categorical conditions, which a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
-> ## And such _truth telling_ is based, at first sight: 
+> ## We are accustomed to thinking of proofs (not only software tests) in categorical conditions that a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
+ 
+## Such _truth telling_ is based, at first sight&nbsp;...<br />&nbsp; <sup><samp>...&nbsp; but life scenarios will defy the "black-and-white" postulate.</samp></sub>
 
-<details><summary><h3><ins><code>5x5</code> will be <code>25</code> (not `25.000'001`), but...</h3></ins></summary>
+### ✔️ $5*5$ must be $25$ and not $25.000'000'000'001$ but&nbsp;...
 
-1/900    floating logic error
+not for infinite fractions as $π$ or $1/9$, 
+fundamental problems with [floating-point calc](https://en.wikipedia.org/wiki/Floating-point_arithmetic#Accuracy_problems)<sup><b>W</b></sup>, and 
+I DON'T NEED EXTRA MATH and CALS for 25
 
-__________</details>
+### ✔️ the longest <kbd>password</kbd> must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, ⟨š">_diactrics_</span> in every char, but&nbsp;
 
-1/0--
+not for CAPTCHA
+ 
+### ✔️ a UI element can be either **visible** or not but&nbsp;...
 
-* the longest <kbd>password</kbd> or _token_ must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, ⟨š">_diactrics_</span> in every char, CAOTCHA
-* a UI element can be either **visible** or not RAZLICHINYI POP
-
-&thinsp;&mdash;&thinsp; but enough life scenarios will defy the "black-and-white" postulate.
+elements can be faded, hidden or ...
 
 Let's take a sports break to compare and SPARK the imagination:
 
