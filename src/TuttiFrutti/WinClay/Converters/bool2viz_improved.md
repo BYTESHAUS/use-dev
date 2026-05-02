@@ -1,4 +1,4 @@
-# [<code>W&thinsp;P&thinsp;F</code>](https://github.com/BYTESHAUS/read-write/blob/main/README+/.net/README+/wpf/README.md) <sup>improved💫</sup> &nbsp;<samp>&mdash;</samp>&nbsp; `Boolean-to-Visibility` converter
+# [<code>W&thinsp;P&thinsp;F</code>](https://github.com/BYTESHAUS/read-write/blob/main/README+/.net/README+/wpf/README.md) <sup>improved💫</sup> &nbsp;&mdash;&nbsp; `Boolean-to-Visibility` converter
 
 Imagine :high_brightness:Lights:high_brightness: elements on the *View* that are switched by `bool Voltage` in its *ViewModel*. That's appealing to couple them with the .NET native [`BooleanToVisibilityConverter`](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.booleantovisibilityconverter).
 
@@ -26,10 +26,9 @@ XAML:
 <local:BooleanToVisibilityConverter x:Key="BooleanToVisibility" />
 <local:BooleanToVisibilityConverter x:Key="InvertedBooleanToVisibility" Invert="True" />
 ```
-\__________________________________________
-</details>
+\__________________________________________</details>
 
-The above draft is fairly acceptable, but let's hone it once and for good, to an accomplished version:
+> ### The above draft is fairly acceptable, but let's hone it once and for good, to an accomplished version:
 
 + supporting any constant of [`Visibility`](https://docs.microsoft.com/en-us/dotnet/api/system.windows.visibility)
 + handling *null* for bool
@@ -55,4 +54,4 @@ The above draft is fairly acceptable, but let's hone it once and for good, to an
 |&thinsp;-&thinsp;- [BoolVsVizConverter.cs](../../../,./../../src/TuttiFrutti/WinClay/Converters/BoolVsVizConverter.cs) 
 
 ___________\
-🔚 .. voilà ..  2026..
+🔚 .. voilà .. 2023-2026..
