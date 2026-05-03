@@ -1,4 +1,4 @@
-> ### Enough reasons speak for a new testing doctrine and a deep rework of test frameworks.<br />This is a serious and tremendous [CHALLENGE](https://github.com/byteshaus/read-write/tree/main/README+/software/meta/SaTaS/README.md), and to put it off, let's first mend what's reasonable.
+> ### Enough reasons speak for a new testing doctrine and a deep rework of test frameworks.<br />This is a serious and tremendous [CHALLENGE](https://github.com/byteshaus/read-write/tree/main/README+/software/_meta/notes/SaTaS/README.md), and to put it off, let's first mend what's reasonable.
 
 <table><tr valign="top"><td>
 <h3 align="center"><picture><img alt="&nbsp; TEST PATCH/FRAME WORK" src="../_rsc/img/labels/TestPatchFrameWork_h50px.jpg" /></picture></h1>
