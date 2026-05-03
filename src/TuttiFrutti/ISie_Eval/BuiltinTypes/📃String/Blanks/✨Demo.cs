@@ -68,7 +68,7 @@ public class Demo : Arrange
         False = "".Is.Spaces;
         False = "".Is.SingleSpace;
 
-        True = "".Is.EmptyOr.Whitespace;
+        True = "".Is.EmptyOr.Spaces;
     }
 
     [SyntaxDraft]

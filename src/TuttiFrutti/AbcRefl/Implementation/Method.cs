@@ -26,7 +26,6 @@ public class Method
         new(typeof(I), name, signature);
 
     public object? Invoke(params object?[] args) {
-
         if (_method is null)
             throw new ArgumentException($"{_declType.FullName}.{_name}(): not found");
         try {

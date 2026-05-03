@@ -3,7 +3,8 @@ public class Tuples
 {
     [Test]
     public void TabularSwitch() {
-        var aaa = new UsingDelegate<FilterDelegate> { };
+
+        var sample = new UsingDelegate<FilterDelegate> { };
 
     }
 
