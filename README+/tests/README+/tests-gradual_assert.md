@@ -1,4 +1,4 @@
-# Prog Tests &nbsp;<samp>&mdash;</samp>&nbsp; _Loose Assert_ &nbsp;<samp>&mdash;</samp>&nbsp; Graduality
+# Prog Tests &nbsp;<samp>&mdash;</samp>&nbsp; _&Lscr;oose `Assert`_ &nbsp;<samp>&mdash;</samp>&nbsp; Graduality
 
 <table><tr valign="top"><td width="40%"><picture><img alt="&nbsp;Passed🟩: 388, failed🟥: 165. Not great, not terrible." 
  src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/memes/Tests-NotGreatNotTerrible.jpg" /></picture>
@@ -18,7 +18,7 @@
 <li>small <b>vs</b>. huge deviation from the expected interval,</li>
 <li>fully unexpected result,</li>
 <li>sudden exception,</li>
-<li>timeout,</li>
+<li>timeout (or loss of environment),</li>
 <li>irrelevant error (e.g. canceled, connection error, resource fail, <i>etc.</i>).</li>
  </ul>
 <p>Here empty methods and tests for expected exceptions look to be the only unequivocal.</p>
@@ -45,8 +45,8 @@ and symbolic ranking of failure:\
 <picture><img alt="&nbsp;Conversion precision severe and moderate fails" src="../../_rsc/img/snap/tests/funcware-convert-forces-fails_succeess.jpg" /></picture>
 
 ## Relevant topics
-
-+ **Gradual assert interlaces with [evaluation tolerance](val_tests-tolerance.md).**
+|&thinsp;- [Loosing the `Assert`](tests-loose_assert.md) // umbrella topic\
+|&thinsp;-&thinsp;- **Gradual assert interlaces with [evaluation tolerance](tests-value_tolerance.md).**
 
 ___________\
 🔚 ...2024-2026.. <samp><b>B</b>ytesHausmeister</samp> <sub>Collage credit: screenshot of Visual Studio 2022; [HBO mini-series](https://m.imdb.com/title/tt7366338/), 2019</sub>

@@ -1,43 +1,44 @@
-# P<samp>rog Tests</samp> &nbsp;&mdash;&nbsp; Loosing the `Asserts`
+<h1 align="center">P<samp>rog Tests</samp> &nbsp;&mdash;&nbsp; &Lscr;oosing the <code>Assert</code>s</h1>
 
-> ## We are accustomed to thinking of proofs in categorical conditions, which a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
-> ## And such _truth telling_ is based, at first sight: 
+> ## We are accustomed to thinking of proofs (not only software tests) in categorical conditions that a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
+ 
+## Such _truth telling_ is based, at first sight&nbsp;...<br />&nbsp; <sup><samp>...&nbsp; but life scenarios will defy the "black-and-white" postulate.</samp></sub>
 
-<details><summary><h3><ins><code>5x5</code> will be <code>25</code> (not `25.000'001`), but...</h3></ins></summary>
+### ✔️ $5*5$ must be $25$ and not $25.000'000'000'001$ but&nbsp;...
 
-1/900    floating logic error
+&hellip;&nbsp;not excact for infinite fractions as $1/9$, fundamental problems of [floating-point calc](https://en.wikipedia.org/wiki/Floating-point_arithmetic#Accuracy_problems)<sup><b>W</b></sup>. Or, metaphorically, $3.14$ is enough for your **$π$** without further overcalculations.
 
-__________</details>
+### ✔️ the longest <kbd>password</kbd> must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, ⟨š">_diactrics_</span> in every char, but&nbsp;...
 
-1/0--
+&hellip;&nbsp;CAPTCHAs and grammar checkers aren't that strict.
+ 
+### ✔️ a UI element can be either **visible** or not but&nbsp;...
 
-* the longest <kbd>password</kbd> or _token_ must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, ⟨š">_diactrics_</span> in every char, CAOTCHA
-* a UI element can be either **visible** or not RAZLICHINYI POP
+&hellip;&nbsp;elements can be faded, hidden, or unloaded.
 
-&thinsp;&mdash;&thinsp; but enough life scenarios will defy the "black-and-white" postulate.
+<h2 align="center">🏀Let's take a sports break to 💡spark the imagination:🎯</h2>
 
-Let's take a sports break to compare and SPARK the imagination:
+### 🏀 points[^1] are added when the basketball's center crosses the hoop from above &thinsp;&mdash;&thinsp; a&nbsp;definite `true` or `false` but&nbsp;&hellip;
 
-&nbsp; 🏀 One point (2 or 3) is added when the basketball's center crosses the hoop (from above) &thinsp;&mdash;&thinsp; a definite `true` or `false`.\
-**but**\
-&nbsp; 🎯 the picture of an archery target alone must LOOSEN such evaluation:
+[^1]: One, two, or three, depending on the distance of the throw and the game situation.
 
 <table><tr valign="top"><td>
 <picture><img alt="&nbsp; Archery target with arrors" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/illus/_sports/archery_pixabay.com_christianplass.png" /></picture>
 </td><td>
 
+## Archery may serve as the best slack example.
+
 ### Except for the _golden 10_<sup>✔️</sup> and _out_<sup>❌</sup>, everything else is relative.
 
 To make things more tangled, there could be different bows, distances, and even winds and illumination in open-air tournaments, impacting the result. 
 
-### Besides precision, there's [accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision).
+### Besides precision, there's [accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision)<sup>W</sup>. 
+
+### In our test patchwork it translates to:
+
++ ### [**Graduality**](tests-gradual_assert.md)
++ ### [**Tolerance**](tests-value_tolerance.md)
 
 </td></tr></table>
 
-The designated issues can now branch and take forms in
-
-+ [**Graduality**](tests-gradual_assert.md)
-+ [**Tolerance**](tests-value_tolerance.md)
-+ _something else coming later_
-
-<div align="right">___________<br />🔚 .. 2025-2026.. (image credit: christianplass on pixabay.com)</div>
+🔚 <samp>.. 2025-2026.. (image credit: christianplass on pixabay.com)</samp>
