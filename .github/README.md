@@ -38,9 +38,10 @@
 |&thinsp;- &thinsp;<b>P&thinsp;a&thinsp;t&thinsp;c&thinsp;h-/&thinsp;F&thinsp;r&thinsp;a&thinsp;m&thinsp;e&thinsp;w&thinsp;o&thinsp;r&thinsp;k</b><br />
 |&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-sources.md">S&thinsp;o&thinsp;u&thinsp;r&thinsp;c&thinsp;i&thinsp;n&thinsp;g</a><br />
 |&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-cut_feeds.md">F&thinsp;e&thinsp;e&thinsp;d&nbsp; &nbsp;e&thinsp;x&thinsp;p&thinsp;a&thinsp;n&thinsp;s&thinsp;i&thinsp;on&nbsp; &nbsp;c&thinsp;u&thinsp;t</a><br />
-|&thinsp;-&thinsp;- <a href="../README+/tests/README+/tests-loose_assert.md">L&thinsp;o&thinsp;o&thinsp;s&thinsp;i&thinsp;n&thinsp;g&nbsp; &nbsp;t&thinsp;h&thinsp;e &nbsp;<code><b>Assert</b></code></a><br />
-|&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-errors.md">E&thinsp;r&thinsp;r&thinsp;o&thinsp;r&thinsp;s</a><br />
+|&thinsp;-&thinsp;- <a href="../README+/tests/README+/tests-loose_assert.md">L&thinsp;o&thinsp;o&thinsp;s&thinsp;i&thinsp;n&thinsp;g&nbsp; &nbsp;t&thinsp;h&thinsp;e &nbsp;<code><b>ASSERT</b></code></a><br />
 |&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-syntax.md">S&thinsp;y&thinsp;n&thinsp;t&thinsp;a&thinsp;x &nbsp; b&thinsp;e&thinsp;t&thinsp;t&thinsp;e&thinsp;r</a><br />
+|&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-errors.md">E&thinsp;r&thinsp;r&thinsp;o&thinsp;r&thinsp;s</a><br />
+|&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-posers.md">P&thinsp;o&thinsp;s&thinsp;e&thinsp;r&thinsp;s</a><br />
 <br/><!--           P A R T S -->
 ◾ <b>P&thinsp;A&thinsp;R&thinsp;T&thinsp;S</b>&thinsp;📦<br />
 |&thinsp;- <a href="../README+/parts/_ext/ISie/README.md"><b>Ɪ&thinsp;S&thinsp;i&thinsp;e</b></a> extensions<br />
