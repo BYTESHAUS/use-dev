@@ -29,7 +29,7 @@
 ## &nbsp;
 
 > [!NOTE]
-> * "Patches" are embossed by `C#` and [NUnit](https://nunit.org/), but challenges and solutions are common for other languages and frameworks.
+> * These "patches" are embossed by `C#` and [NUnit](https://nunit.org/), but issues and their solutions are common across other languages/frameworks.
 > 
 > * _Unit Tests_ are only a slice of the test pyramid, but technically, they may serve other types and layers.<sup>🙋</sup>
 
