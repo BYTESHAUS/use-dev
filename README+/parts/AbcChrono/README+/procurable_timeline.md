@@ -1,8 +1,8 @@
-# A<samp>BC</samp>Chrono &thinsp;&mdash;&thinsp; Procurable and Dynamic Timeline
+# &Ascr;<samp>BC</samp>Chrono &thinsp;&mdash;&thinsp; Procurable and Dynamic Timeline
 
 ![Ignoramus et ignorabimus](https://img.shields.io/badge/ABC-Chrono-green)
 
-AbcChrono introduced the common idea of chronology and dates. Here, we will narrow the theme to an applicable and effective case.
+[AbcChrono](../README.md) introduced the common idea of chronology and dates. Here, we will narrow the theme to an applicable and effective case.
 
 ### Business days are an exact example of what we want. 
 
