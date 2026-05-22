@@ -1,4 +1,4 @@
-> ### Enough reasons speak for a new testing doctrine and a deep rework of test frameworks.<br />This is a serious and tremendous [CHALLENGE](https://github.com/byteshaus/read-write/tree/main/README+/software/_meta/notes/SaTaS/README.md), and to put it off, let's first mend what's reasonable.
+> ### Enough reasons speak for a new testing doctrine and a deep rework of test frameworks.<br />This is a serious and tremendous [CHALLENGE](https://github.com/byteshaus/read-write/tree/main/README+/_meta/software/notes/SaTaS/README.md), and to put it off, let's first mend what's reasonable.
 
 <table><tr valign="top"><td>
 <h3 align="center"><picture><img alt="&nbsp; TEST PATCH/FRAME WORK" src="../_rsc/img/labels/TestPatchFrameWork_h50px.jpg" /></picture></h1>
@@ -29,7 +29,7 @@
 ## &nbsp;
 
 > [!NOTE]
-> * "Patches" are embossed by `C#` and [NUnit](https://nunit.org/), but challenges and solutions are common for other languages and frameworks.
+> * These "patches" are embossed by `C#` and [NUnit](https://nunit.org/), but issues and their solutions are common across other languages/frameworks.
 > 
 > * _Unit Tests_ are only a slice of the test pyramid, but technically, they may serve other types and layers.<sup>🙋</sup>
 
