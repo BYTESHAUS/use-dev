@@ -1,10 +1,9 @@
 <h1 align="center">Tests<sub>🧪</sub> <samp><i>featuring</i></samp> ... tests<sup>🧪</sup></h1>
 
-NUnit is a conventional, reliable, and universal test framework, but like most FOSS, it has limited resources, and its contributors aren't obliged to any delivery.
+> ### `NUnit` is a conventional, reliable, and universal test framework, but like most FOSS, it has limited resources, and its contributors aren't obliged to any delivery.
 
-This project presents _prêt-à-porter_ testing goodies already running in test/demo projects of this solution (Tutti Frutti).
+### This project presents _prêt-à-porter_ testing goodies already running in test/demo projects of this _Tutti&nbsp;Frutti_ solution.
 
-**You are welcome to use them as well.**
 
 ## Attribute shortcuts
 
@@ -14,7 +13,7 @@ This project presents _prêt-à-porter_ testing goodies already running in test/
 
 ## Variable-like data sources
 
-Because of C# limitations, NUnit may specify only constants and literals in attributes. 
+Because of `C#` limitations, NUnit may specify only constants and literals in attributes. 
 The boilerplate and verbosity of variable/dynamic (run-time) datasources may be annoying and involve much _Repeat Yourself_.
 
 The alternative in [DataOutsourcing](DataOutsourcing) must be shorter, more explicit, and with some auto-discovery. 
@@ -37,7 +36,7 @@ Error = DivideByZero => MyMath.DivideBy(0.00);
 > [!WARNING]
 > <samp>EXPERIMENTAL</samp> syntax on questionable premises.
 > 
-> It's not a replacement of NUnit but some sugar for rapid prototyping and demos.
+> It's not a replacement for NUnit but some sugar for rapid prototyping and demos.
 
-\___________\
-🔚 2025 ..
+___________\
+🔚 2025-2026 ..
