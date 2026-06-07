@@ -1,4 +1,4 @@
-# Programmatic Tests and Frameworks &nbsp;&mdash;&nbsp; .&thinsp;.&thinsp;.
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture>Frameworks &nbsp;&mdash;&nbsp; .&thinsp;.&thinsp;.
 
 <h3 align="center"><blockquote>Tests must prove that expected exceptions are fired. This chapter IS NOT about this.</blockquote></h3>
 
