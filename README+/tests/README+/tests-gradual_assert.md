@@ -1,4 +1,4 @@
-# Prog Tests &nbsp;<samp>&mdash;</samp>&nbsp; _&Lscr;oose `Assert`_ &nbsp;<samp>&mdash;</samp>&nbsp; Graduality
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture> _Loose `Assert`_ &nbsp;<samp>&mdash;</samp>&nbsp; Graduality
 
 <table><tr valign="top"><td width="40%"><picture><img alt="&nbsp;Passed🟩: 388, failed🟥: 165. Not great, not terrible." 
  src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/memes/Tests-NotGreatNotTerrible.jpg" /></picture>
