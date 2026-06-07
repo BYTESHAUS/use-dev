@@ -1,4 +1,4 @@
-# `Programmatic Tests` &nbsp;&mdash;&nbsp; Syntax improvement
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture>Syntax Improvement
 
 Testing writings must meet tougher requirements than the code they prove: 🅰️ be more readable (since they provide entry to the logic and shall be readable for readers ) and **B** be really compact (test coverage is SURPLUS by nature).
 
