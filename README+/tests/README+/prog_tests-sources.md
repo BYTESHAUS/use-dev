@@ -1,4 +1,4 @@
-# Programmatic Tests &nbsp;&mdash;&nbsp; Data (Out)Sourcing
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture>Data (Out)Sourcing
 
 When applicable (i.e. almost everywhere), data is an integral part of the test plot. Many take integral too lierally and define it just inline.
 
