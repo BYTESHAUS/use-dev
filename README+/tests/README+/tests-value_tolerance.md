@@ -1,4 +1,4 @@
-# Prog Tests &nbsp;<samp>&mdash;</samp>&nbsp; _&Lscr;oose `Assert`_ &nbsp;<samp>&mdash;</samp>&nbsp;  Value Tolerance
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture> _Loose `Assert`_ &nbsp;<samp>&mdash;</samp>&nbsp;  Value Tolerance
 
 <table><tr><td><a href="tests-loose_assert.md"><img alt="&nbsp; LOOSE ASSERT" src="../../_rsc/img/_nav/tiles/test/assert_art.jpg" /></a>
 </td><td>
