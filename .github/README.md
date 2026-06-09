@@ -5,8 +5,10 @@
             <!-- F R A M E S  /  R U L E S --!>
 <details><summary><ins>&thinsp;<b>F&thinsp;r&thinsp;a&thinsp;m&thinsp;e&thinsp;s</ins>&thinsp;,<ins>&nbsp; g&thinsp;u&thinsp;i&thinsp;d&thinsp;e&thinsp;l&thinsp;i&thinsp;n&thinsp;e&thinsp;s</b>&thinsp;</ins></summary>
 |&thinsp;-&thinsp;-&nbsp;📖&thinsp;<a href="../README+/frames"><i>&thinsp;I&thinsp;n&thinsp;t&thinsp;r&thinsp;o&thinsp;</i></a><br />
-|&thinsp;-&thinsp;- <a href="../README+/frames/README+/reinforced_inheretance.md">"&thinsp;V&thinsp;e&thinsp;r&thinsp;t&thinsp;i&thinsp;c&thinsp;a&thinsp;l &nbsp; l&thinsp;o&thinsp;g&thinsp;i&thinsp;c&thinsp;"</a><br />
-|&thinsp;-&thinsp;- <a href="../README+/frames/README+/calls_on_null.md">C&thinsp;a&thinsp;l&thinsp;l&thinsp;s&nbsp; &nbsp;o&thinsp;n&nbsp; &nbsp;n&thinsp;u&thinsp;l&thinsp;l</a><br />            
+|&thinsp;-&thinsp;- <a href="../README+/frames/README+/reinforced_inheretance.md">"&thinsp;V&thinsp;e&thinsp;r&thinsp;t&thinsp;i&thinsp;c&thinsp;a&thinsp;l &nbsp; r&thinsp;e&thinsp;b&thinsp;a&thinsp;r&thinsp;s&thinsp;"</a><br />
+|&thinsp;-&thinsp;- <a href="../README+/frames/README+/calls_on_null.md">C&thinsp;a&thinsp;l&thinsp;l&thinsp;s&nbsp; &nbsp;o&thinsp;n&nbsp; &nbsp;n&thinsp;u&thinsp;l&thinsp;l</a><br />
+|&thinsp;-&thinsp;- 🚧&thinsp;N&thinsp;e&thinsp;a&thinsp;t &nbsp; s&thinsp;i&thinsp;g&thinsp;n&thinsp;a&thinsp;t&thinsp;u&thinsp;r&thinsp;e&thinsp;s<br />
+|&thinsp;-&thinsp;- 🚧&thinsp;B&thinsp;u&thinsp;g&thinsp;-&thinsp;a&thinsp;d&thinsp;v&thinsp;e&thinsp;r&thinsp;s&thinsp;e &nbsp; s&thinsp;y&thinsp;n&thinsp;t&thinsp;a&thinsp;x
 </details>
             <!-- TECHNIQUE / PATTERN --!>
 <details><summary><ins><b>T&thinsp;e&thinsp;c&thinsp;h&thinsp;n&thinsp;i&thinsp;q&thinsp;u&thinsp;e&thinsp;s&thinsp;/&thinsp;P&thinsp;a&thinsp;t&thinsp;t&thinsp;e&thinsp;r&thinsp;n&thinsp;s</b></ins>
