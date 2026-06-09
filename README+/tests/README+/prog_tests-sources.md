@@ -1,6 +1,6 @@
-# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture>Data (Out)Sourcing
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&thinsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture>&thinsp;Data (Out)Sourcing
 
-When applicable (i.e. almost everywhere), data is an integral part of the test plot. Many take integral too lierally and define it just inline.
+When applicable (i.e., almost everywhere), data is an integral part of the test plot. Many take integral too literally and define it just inline.
 
 > **Data is hydraulic liquid of tests**.
 > or Asserts are hydraulic liquid of test data?
