@@ -1,6 +1,22 @@
-# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture>Syntax Improvement
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&thinsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture>&thinsp;Syntax Improvement
 
-Testing writings must meet tougher requirements than the code they prove: 🅰️ be more readable (since they provide entry to the logic and shall be readable for readers ) and **B** be really compact (test coverage is SURPLUS by nature).
+> ### Tests must meet tougher syntaсtic requirements than code they prove:
+> ### 🧾 more readable
+> (since they provide entry to the logic and shall be readable for readers ) and
+> ### 🗜️ highly compact
+> (test coverage is SURPLUS by nature).
+> ### more hierarchical, shared and normalized 
+> (as derivative of _highly compact_ requirement)
+> ### 🔬 written more accurately and reliable
+> since we won't write tests of tests.
+
+THE Only exception are HIGH-LEVEL TDDesign scripts
+
+Over-language syntax is responsible for the firts TWO and INFLUENCEs the last
+
+THE FIRST TWO AR THE ULTIMATE CHALLGNED for [D<samp>AMP</samp> not D<samp>RY</samp>](https://github.com/BYTESHAUS/read-write/blob/main/README+/software/tests/asQA/README+/tests-damp_vs_dry.md)
+
+SELF TESTING FRAMEWORK?
 
 The number of test frameworks is big and growing. I can't speak for all but the syntax of many orients to [DAMP](https://github.com/BYTESHAUS/read-write/blob/main/README+/software/tests/asQA/README+/tests-damp_vs_dry.md)).
 
