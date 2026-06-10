@@ -1,11 +1,14 @@
 
-### Techniques &nbsp;&mdash;&nbsp; Boilerplate, Scaffolding, wire...
+# Techniques &nbsp;&mdash;&nbsp; Boilerplate, Scaffolding, wire...
 
 NOT ONLY BOILERPLAT but SOUND ! [quality&nbsp;code](https://github.com/BYTESHAUS/read-write/blob/main/README+/software/QA/code_quality/README.md)
 
 🚧 PLACEHOLDER
 
 ### BADGE: DEP-CY INVER -- Collection numbering on demand 🚧
+
+
+PICTURE OF LINE !!!
 
 
 <table><tr valign="top"><td width="33%">
