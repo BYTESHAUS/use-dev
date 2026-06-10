@@ -1,4 +1,4 @@
-# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture>Loosing the <code>Assert</code>s
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&thinsp;" src="https://github.com/byteshaus/read-write/blob/main/README+/_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture>&thinsp;Loosing the <code>Assert</code>s
 
 > ## We are accustomed to thinking of proofs (not only software tests) in categorical conditions that a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
  
