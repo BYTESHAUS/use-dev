@@ -1,5 +1,5 @@
 
-# Techniques &nbsp;&mdash;&nbsp; Boilerplate, Scaffolding, wire...
+# Techniques &nbsp;&mdash;&nbsp; &Bscr;oilerplate, &Sscr;caffolding, &Wscr;iring ...
 
 NOT ONLY BOILERPLAT but SOUND ! [quality&nbsp;code](https://github.com/BYTESHAUS/read-write/blob/main/README+/software/QA/code_quality/README.md)
 
@@ -8,12 +8,12 @@ NOT ONLY BOILERPLAT but SOUND ! [quality&nbsp;code](https://github.com/BYTESHAUS
 ### BADGE: DEP-CY INVER -- Collection numbering on demand 🚧
 
 
-PICTURE OF LINE !!!
+PICTURE OF QUEUE PENDING!!!
 
 
 <table><tr valign="top"><td width="33%">
 
-Let's imagine a collection and one of its usual "derivative" - the sequence number of item. 
+Let's imagine a collection and one of its usual "derivatives" - the sequence number of the item. 
   
 </td><td width="33%">
 
