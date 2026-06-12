@@ -1,7 +1,7 @@
 
 # Techniques &nbsp;&mdash;&nbsp; &Bscr;oilerplate, &Sscr;caffolding, &Wscr;iring ...
 
-NOT ONLY BOILERPLAT but SOUND ! [quality&nbsp;code](https://github.com/BYTESHAUS/read-write/blob/main/README+/software/QA/code_quality/README.md)
+NOT ONLY BOILERPLAT but SOUND ! [quality&nbsp;code](https://github.com/BYTESHAUS/read-write/blob/main/README+/software/QA//README+/code-quality.md)
 
 🚧 PLACEHOLDER
 
