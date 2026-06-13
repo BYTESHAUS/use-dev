@@ -10,11 +10,11 @@ bar.DoSomething();
 Console.WriteLine("now you see me");
 ```
 
-**.**&thinsp;**.**&thinsp;**.**&nbsp;**but** certain languages can do the trick. For **`C#`** example, [extension methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>🪟</sup> (and since Apr/2025 [properties](https://github.com/dotnet/roslyn/issues/11159)<sup>:octocat:</sup>).
+**.**&thinsp;**.**&thinsp;**.**&nbsp;**but** certain languages can do the trick. For **`C#`** example, [extension methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>🪟</sup> (and since Apr/2025 [properties](https://github.com/dotnet/roslyn/issues/11159)<sup><samp>:octocat:</samp></sup>).
 
 ## Use or abuse?
 
-Continuation on `null` may be scarier than [its billion-dollar mistake](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/pencraft/README%2B/essays/README+/catch()/NullRefError.md) ... **unless** the semantics and job <ins>after the dot</ins> assume this `null`:
+Continuation on `null` may be scarier than [its billion-dollar mistake](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_meta/software/takes/NullRefError.md) ... **unless** the semantics and job <ins>after the dot</ins> assume this `null`:
 
 ```csharp
 void IsExtensionsDemo(string? title, N? id, Book? book) where N : INumber<N> {
