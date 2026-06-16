@@ -31,11 +31,11 @@
     
   When you prefer to explore without guidance, just add
     
-  ### [<ode>using ISie</code>](../../../../src/TuttiFrutti/ISie)
-  
-  and let IntelliSense help you!</p>
+ <h3 align="center"><a href="../../../../src/TuttiFrutti/ISie"><code>using ISie</code></a></h3>
 
-  </td></tr><tr><td colspan="2" align="center">It's better to explore in Visual Studio 2022 or another compatible IDE.</td></tr></table>
+<div align="right">and let IntelliSense help you!</div>
+
+</td></tr><tr><td colspan="2" align="center">It's better to explore in Visual&nbsp;Studio&nbsp;2026 or another compatible IDE.</td></tr></table>
 
 <h3 align="center">... narattive resumed ⏯️</h3>
 
@@ -81,7 +81,7 @@ This feature launched
 + 🗣️&thinsp;tongues categorization in [Abc Lingua](../../../../src/TuttiFrutti/AbcLingua),
 + 🪫&thinsp;[Circuitry](../../../techniques/README+/circuitry) (as a pattern via techniques),
 + 🏗️&thinsp;[Code wizards](../../../../src/TuttiFrutti/WizConstr/README.md),
-+ 🧪&thinsp;[Assert shortcuted to assign](../../../../src/TuttiFrutti/FeatTest/AssertByAssign)
++ 🧪&thinsp;[`Assert` simplified to assign](../../../../src/TuttiFrutti/FeatTest/AssertByAssign)
 
-\___________\
+___________\
 🔚 .. <samp>🐝🐝 <code>OR</code> ❗too 🐝</samp> ... 🌘 **2025-2026..** <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-but_common-orangered.svg?logo=cshrp&logoColor=white&color=turquose)](#)</sub>
