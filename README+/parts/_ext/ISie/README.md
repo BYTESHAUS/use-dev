@@ -41,7 +41,7 @@
 
 ## Why `.Not.`?
 
-If it's just <code>❗subj.Is...</code>. The answer is "**to discern**" &thinsp;&mdash;&thinsp; surrounding symbols may shade subtle `!`. 
+If it's just <code>❗subj.Is...</code>. The answer is "**to discern**" &thinsp;&ndash;&thinsp; surrounding symbols may shade subtle `!`. 
 (**C#** itself offers `is not`.)
 
 It's up to you which lexis to pick in **each** case.
@@ -84,4 +84,4 @@ This feature launched
 + 🧪&thinsp;[Assert shortcuted to assign](../../../../src/TuttiFrutti/FeatTest/AssertByAssign)
 
 \___________\
-🔚 .. <samp>🐝🐝 <code>OR</code> ❗too 🐝</samp> ... 🌘 **2025-2026..** <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-but_for_all-orangered.svg?logo=cshrp&logoColor=white&color=turquose)](#)</sub>
+🔚 .. <samp>🐝🐝 <code>OR</code> ❗too 🐝</samp> ... 🌘 **2025-2026..** <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-but_common-orangered.svg?logo=cshrp&logoColor=white&color=turquose)](#)</sub>
