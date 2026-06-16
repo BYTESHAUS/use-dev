@@ -1,4 +1,4 @@
-# MVVM &nbsp;&mdash;&nbsp; Model <i>&</i> ViewModel cohesion
+# &Mopf;&Vopf;&Vopf;&Mopf; &nbsp;&mdash;&nbsp; &Mopf;odel <i>&</i> &Vopf;iew&Mopf;odel cohesion
 
 ## Classic aggregation
 
