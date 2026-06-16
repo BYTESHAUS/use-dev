@@ -13,6 +13,7 @@
             <!-- TECHNIQUE / PATTERN --!>
 <details><summary><ins><b>T&thinsp;e&thinsp;c&thinsp;h&thinsp;n&thinsp;i&thinsp;q&thinsp;u&thinsp;e&thinsp;s&thinsp;/&thinsp;P&thinsp;a&thinsp;t&thinsp;t&thinsp;e&thinsp;r&thinsp;n&thinsp;s</b></ins>
 &nbsp; &nbsp; &nbsp; &nbsp; </summary>
+|&thinsp;-&thinsp;- 🚧S&thinsp;c&thinsp;a&thinsp;f&thinsp;f&thinsp;o&thinsp;l&thinsp;d&thinsp;i&thinsp;n&thinsp;g<br />
 |&thinsp;-&thinsp;- <a href="/README+/techniques/README+/polymorphism+/README.md">P&thinsp;o&thinsp;l&thinsp;y&thinsp;m&thinsp;o&thinsp;r&thinsp;p&thinsp;h&thinsp;i&thinsp;s&thinsp;m&thinsp;<sup>➕</sup></a><br />
 |&thinsp;-&thinsp;- <a href="/README+/techniques/README+/lurk_init.md">"L&thinsp;u&thinsp;r&thinsp;k&thinsp;i&thinsp;n&thinsp;g"&nbsp; &nbsp;i&thinsp;n&thinsp;i&thinsp;t</a><br />
 |&thinsp;-&thinsp;- <a href="/README+/techniques/README+/narrowing/README.md">"N&thinsp;a&thinsp;r&thinsp;r&thinsp;o&thinsp;w&thinsp;i&nbsp;n&nbsp;g"</a><br />
@@ -34,7 +35,7 @@
 |&thinsp;- 🚧Models on T-R/W<br />
 |&thinsp;- Motley heap&thinsp;&rarr;&thinsp;<a href="../src/TuttiFrutti/AbcStructTests/Heaps"><i>tests</i></a>🧪<br />
 |&thinsp;- <b>W&thinsp;P&thinsp;F</b><br />
-|&thinsp;-&thinsp;- <a href="../src/TuttiFrutti/WinClay/Converters/bool2viz_improved.md">Bool-Vis. converter</a><sup>improved</sup><br />
+|&thinsp;-&thinsp;- <a href="../src/TuttiFrutti/WinClay/Converters/bool2viz_improved.md">Bool-Vis. converter</a><sup>💫improved</sup><br />
 <br /><!--               T E S T I N G   --!>
 ◾ <b>T<samp>&thinsp;E&thinsp;S&thinsp;T&thinsp;I&thinsp;N&thinsp;G</samp></b><br />
 |&thinsp;- &thinsp;<b>P&thinsp;a&thinsp;t&thinsp;c&thinsp;h-/&thinsp;F&thinsp;r&thinsp;a&thinsp;m&thinsp;e&thinsp;w&thinsp;o&thinsp;r&thinsp;k</b><br />
