@@ -1,8 +1,8 @@
-# P<samp>atterns _via_ Techniques:</samp> Object-oriented C<samp>IRCUITRY</samp>
+# <sup>Patterns _via_ Techniques:</sup> Object-oriented C<samp>IRCUITRY</samp>
 
-> ### __«C<samp>IRCUITRY</samp>» as an idea is better presented by _inductive reasoning_ &thinsp;&mdash;&thinsp; from a case below.__
+> ### «C<samp>IRCUITRY</samp>» as an idea is better presented by _inductive reasoning_ &thinsp;&ndash;&thinsp; from a case below.
 
-<div>Consider a bundle of interlaced "<i>either</i>"-functions:</div>
+<div><b>Consider a bundle of interlaced "<i>either</i>"-functions:</b></div>
 <div align="right"><sub><i>C#-like pseudo-code for brevity</i></sub></div>
 
 ```csharp
@@ -20,7 +20,7 @@ class Is {
 
 ... and there's a demand for these functions as **`neither`**.
 
-When there's no magic out-of-the-hat<sup>🪄</sup> _Boolean Inverter_ a predictable realization will be a wrapper:
+When there's no magic out-of-the-hat<sup>🪄</sup> _Boolean Inverter_ a predictable **realization will be a wrapper**:
 
 ```csharp
 class Not : Is {
@@ -48,7 +48,7 @@ class Identity : Is<Wire>; // repeats <code>Is</code>
 
 ```
 
-This simplest _unary boolean_ has four variants, and with two practical may be a surplus **but** other types with more than one operand will reveal an enormous space of ... 
+This simplest _unary boolean_ has four variants, and with two of them practical may be a surplus, **but** other types with more than one operand will reveal an enormous space of ... 
 
 <h2 align="center">... opportunities, to propose a few:</h2>
 
@@ -114,12 +114,12 @@ This must be the most powerful and controversial proposition.
   <p>You may have already grasped the similarities of the proposed solution to electric and electronic circuits and boards.</p>
   <ul>
   <li><code>Booleans</code> match logic gates .</li>
-  <li><code>Numbers</code> &mdash; digital circuits.</li>
+  <li><code>Numbers</code> &ndash; digital circuits.</li>
    <li><code>string</code> and classes are analogue electronics.</li>
   </ul>
   <p>Generic "markup" is like plugging elements on IO or onto circuits of a functional plate: direct, chaining, cascading, ...</p>
 
-Classes are PLATES to make BOARDS.
+`Classes` are <samp>PLATES</samp> to make <samp>BOARDS</samp>.
   
   <p>And the running code is the current. Great, we are back to the roots (of machine language).</p>
 </td>
@@ -130,7 +130,7 @@ Classes are PLATES to make BOARDS.
 
 🧩 Both dis- and advantage is that it's an <samp>EXPERIMENTAL</samp> feature.
 
-✅ **First of all**, the split of design in a good way - as a "side" abstraction or a "lane" of logics.
+✅ **First of all**, the split of design in a good way - as a "side" abstraction or a "lane" of logic.
 
 ✅It goes hand in hand with generic parametrization.
 
