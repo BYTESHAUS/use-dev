@@ -1,10 +1,10 @@
-# MVVM &nbsp;&mdash;&nbsp; Orchestration of notifications
+# &Mopf;&Vopf;&Vopf;&Mopf; &nbsp;&mdash;&nbsp; Orchestration of notifications
 
-WPF built-in [DataContext](https://learn.microsoft.com/dotnet/desktop/wpf/data/how-to-specify-the-binding-source)<sup>🪟</sup> has only to raise `PropertyChanged`<sup>:raising_hand:</sup> with the name of the item, whose value bound elements must re-evaluate.\
-&nbsp; &nbsp; <sup>:raising_hand:</sup>&nbsp;<samp>'Changed' deceives, since it's the most suitable cause but not the essence of the event.</samp>
+WPF built-in [DataContext](https://learn.microsoft.com/dotnet/desktop/wpf/data/how-to-specify-the-binding-source)<sup>🪟</sup> only has to raise `PropertyChanged`<sup>:raising_hand:</sup> with the name of the item, whose value bound elements must re-evaluate.\
+&nbsp; &nbsp; <sup>:raising_hand:</sup>&nbsp;<samp><code>Changed</code> deceives &ndash; it's the most suitable cause but not the essence of the event.</samp>
 
 WPF developers must know the easy [Microsoft recipe](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/data/how-to-implement-property-change-notification)<sup>🪟</sup>: `set {field = value; OnPropertyChanged();}`. 
-It's enough for flat, unsophisticated forms, but mundane tasks meet ...
+It's enough for flat, unsophisticated forms, but **mundane tasks meet**:
 
 * tied and calculated values,
 * groups and hierarchies of cross-dependent ViewModels, 
@@ -28,7 +28,9 @@ ________________________________________________________________________________
     
 ________________________________________________________________________________________ </details>
 
-"Chips" (logical units) shall encapsulate notification logarithms, providing calls to them. How they will be coded: aggregation, injection, or inheritance is a matter of taste and technique. As a variant, they may implement:
+"Chips" (logical units) shall encapsulate notification logic/algorithms for groups of "signals", providing shared/dependent calls to them. How they will be coded: aggregation, injection, or inheritance, &thinsp;&ndash;&thinsp; is a matter of taste and technique. 
+
+As a variant, this may implement a kind of:
 
 ```csharp
 interface IOrchestrating
@@ -36,21 +38,22 @@ interface IOrchestrating
     void Notify([CallerMemberName] string caller = "<n/a>");
     void MassNotify();
     Predicate<string> NameFilter { get; set; }
+    // ...
 }
 ```
 
-Besides the order, such an approach will add up the next possibilities:
+**Besides the order, such an approach will add up to the next possibilities:**
 
 + optimization (e.g., blackout notifications for hidden UI parts or for testing of layout),
-+ straight "hot swap" of notification schemes (either preprogrammed or in runtime),
++ straight "hot swap" of notification schemes (either preprogrammed or at runtime),
 + hooks for tracing, logging, whatever.
 
 ## Commands and messages
 
-* Organization of [WPF commands](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/commanding-overview)<sup>🪟</sup> may follow the same idea, but they are easier and it's enough to pack commands in corresponding sub-ViewModels, while `CanExecute` properties may be orchestrated.
+* Organization of [WPF commands](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/commanding-overview)<sup>🪟</sup> may follow the same idea, but they are easier, and it's enough to pack commands in corresponding sub-ViewModels, while `CanExecute` properties may be orchestrated.
 * Usual MVVM messaging, either custom or out-of-the-box, is based on properties.
 
-## More for notification, but irrelevant to the idea
+## More for notification, but irrelevant to this idea
 
 There are other ways to improve notification and its realization, but they aren't orchestration:
 
@@ -59,4 +62,4 @@ There are other ways to improve notification and its realization, but they aren'
 + [Model & ViewModel cohesion](mvvm-vmodel_cohesion.md)
 
 ___________\
-🔚 🌕 2023-2026.. image credit: bigmessowires.com
+🔚 🌕 2023-2026.. images credit: bigmessowires.com
