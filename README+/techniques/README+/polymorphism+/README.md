@@ -1,10 +1,10 @@
- # OOP _and_ Polymorphism&thinsp;<sup>🔨<i>EXPANDED</i></sup></h1>
+# OOP _and_ Polymorphism&thinsp;<sup>🔨<i>EXPANDED</i></sup></h1>
 
-> ### Two of the four pillars beneath object-oriented programming are plain: <mark><samp>ENCAPSULATION</samp></mark> and <mark><samp>INHERITANCE</samp></mark> (you&nbsp;can't misinterpret these two).
+> ### Two of the four pillars beneath object-oriented programming are plain: <mark><samp>ENCAPSULATION</samp></mark> and <mark><samp>INHERITANCE</samp></mark> (you can't misinterpret these two).
 
-### <mark><samp>ABSTRACTION</samp></mark> is abstract by definition, but doesn't need much portrayal.<br />It is the essence of thinking and programming: object-oriented or not.
+### <mark><samp>ABSTRACTION</samp></mark> is abstract by definition, but doesn't asl for portrayal.<br />It is the essence of thinking and programming: object-oriented or not.
 
-### But vague <span title="&nbsp;&thinsp; Greek:&#013;&#010&nbsp;πολύ&nbsp;&nbsp;&mdash;&nbsp;&nbsp;many&#013;&#010&nbsp;μορφ&nbsp;&nbsp;&mdash;&nbsp;&nbsp; form"><ins><mark>&thinsp;<samp>POLYMORPHISM</samp></mark></ins></span> has many forms of "many forms"<sup>☁️</sup>:
+### But vague <span title="&nbsp;&thinsp; Greek:&#013;&#010&nbsp;πολύ&nbsp;&nbsp;&mdash;&nbsp;&nbsp;many&#013;&#010&nbsp;μορφ&nbsp;&nbsp;&mdash;&nbsp;&nbsp; form"><ins><mark>&thinsp;&Pscr;<samp>&0scr;LYMORPHISM</samp></mark></ins></span> has many forms of "many forms"<sup>☁️</sup>:
 
 + **subtypes** &thinsp;&mdash;&thinsp; an outcome of inheritance,
 + **parametric** &thinsp;&mdash;&thinsp; as generics in C++, Python, Java, or C#,
@@ -16,6 +16,6 @@
 
 \___________\
 &nbsp; &nbsp; &nbsp; <sup>☁️</sup> <samp>Polymorphism _Greek_: πολυ&thinsp;=&thinsp;many, μορφή &thinsp;=&thinsp;form.</samp>\
-&nbsp; &nbsp; &nbsp; <sup>❗</sup> <samp>When not type-loose casting to dynamic objects.</samp>
+&nbsp; &nbsp; &nbsp; <sup>❗</sup> <samp>But not type-loose casting to dynamic objects.</samp>
 
 <div align="right">🔚 2025-2026..</div>

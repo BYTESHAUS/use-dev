@@ -31,17 +31,17 @@
     
   When you prefer to explore without guidance, just add
     
-  ### [<ode>using ISie</code>](../../../../src/TuttiFrutti/ISie)
-  
-  and let IntelliSense help you!</p>
+ <h3 align="center"><a href="../../../../src/TuttiFrutti/ISie"><code>using ISie</code></a></h3>
 
-  </td></tr><tr><td colspan="2" align="center">It's better to explore in Visual Studio 2022 or another compatible IDE.</td></tr></table>
+<div align="right">and let IntelliSense help you!</div>
+
+</td></tr><tr><td colspan="2" align="center">It's better to explore in Visual&nbsp;Studio&nbsp;2026 or another compatible IDE.</td></tr></table>
 
 <h3 align="center">... narattive resumed ⏯️</h3>
 
 ## Why `.Not.`?
 
-If it's just <code>❗subj.Is...</code>. The answer is "**to discern**" &thinsp;&mdash;&thinsp; surrounding symbols may shade subtle `!`. 
+If it's just <code>❗subj.Is...</code>. The answer is "**to discern**" &thinsp;&ndash;&thinsp; surrounding symbols may shade subtle `!`. 
 (**C#** itself offers `is not`.)
 
 It's up to you which lexis to pick in **each** case.
@@ -81,7 +81,7 @@ This feature launched
 + 🗣️&thinsp;tongues categorization in [Abc Lingua](../../../../src/TuttiFrutti/AbcLingua),
 + 🪫&thinsp;[Circuitry](../../../techniques/README+/circuitry) (as a pattern via techniques),
 + 🏗️&thinsp;[Code wizards](../../../../src/TuttiFrutti/WizConstr/README.md),
-+ 🧪&thinsp;[Assert shortcuted to assign](../../../../src/TuttiFrutti/FeatTest/AssertByAssign)
++ 🧪&thinsp;[`Assert` simplified to assign](../../../../src/TuttiFrutti/FeatTest/AssertByAssign)
 
-\___________\
-🔚 .. <samp>🐝🐝 <code>OR</code> ❗too 🐝</samp> ... 🌘 **2025-2026..** <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-but_for_all-orangered.svg?logo=cshrp&logoColor=white&color=turquose)](#)</sub>
+___________\
+🔚 .. <samp>🐝🐝 <code>OR</code> ❗too 🐝</samp> ... 🌘 **2025-2026..** <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-but_common-orangered.svg?logo=cshrp&logoColor=white&color=turquose)](#)</sub>

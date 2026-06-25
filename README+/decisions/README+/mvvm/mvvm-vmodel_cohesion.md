@@ -1,10 +1,10 @@
-# MVVM &nbsp;&mdash;&nbsp; Model <i>&</i> ViewModel cohesion
+# &Mopf;&Vopf;&Vopf;&Mopf; &nbsp;&mdash;&nbsp; &Mopf;odel <i>&</i> &Vopf;iew&Mopf;odel cohesion
 
 ## Classic aggregation
 
 As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern)<sup>🪟</sup> suggest ViewModels will usually straightforwardly aggregate Models:
 
-<details><summary><ins>&nbsp;<b>Example: Book with Editor VM - sketch</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Example: Book with Editor VM &thinsp;&ndash;&thinsp; sketch</b>&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp

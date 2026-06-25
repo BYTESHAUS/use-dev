@@ -4,6 +4,5 @@
 
 Albeit .NET inclined, they can be followed in other general-purpose high-level languages, even ALGOL. (That was the intention.)
 
-___________\
-📂&thinsp;[**R&thinsp;E&thinsp;A&thinsp;D&thinsp;M&thinsp;E&thinsp;+**](README+)
+&rArr;📂&thinsp;[**R&thinsp;E&thinsp;A&thinsp;D&thinsp;M&thinsp;E&thinsp;+**](README+)
 <div align="right">🔚</div>
