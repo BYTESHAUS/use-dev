@@ -1,10 +1,8 @@
-﻿# <samp>Code construction</samp> &nbsp; &mdash; &nbsp; Wizard blocks
+﻿# <sup>СODE CONSTRUCTION</sup> &nbsp; Wizard blocks
 
 > **The challenge of this project is covered in ["constructive" discussion](../../../README+/techniques/README+/builders/README.md).**
 
-
 MAKE THREE PRYAMIDES OR MERMAID DIAGRAM : THEORY - DOCU - TESTS - PRJ 
-
 
 > [!IMPORTANT]
 >  #### This writing is now <samp>DRAFT</samp> **but not** <samp>DEBRIS</samp> &thinsp;&mdash;&thinsp; its project implementation is experimental but working (already tested and applied).
@@ -62,5 +60,5 @@ Loose coupling - min data xfer:\
 
 🚧 TO BE WRITTEN
 
-___________\
-🔚 🌕 2025..2026 ..
+<div align="right">___________<br />
+<samp>🌕 2025-2026..</samp>🔚</div>
