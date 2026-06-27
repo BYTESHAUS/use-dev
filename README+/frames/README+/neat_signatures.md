@@ -1,13 +1,12 @@
 # Quality Code &thinsp;&rarr;&thinsp; Neat Signatures
 
-> ### Signatures are the Achilles' heel of the coherent design. They often remain the last to clean and organize.<br />When applies they are often contrary to object-oriented paradigms
+> ### Signatures remain the Achilles' heel of the coherent design. They are often the last to clean and organize.<br />When applies they are often contrary to object-oriented paradigms.
 
 - ### Poor readability
 
 ```csharp
 
 authors.Add("John", "Smith");
-
 
 ```
 
@@ -30,7 +29,15 @@ Rich Return
 
 ## SOLUTIONS
 
-NAMED ARGS
+### No argument -> no challenge
+
+Pros:
+
+Contras:
+
+this stikes out `out` and 'ref' for the return
+
+### NAMED ARGS
 
 CAPSULATION (yeah here the OOD is lost)
 
