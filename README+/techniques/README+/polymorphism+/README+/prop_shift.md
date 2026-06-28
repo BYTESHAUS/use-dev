@@ -2,11 +2,11 @@
 
 <table><tr><td>
 
-> ### The best evolutionary paradigm of OOP is directly mapping real-life things or abstractions,  their structures, and collections onto code objects.
+> ### The best evolutionary principle of OOP is directly mapping real-life things or abstractions, their structures, and collections onto code objects.
 
 Object-oriented languages offer common paradigms with specific means and techniques to fine-tune or expand them.
 
-Such customization traditionally involves classes and methods, while properties conceal even more potential. Next, we will bundle disparate **`C#`** techniques for _properties shifting_.
+Such customization traditionally involves classes and methods, while **properties** conceal even more potential. Next, we will bundle disparate **`C#`** techniques for _properties shifting_.
 
 </td><td>
  <picture><img alt="&nbsp;Shape shifter pic" title="The Catman of Paris as&#013;&#010;a shape shifter species" 
@@ -38,7 +38,7 @@ something unwelcome and to be replaced with other techniques}}
 ```
 
 <p align="right"><sup>⭐</sup> <samp>While your job is to define these operators.</samp><br />
-<b>**</b> <samp>More techniques can be added later.</samp></p>
+<b><mark>**</mark></b> <samp>More techniques can be added later.</samp></p>
 
 Let's keep a _**book**_ as a convenient sample of our survey. It has a title, author(s), ID(s), publishing agent, year, and tongue, and other traits. 
 If some of them _shift_, as proposed below, then the inheritance approach will break on combinatory explosion.
@@ -79,8 +79,8 @@ Properties can't be generic like methods, but class generics can specify their _
 
 For example, there are two formats of ISBN or none; the author's birth can be known as an exact date, but for Homer, it's _circa_ 8th century BCE. 
 
-Book authors may have dissimilar name patterns (even the Western can differ). 
-An abstract can be some plain text or reference to an audio snippet.
+Book authors may have dissimilar name patterns (even Western names format can differ). 
+An abstract can be some plain text or a reference to an audio snippet.
 
 ```csharp
 
@@ -114,14 +114,14 @@ Application logic will require differing access exposure of items: between full-
 And they all may not rest on the single inheritance axis as these:
 
 * new: all fields are open to edit (`get` / `init`)
-* edit statuses, digest, last printed and reviews: (`get` / `set`)
+* edit statuses, digest, last printed, and reviews: (`get` / `set`)
 * listing: all fields are for viewing (`get` only)
 
 Sample implementation can or shall be based on the previous `<T>`-technique as in [Annotated R/W](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/AbcModels/Bits/Reviewed/IAnnotated.cs)
 
 ## Implicit overload of the <samp>assignment</samp> operator
 
-If previous techniques deal with compatible (casted/inherited) interfaces, the overloaded `=` allows to cast non-castable. 
+If previous techniques deal with compatible (casted/inherited) interfaces, the overloaded `=` allows casting the non-castable. 
 Technically not, but logically compatible models will require this technique. As well, it can be particularly useful for _foreign_ entities, which you can't "cross-interface".
 
 ## Wrap-up
@@ -130,9 +130,9 @@ These techniques allow the creation of fluctuating but compatible models. It's n
 
 ## Appendix. Realization ideas
 
-The easiest way is to have the "full open" class or few and render them through the set of interfaces. Or dynamic code generation &mdash; now much more facilitated by Roslyn.
+The easiest way is to have the "full open" class or a few and render them through the set of interfaces. Or dynamic code generation &mdash; now much more facilitated by Roslyn.
 
 We can't escape making the number of interfaces, which equals the required combinations, but the technique matters. In too explosive scenarios, they could be auto-generated (e.g., T4 templates).
 
 ___________\
-<sup>🌘 2023-2026.. (image credit for shape shifter: the poster fragment of "The Catman of Paris", 1946, dir. Lesley Selander)</sup>
+<sup>🌘 2023-2026.. (image credit for shape shifter: the poster fragment of "The Catman of Paris", 1946, dir. Lesley Selander)</sup>🔚
