@@ -1,9 +1,9 @@
-<h1 align="center">Wizards&thinsp;/&thinsp;Builders&thinsp;/&thinsp;Factories &nbsp;&mdash;&nbsp; <i>"Constructive"discussion</i></h1>
+<h1 align="center">&Wscr;izards&thinsp;/&thinsp;&Bscr;uilders&thinsp;/&thinsp;&Fscr;actories &nbsp;&larr;&nbsp; <i>"Constructive"discussion</i></h1>
 
-> ### Genuine **`builders`/`wizards`** are not only for chained calls, coding convenience, and mistake-proof input. And not only far advanced Intellisense but ...
+> ### Genuine **`builders`/`wizards`** are not limited to chained calls, coding convenience, and mistake-proof input. Not advanced Intellisense but ...
 > <h3 align="center">Scripting meta-language as an alternative design paradigm (not simple patterns).</h3>
 > &nbsp;
-> ;<b>BUILDERS</b>&thinsp;»&thinsp;</ins> are both <samp>GRAPH COMPLEXITY</samp> and <samp>EXPONENTIAL <b>DISASTER</samp></b>&thinsp; in less or strongly-typed languages.
+> However <b>BUILDERS</b>&thinsp;&thinsp;</ins> are both <samp>GRAPH COMPLEXITY</samp> and <samp>EXPONENTIAL <b>DISASTER</samp></b>&thinsp; in less or strongly-typed languages.
 
 Only the theoretical overcomplexity of being an uncompromising language feature or library, and the heavy practical overhead of endeavors, made them exotic in our projects.
 
