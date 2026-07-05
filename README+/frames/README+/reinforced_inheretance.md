@@ -1,11 +1,11 @@
 # Vertical rebars &thinsp;`==`&thinsp; Reinforced inheritance _or_ Logic flow
 
-<table><tr></tr><tr><td>☝️</td><td>
+<table align="center"><tr></tr><tr><td>☝️</td><td>
   This frame isn't a rule of thumb but a proposal for our consideration in matching circumstances.
 </td></tr></table>
 
 <table><tr valign="top">
-<td width="40%"><picture><img src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/photo/misc/rebar_closeup.jpg" alt="&nbsp;rebar closeup" title="&nbsp;Image credit: Wiki Commons&#013;&#010;(for illustration purposes only)" /></picture></td><td>
+<td width="40%"><picture><img src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/photo/build/rebar_closeup.jpg" alt="&nbsp;rebar closeup" title="&nbsp;Image credit: Wiki Commons&#013;&#010;(for illustration purposes only)" /></picture></td><td>
   
  <ins>&nbsp;Consider the following approach:&nbsp;</ins>
   <ol>
@@ -46,11 +46,11 @@ Besides discipline, order, and readability, this frame makes classes friendly to
 
 ## Contraindications
 
-🐋 It will be a surplus for simple `classes`, shallow logic, or short methods.
+&nbsp; 🐘 This framing will be a surplus for simple `classes`, shallow logic, or short methods.
 
-🔴 The logic of implementation may be too ornate for straight frames.
+&nbsp; 🔴 The logic of implementation may be too ornate for straight frames.
 
-🖖🏾 It's not friendly to the distinct functional approach to implementation.
+&nbsp; 🖖🏾 It's not friendly to the distinct functional approach to implementation.
 
 \___________\
 🔚 🌘 <samp><b>B</b>yteshausmeister</samp> ..2024-2026..
