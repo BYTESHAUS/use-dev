@@ -1,6 +1,6 @@
 # `Calls` that legally run on `null`
 
-This snippet must be a blunder and doomed to throw `NullReference`&nbsp;**.**&thinsp;**.**&thinsp;**.**
+This snippet must be a blunder and destined to throw `NullReference`&nbsp;**.**&thinsp;**.**&thinsp;**.**
 
 ```csharp
 var bar = new Bar();
@@ -26,14 +26,14 @@ void IsExtensionsDemo(string? title, N? id, Book? book) where N : INumber<N> {
 
     book.IsNullOrDefault();
 
-  //Everything else up to your fantasy
+  // Anything else up to your fantasy
 }
 ```
 
 ### References of use
 
 + [<samp>⭐<b>ISie</b>⭐</samp>&nbsp; extensions](../../parts/_ext/ISie/README.md) checks run on nullable things,
-+ your features in any languages.
++ your features in any language.
 
-___________\
-🔚 .. 2024-2026.. 🌛 <samp><b>B</b>yteshausmeister</samp>
+<div align="right">___________<br />
+🌛 <samp>.. 2024-2026.. <b>B</b>yteshausmeister</samp>🔚</div>
