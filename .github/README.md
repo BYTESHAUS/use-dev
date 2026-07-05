@@ -61,7 +61,7 @@
   <table><tr align="center">
      <td>          <!--    I S i e     --!>
       <a href="../README+/parts/_ext/ISie/README.md"><img src="../README+/_rsc/img/_nav/tiles/ISie_highlight-200px.png" alt="&nbsp; ⭐I&nbsp;S&thinsp;i&thinsp;e⭐&nbsp; &nbsp;"/>
-      <br /><b>Ɪ&thinsp;S&thinsp;<samp>IE</samp>&nbsp;&thinsp;extensions</b></a>
+      <br /><b><mark>Ɪ&thinsp;S&thinsp;<samp>IE</samp></mark>&nbsp;&thinsp;extensions</b></a>
      </td>
     <td>             <!--    C I R C U I T R Y     --!>
       <a href="../README+/techniques/README+/circuitry/README.md"><img src="../README+/_rsc/img/_nav/tiles/Circuitry_bw-200px.png" alt="&nbsp;Object-oriented Circuitry"/>
