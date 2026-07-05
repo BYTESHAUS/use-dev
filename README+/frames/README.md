@@ -1,8 +1,8 @@
-# Frames, Guidelines, and Rules
+<h1 align="center">Frames, Guidelines, and Rules</h1>
 
 <table><tr valign="center"><td width="40%">
-    <picture><img alt="&nbsp;pouring concrete into rebar formwork" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/photo/misc/pour_concrete-meme.jpg" /></picture>
-  </td><td>
+    <picture><img alt="&nbsp; Pouring concrete into the rebar formwork" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/photo/build/pour_concrete-meme.jpg" /></picture>
+</td><td>
 
 > ### The expanse between <mark>architectural/design</mark> decisions and <mark>implementation</mark> unties programming hands to code a feature in multiple variations.
 
