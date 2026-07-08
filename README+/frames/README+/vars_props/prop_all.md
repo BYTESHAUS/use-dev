@@ -14,7 +14,7 @@ class Book {
 
 ## Backing field
 
-In C# the implementation can be facilitated by `field` but it's pending two releases.
+**C#** 14 or later has [`field`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/field) which facilitates coding of properties.
 
 
 🔚
