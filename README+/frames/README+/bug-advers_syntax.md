@@ -14,6 +14,10 @@ SPACES, dubious symbols
 
 OCCASIONAL CHANGE OF LITERALS
 
+UNSEALED CONSTANTS
+
+One time setting = not in all languages
+
 # Errors
 
 Errors throwing errors: e.g., unlimited string injection
@@ -29,9 +33,11 @@ ADD Null badge
 `Null` _vs._ `empty` collection is a dubioisity while the only apparent exercise of the [null setting](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_meta/software/takes/NullRefError.md) would be to complicate checks and debugging.
 
 🚫 Never declare an uninitialized collection.\
-🚫 Never set collection to null 
+🚫 Never set a collection to null 
 
 ## Preventing occasional change 
+
+Besides limiting
 
 ### "jagged" INTERFACES segregation: READ / INIT / WRITE
 
