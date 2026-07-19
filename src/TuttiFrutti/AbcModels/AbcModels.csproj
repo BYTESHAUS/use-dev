@@ -11,6 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.OpenApi" Version="3.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\AbcChrono\AbcChrono.csproj" />
     <ProjectReference Include="..\Abc\Abc.csproj" />
   </ItemGroup>

@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.OpenApi" Version="3.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\AbcDataOps\AbcDataOps.csproj" />
     <ProjectReference Include="..\AbcRefl\AbcRefl.csproj" />
     <ProjectReference Include="..\AbcStuff\AbcStuff.csproj" />

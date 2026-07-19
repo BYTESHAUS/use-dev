@@ -12,6 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.OpenApi" Version="3.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Abc.Coll\Abc.Coll.csproj" />
     <ProjectReference Include="..\Abc.Prop\Abc.Item.csproj" />
   </ItemGroup>
