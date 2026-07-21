@@ -48,11 +48,11 @@
 <br/><!--           P A R T S -->
 ◾ <b>P&thinsp;A&thinsp;R&thinsp;T&thinsp;S</b>&thinsp;📦<br />
 |&thinsp;- <a href="../README+/parts/_ext/ISie/README.md"><b>Ɪ&thinsp;S&thinsp;i&thinsp;e</b></a> extensions<br />
-|&thinsp;- <a href="../README+/parts/AbcChrono">Chrono ABC</a><br />
+|&thinsp;- <a href="../README+/parts/AbcChrono/README.md">Chrono ABC</a><br />
 |&thinsp;- <b>F&thinsp;u&thinsp;n&thinsp;c&thinsp;w&thinsp;a&thinsp;r&thinsp;e</b><br />
 |&thinsp;-&thinsp;- Conversion&thinsp;&rarr;&thinsp;<a href="../src/TuttiFrutti/ExtensionsTests/Exceptions">tests</a>🧪</br />
-|&thinsp;- 🐝<a name="UVal" href="../README+/parts/MultifacetVal"><b>Multifacet value</b></a> (<b>Π</b>-Val)<br />
-|&thinsp;- 🚧<a href="../README+/parts/Rvrs">Undo/Redo</a> (Reversible)<br />
+|&thinsp;- 🐝<a name="UVal" href="../README+/parts/MultifacetVal/README.nd"><b>Multifacet value</b></a> (<b>Π</b>-Val)<br />
+|&thinsp;- 🚧<a href="../README+/parts/Rvrs/README.md">Undo/Redo</a> (Reversible)<br />
 <br/><!--           F R O N T E N D -->
 ◾ <b>F&thinsp;r&thinsp;o&thinsp;n&thinsp;t&thinsp;e&thinsp;n&thinsp;d</b>&thinsp;🪟<br />
  &thinsp;- 📝 front-back impedance
