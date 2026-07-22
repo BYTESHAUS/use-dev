@@ -51,7 +51,7 @@
 |&thinsp;- <a href="../README+/parts/AbcChrono/README.md">Chrono ABC</a><br />
 |&thinsp;- <b>F&thinsp;u&thinsp;n&thinsp;c&thinsp;w&thinsp;a&thinsp;r&thinsp;e</b><br />
 |&thinsp;-&thinsp;- Conversion&thinsp;&rarr;&thinsp;<a href="../src/TuttiFrutti/ExtensionsTests/Exceptions">tests</a>🧪</br />
-|&thinsp;- 🐝<a name="UVal" href="../README+/parts/MultifacetVal/README.nd"><b>Multifacet value</b></a> (<b>Π</b>-Val)<br />
+|&thinsp;- 🐝<a name="UVal" href="../README+/parts/MultifacetVal/README.md"><b>Multifacet value</b></a> (<b>Π</b>-Val)<br />
 |&thinsp;- 🚧<a href="../README+/parts/Rvrs/README.md">Undo/Redo</a> (Reversible)<br />
 <br/><!--           F R O N T E N D -->
 ◾ <b>F&thinsp;r&thinsp;o&thinsp;n&thinsp;t&thinsp;e&thinsp;n&thinsp;d</b>&thinsp;🪟<br />
@@ -104,4 +104,4 @@
  <td><picture><img alt="&nbsp;BYTESHAUS" src="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/_rsc/_img/logo/byteshaus/vert/basic-v1500px.jpg" /></picture></td>     
 </tr></table>
 
-<samp>INSTALLATION</samp>: Clone, copy, or download `src`, and open the solution in Microsoft Visual Studio
+<samp>INSTALLATION: Clone, copy, or download `src`, and open the solution in [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/) or other IDE.</samp>
