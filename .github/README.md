@@ -47,7 +47,7 @@
 |&thinsp;-&thinsp;- <a href="../README+/tests/README+/prog_tests-posers.md">P&thinsp;o&thinsp;s&thinsp;e&thinsp;r&thinsp;s</a><br />
 <br/><!--           P A R T S -->
 ◾ <b>P&thinsp;A&thinsp;R&thinsp;T&thinsp;S</b>&thinsp;📦<br />
-|&thinsp;- <a href="../README+/parts/_ext/ISie/README.md"><b>Ɪ&thinsp;S&thinsp;i&thinsp;e</b></a> extensions<br />
+|&thinsp;- <a href="../README+/parts/extensions/ISie/README.md"><b>Ɪ&thinsp;S&thinsp;i&thinsp;e</b></a> extensions<br />
 |&thinsp;- <a href="../README+/parts/AbcChrono/README.md">Chrono ABC</a><br />
 |&thinsp;- <b>F&thinsp;u&thinsp;n&thinsp;c&thinsp;w&thinsp;a&thinsp;r&thinsp;e</b><br />
 |&thinsp;-&thinsp;- Conversion&thinsp;&rarr;&thinsp;<a href="../src/TuttiFrutti/ExtensionsTests/Exceptions">tests</a>🧪</br />
@@ -60,7 +60,7 @@
 </td><td> 
   <table><tr align="center">
      <td>          <!--    I S i e     --!>
-      <a href="../README+/parts/_ext/ISie/README.md"><img src="../README+/_rsc/img/_nav/tiles/ISie_highlight-200px.png" alt="&nbsp; ⭐I&nbsp;S&thinsp;i&thinsp;e⭐&nbsp; &nbsp;"/>
+      <a href="../README+/parts/extensions/ISie/README.md"><img src="../README+/_rsc/img/_nav/tiles/ISie_highlight-200px.png" alt="&nbsp; ⭐I&nbsp;S&thinsp;i&thinsp;e⭐&nbsp; &nbsp;"/>
       <br /><b><mark>Ɪ&thinsp;S&thinsp;<samp>IE</samp></mark>&nbsp;&thinsp;extensions</b></a>
      </td>
     <td>             <!--    C I R C U I T R Y     --!>
