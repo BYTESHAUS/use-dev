@@ -2,8 +2,8 @@
 <!--      O R G    --!>
 ◾ <b>O&thinsp;R&thinsp;G</b><br />
 |&thinsp;- <a title="&nbsp;&lArr;read-write article" href="https://github.com/BYTESHAUS/read-write/blob/main/README+/.net/README+/cs-hints.md">&thinsp;<b>C#</b>&nbsp; h&thinsp;i&thinsp;n&thinsp;t&thinsp;s&thinsp;</a><br />
-            <!-- F R A M E S  /  R U L E S --!>
-<details><summary><ins>&thinsp;<b>F&thinsp;r&thinsp;a&thinsp;m&thinsp;e&thinsp;s</ins>&thinsp;,<ins>&nbsp; g&thinsp;u&thinsp;i&thinsp;d&thinsp;e&thinsp;l&thinsp;i&thinsp;n&thinsp;e&thinsp;s</b>&thinsp;</ins></summary>
+            <!-- F R A M E S  /  G U I D E S  /  G U A R D S  --!>
+<details><summary><ins>&thinsp;<b>G&thinsp;u&thinsp;i&thinsp;d&thinsp;e&thinsp;s</ins> & <ins>&thinsp;g&thinsp;u&thinsp;a&thinsp;r&thinsp;d&thinsp;s</b>&thinsp;</ins></summary>
 |&thinsp;-&thinsp;-&nbsp;📖&thinsp;<a href="../README+/frames"><i>&thinsp;I&thinsp;n&thinsp;t&thinsp;r&thinsp;o&thinsp;</i></a><br />
 |&thinsp;-&thinsp;- <a href="../README+/frames/README+/reinforced_inheretance.md">"&thinsp;V&thinsp;e&thinsp;r&thinsp;t&thinsp;i&thinsp;c&thinsp;a&thinsp;l &nbsp; r&thinsp;e&thinsp;b&thinsp;a&thinsp;r&thinsp;s&thinsp;"</a><br />
 |&thinsp;-&thinsp;- 🚧&thinsp;N&thinsp;e&thinsp;a&thinsp;t &nbsp; s&thinsp;i&thinsp;g&thinsp;n&thinsp;a&thinsp;t&thinsp;u&thinsp;r&thinsp;e&thinsp;s<br />
