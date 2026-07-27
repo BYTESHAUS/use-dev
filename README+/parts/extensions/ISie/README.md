@@ -9,7 +9,7 @@
 
 **The crossover of the next two `C#` discoveries**
 
-<div>&nbsp; &nbsp; ✔️ &thinsp;legit <a href="../../../frames/README+/calls_on_null.md">calls on null</a>&thinsp;,</div>
+<div>&nbsp; &nbsp; ✔️ &thinsp;legit <a href="../../../techniques/README+/calls-on-null.md">calls on null</a>&thinsp;,</div>
 <p>&nbsp; &nbsp; ✔️ &thinsp;<a href="https://github.com/dotnet/roslyn/issues/11159">proposal</a> of extension properties</p>
 <div>suggested me to shortcut ubiquitous </div>
   <div align="center"><code>string.IsNullOrWhiteSpace(<i>abracadabra</i>)</code><br />into<br /><code><i><b>abracadabra</b></i>.IsNullOrWhitespace</code>,<br />
