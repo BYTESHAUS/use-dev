@@ -32,7 +32,7 @@ void IsExtensionsDemo(string? title, N? id, Book? book) where N : INumber<N> {
 
 ### References of use
 
-+ [<samp>⭐<b>ISie</b>⭐</samp>&nbsp; extensions](../../parts/_ext/ISie/README.md) checks run on nullable things,
++ [<samp>⭐<b>ISie</b>⭐</samp>&nbsp; extensions](../../parts/extensions/ISie/README.md) checks run on nullable things,
 + your features in any language.
 
 <div align="right">___________<br />
