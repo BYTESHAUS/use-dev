@@ -53,7 +53,7 @@ Loose coupling - min data xfer:\
 
 ## Application
 
-* [⭐**ISie**⭐](../../../README+/parts/_ext/ISie/README.md)
+* [⭐**ISie**⭐](../../../README+/parts/extensions/ISie/README.md)
 * Yours coming
 
 ## Bottom line
