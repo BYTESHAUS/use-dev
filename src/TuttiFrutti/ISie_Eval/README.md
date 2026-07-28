@@ -5,7 +5,7 @@
 
 The code here demonstrates and tests the ⭐**I&thinsp;S&thinsp;i&thinsp;e**⭐ extensions of C# built-in and custom types.
 
-[Introduction](../../../README+/parts/_ext/ISie/)
+[Introduction](../../../README+/parts/extensions/ISie/)
 
 </td></tr></table>
 
