@@ -79,7 +79,7 @@
                                         </tr><tr></tr><tr align="center">
     <td>             <!--    C H R O N O     --!>
       <a href="../README+/parts/AbcChrono/README.md"><img src="../README+/_rsc/img/_nav/tiles/Chrono_bw-200px.jpg" alt="&nbsp;Chronology lib"/>
-      <br /><b>ABC CHRONO</b></a>
+      <br /><b>&Ascr;&Bscr;&Cscr; Chrono</b></a>
     </td>
     <td>             <!--     M U L T I F A C E T    --!>
       <a href="../README+/parts/MultifacetVal/README.md"><img src="../README+/_rsc/img/_nav/tiles/U-Val_bw-200px.png" alt="&nbsp;Multifacet value"/>
