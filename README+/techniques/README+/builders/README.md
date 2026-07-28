@@ -40,7 +40,7 @@ However, are there custom applications for which it wouldn't be a "mega-engineer
 
 Meanwhile, some construction techniques are there:\
 |- [<b>Code Wizard blocks</b>](../../../../src/TuttiFrutti/WizConstr/README.md)\
-|- [ISie extensions](../../../parts/_ext/ISie/README.md), which rest on these blocks\
+|- [ISie extensions](../../../parts/extensions/ISie/README.md), which rest on these blocks\
 |- [AbcChrono](../../../parts/AbcChrono) // is made up of building scripts
 
 
