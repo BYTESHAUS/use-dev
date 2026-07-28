@@ -156,7 +156,7 @@ Design-first will create a test structure that is friendly for exploring and int
 
 ## Appendix. Implementation cases
 
-* [⭐**ISie**⭐](../../../parts/_ext/ISie/README.md) and WizConstr
+* [⭐**ISie**⭐](../../../parts/extensions/ISie/README.md) and WizConstr
 
 ___________\
 🔚 🌘  <samp>2024-2026..<b>B</b>yteshausMeister</samp>
