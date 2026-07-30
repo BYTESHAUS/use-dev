@@ -1,6 +1,6 @@
-# `C#` &thinsp;&mdash;&thinsp; &Uscr;nblocking the Downcasting
+# `C#` &thinsp;&mdash;&thinsp; Unblocking the Downcasting
 
-> 🔤 **Primer**: Always draw a base (parent) class in UML **over** one derived from it, for an explicit view of up- and downcasting.
+> ❕**Sidenote**: Always draw a base (parent) class in UML **over** one derived from it, for an explicit view of up- and downcasting.
 
 Contrary to carefree **up**casting `C#` will prevent assigning a pure base class with any derived (downcast), even when there's no piece of extension there.
 
