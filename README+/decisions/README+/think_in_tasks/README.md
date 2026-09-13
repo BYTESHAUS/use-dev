@@ -1,8 +1,4 @@
-# Thinking in time &thinsp;&mdash;&thinsp; Task as a model, Promise as a value, and Input as a pipe 
-
-See appendices.
-
-RxJS, RxJS ///////////////////////////////////////////////////
+<h1 align="center">THINKING <samp>IN</samp> TIME<br /><i>Task</i> as a model, <i>Promise</i> as a value, and <i>Input</i> as a pipe</h1>
 
 > ### Many tailored and most well-known templates/paradigms, such as <samp><b>MVC</b></samp>, <samp><b>MVP</b></samp>, <samp><b>MVVM</b></samp>, <samp><b>MV<i>W</i></b></samp>[hatever], <samp><b>POCO</b></samp>, and custom solutions rest on [models](https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/design/parts/README+/app-model.md)<sup>⬅️</sup>. (Which do not except trash code?)<br />
 > #### Where developers bind presentations, actions, and messages to values/properties/callbacks. 
@@ -12,9 +8,9 @@ RxJS, RxJS ///////////////////////////////////////////////////
 It treats models as snapped in a moment when every property is known, and their statuses are final: 
 as values can be predictably (pre)set/reset, or coded in a time slot, imperceptible to users or insignificant for hardware/software clients. 
 
-<h3 align="center">However</h3>
+<h2 align="center">However</h2>
 
-BETTER PIC REQUIRED !!
+🚧 BETTER PIC REQUIRED !!
 
 <table><tr valign="center"><td align="center" width="40%"><picture><img src="../../../_rsc/img/illus/TaskAsModel_deco.png" alt="&nbsp; Layers delayed communication" /></picture></td><td>
 <div>Domain <b>and</b> IT realities are not always under the best of circumstances and meet:</div>
