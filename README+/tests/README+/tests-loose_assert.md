@@ -2,13 +2,13 @@
 
 > ## We are accustomed to thinking of proofs (not only software tests) in categorical conditions that a subject either meets<sup>✔️</sup> or misses<sup>❌</sup>. 
  
-## Such _truth telling_ is based, at first sight&nbsp;...<br />&nbsp; <sup><samp>...&nbsp; but life scenarios will defy the "black-and-white" postulate.</samp></sub>
+## Such _truth telling_ is based, at first sight&thinsp;&hellip;<br />&nbsp; <sup><samp>&hellip;&thinsp;but life scenarios will defy the "black-and-white" postulate.</samp></sub>
 
 ### ✔️ $5*5$ must be $25$ and not $25.000'000'000'001$ but&nbsp;...
 
 &hellip;&nbsp;not excact for infinite fractions as $1/9$, fundamental problems of [floating-point calc](https://en.wikipedia.org/wiki/Floating-point_arithmetic#Accuracy_problems)<sup><b>W</b></sup>. Or, metaphorically, $3.14$ is enough for your **$π$** without further overcalculations.
 
-### ✔️ the longest <kbd>password</kbd> must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, ⟨š">_diactrics_</span> in every char, but&nbsp;...
+### ✔️ the longest <kbd>password</kbd> must exactly match alphabets, upper/lower, and <span title="&nbsp;ä à ō ỏ ç ș εͅ, š">_diactrics_</span> in every char, but&nbsp;...
 
 &hellip;&nbsp;CAPTCHAs and grammar checkers aren't that strict.
  
@@ -16,9 +16,9 @@
 
 &hellip;&nbsp;elements can be faded, hidden, or unloaded.
 
-<h2 align="center">🏀Let's take a sports break to 💡spark the imagination:🎯</h2>
+<h2 align="center">Let's take a sports break to 💡spark the imagination:</h2>
 
-### 🏀 points[^1] are added when the basketball's center crosses the hoop from above &thinsp;&mdash;&thinsp; a&nbsp;definite `true` or `false` but&nbsp;&hellip;
+### 🏀 points[^1] are added when the basketball's center crosses the hoop from above &thinsp;&mdash;&thinsp; a&nbsp;definite `true` or `false` in this sport but&thinsp;&hellip;&thinsp;🎯
 
 [^1]: One, two, or three, depending on the distance of the throw and the game situation.
 
@@ -34,11 +34,11 @@ To make things more tangled, there could be different bows, distances, and even 
 
 ### Besides precision, there's [accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision)<sup>W</sup>. 
 
-### In our test patchwork it translates to:
+### In our test patchwork, it translates to:
 
 + ### [**Graduality**](tests-gradual_assert.md)
 + ### [**Tolerance**](tests-value_tolerance.md)
 
 </td></tr></table>
 
-🔚 <samp>.. 2025-2026.. (image credit: christianplass on pixabay.com)</samp>
+🔚 <samp>.. 2025-2026.. (image credit: <i>Christianplass</i> on pixabay.com)</samp>
