@@ -21,7 +21,7 @@
     <a href="README+/prog_tests-errors.md"><img alt="&nbsp; ERRORS" src="../_rsc/img/_nav/tiles/test/errors_art.jpg" /></a>
 </td>
 <td><!--                                                                                                 P O S E R S    --!>
-  <a href="README+/tests_posers.md"><img alt="&nbsp;POSERS" width="200px" src="../_rsc/img/_nav/tiles/test/posers_art.jpg" /></a>
+  <a href="README+/prog_tests-posers.md"><img alt="&nbsp;POSERS" width="200px" src="../_rsc/img/_nav/tiles/test/posers_art.jpg" /></a>
 </td>
 </tr><tr></tr><tr align="center" valign="bottom">
 <td colspan="3" align="right"><!--                                                                                                 R E A D / W R I T E    --!>
