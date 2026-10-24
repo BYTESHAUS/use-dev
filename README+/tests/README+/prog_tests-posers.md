@@ -13,6 +13,14 @@ HERE THE CASES WHICH HAV NO OR PARTIAL ONLY SOLUTION
 
 <h1 align="right">Headliner</h1>
 
+## Test dependencies
+
+When smth wrong in the test bed => don't run dependent tests. 🚧🚧
+
+## More categories
+
+Besides Not-run, result, ignored -> not applicable , ... 🚧
+
 ## False true
 
 > Debunking "silent" logical errors that don't affect success paths is **much more important** than discovering explicit errors (<s>users</s> testers will do &mdash; sorry for a dense gag).
