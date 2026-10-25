@@ -1,13 +1,13 @@
-<table align="center"><tr valign="top"><td><picture><img src="../../../_rsc/img/ISie.png" alt="&nbsp; I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture></td><td>
+<table align="center"><tr valign="center"><td><picture><img src="../../../_rsc/img/ISie.png" alt="&nbsp; I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture></td><td>
 
 <h1 align="center">⭐&thinsp;I&thinsp;S&thinsp;i&thinsp;e&thinsp;⭐</h1>
 
-<code>.Is.</code><sup>➕</sup> <samp>extensions</samp>
+## <code>.Is.</code><sup>➕</sup> <samp>extensions</samp>
 
 </td><td><picture><img src="../../../_rsc/img/_nav/tiles/ISieCircuitry_200px.png" alt="&nbsp;&nbsp;I&thinsp;S&thinsp;i&thinsp;e&nbsp;&nbsp;extensions"/></picture><br />
   <div align="center"><samp>use circuitry</samp></div></td></tr></table>
 
-**The crossover of the next two `C#` discoveries**
+The year 2025: **The crossover of the next two `C#` discoveries**
 
 <div>&nbsp; &nbsp; ✔️ &thinsp;legit <a href="../../../techniques/README+/calls-on-null.md">calls on null</a>&thinsp;,</div>
 <p>&nbsp; &nbsp; ✔️ &thinsp;<a href="https://github.com/dotnet/roslyn/issues/11159">proposal</a> of extension properties</p>
@@ -15,7 +15,7 @@
   <div align="center"><code>string.IsNullOrWhiteSpace(<i>abracadabra</i>)</code><br />into<br /><code><i><b>abracadabra</b></i>.IsNullOrWhitespace</code>,<br />
   which finally became<br /><code><i><b>abracadabra</b></i>.Is.NullEmptyOr.Whitespace</code>&thinsp;.</div>
 
-#### This wasn't a revolutionary hack to announce, won't it be a grounding stone for:
+#### This wasn't a revolutionary hack to announce, unless it became a grounding stone for:
 
 + Reconsideration of all available **`Is`**, **`To`**, **`Equal`**, ... methods of built-in types.
 + **Better syntax**: shorter, intuitive, and grouped,
