@@ -12,6 +12,10 @@ as values can be predictably (pre)set/reset, or coded in a time slot, impercepti
 
 🚧 BETTER PIC REQUIRED !!
 
+SIDE NOTE: asynchrony isn't a delay and is more sophisticated.\
+SIDE NOTE: one thread (using idle slots) vs. multiple.\
+
+
 <table><tr valign="center"><td align="center" width="40%"><picture><img src="../../../_rsc/img/illus/TaskAsModel_deco.png" alt="&nbsp; Layers delayed communication" /></picture></td><td>
 <div>Domain <b>and</b> IT realities are not always under the best of circumstances and meet:</div>
 <ul>
@@ -22,7 +26,7 @@ as values can be predictably (pre)set/reset, or coded in a time slot, impercepti
 </ul>
 <p>and any operation can break, fail, run out of time, or be suspended/canceled/restarted on both sides.</p>
 <p>Enough scenarios shall mock delays to catch user attention or show proof of work. For example:
-  <br>⏱️ Saving a giga-document, rebuilding a solution, or making a bank transaction can occur unnaturally instant, leaving users feeling it hasn't run.
+  <br>⏱️ Saving a giga-document, rebuilding a solution, or making a bank transaction can occur unnaturally instantly, leaving users feeling it hasn't run.
   <br>⏱️ There's a minimum span for a user to understand the pop-up message.
 </p>
 </td></tr></table>

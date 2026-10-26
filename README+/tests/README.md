@@ -20,9 +20,14 @@
 <td><!--                                                                                                     E R R O R S    --!>
     <a href="README+/prog_tests-errors.md"><img alt="&nbsp; ERRORS" src="../_rsc/img/_nav/tiles/test/errors_art.jpg" /></a>
 </td>
-<td><!--                                                                                                 R E A D / W R I T E    --!>
+<td><!--                                                                                                 P O S E R S    --!>
+  <a href="README+/prog_tests-posers.md"><img alt="&nbsp;POSERS" width="200px" src="../_rsc/img/_nav/tiles/test/posers_art.jpg" /></a>
+</td>
+</tr><tr></tr><tr align="center" valign="bottom">
+<td colspan="3" align="right"><!--                                                                                                 R E A D / W R I T E    --!>
   <a href="https://github.com/byteshaus/read-write/blob/main/README+/software/tests/README.md"><img alt="&nbsp;READ/WRITE&thinsp;&larr;&thinsp;USE/DEV" width="200px" src="../_rsc/img/_nav/tiles/read-write_use-dev_200px.png" /></a>
-</td></tr></table></td><td>
+</td>
+</tr></table></td><td>
 
 <div align="right"><h3><i><b>PATCH it if CAN'T<br />REFRAME or REWORK</b></i></h3></div>
 
