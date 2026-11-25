@@ -1,4 +1,4 @@
-# `Calls` that legally run on `null`
+# Calls <sup>that legally run</sup> on `null`
 
 This snippet must be a blunder and destined to throw `NullReference`&nbsp;**.**&thinsp;**.**&thinsp;**.**
 
@@ -10,7 +10,7 @@ bar.DoSomething();
 Console.WriteLine("now you see me");
 ```
 
-**.**&thinsp;**.**&thinsp;**.**&nbsp;**but** certain languages can do the trick. For **`C#`** example, [extension methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>🪟</sup> (and since Apr/2025 [properties](https://github.com/dotnet/roslyn/issues/11159)<sup><samp>:octocat:</samp></sup>).
+**.**&thinsp;**.**&thinsp;**.**&nbsp;**but** certain languages can do the trick. For **`C#`** example, [extension methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>🪟</sup> (and [properties](https://github.com/dotnet/roslyn/issues/11159)<sup><samp>:octocat:</samp></sup> since Apr/2025).
 
 ## Use or abuse?
 
